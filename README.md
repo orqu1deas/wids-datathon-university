@@ -4,115 +4,77 @@
 
 <h1 align="center">WiDS Datathon 2026 – Student Submission Template</h1>
 
-Welcome to your project workspace for the WiDS Datathon 2026! This repository serves as your final submission for grading and sharing. All analysis should be done in Google Colab, and your final results will be presented in a standalone slide deck.
+## Hybrid RAG + Enhanced Vulnerability Index for Wildfire Economic Resilience
 
----
+### Track Selection
 
-## Getting Started
-
-### 1. Clone or Fork this Repository
-Click the **Fork** button at the top-right of this page to create your own copy under your GitHub account.
-
-### 2. Edit the Notebook in Colab  
-Click below to open the notebook directly in Google Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebook.ipynb)
-
-- Do all data cleaning, EDA, modeling, and analysis in the notebook.  
-- Use Markdown cells to explain each step.
-
----
-
-## Problem Statement
-
-This year’s WiDS Datathon challenge offers **two powerful routes**. Each one addresses real-world problems caused by wildfires. Your team must choose **ONE** route and clearly indicate your choice in both your notebook and slide presentation.
-
----
-
-### 🔹 Route 1: Accelerating Equitable Evacuations
-
-**Core Question:**  
-*How can we reduce delays in evacuation alerts and improve response times for the communities that are most at risk?*
-
-This route focuses on analyzing how and when evacuation alerts are triggered — and how we can improve timeliness and fairness in communication, especially for vulnerable populations.
-
-**Suggested Starting Points:**
-- Compare `date_modified` and `effective` fields in WatchDuty to identify alert lags.
-- Integrate NOAA weather data (wind, humidity) to model fire spread and shrinking evacuation windows.
-- Map low-mobility zones (e.g. road access, car ownership) against health vulnerabilities (e.g. asthma, elderly population).
-- Build a risk surface using perimeter snapshots, alert timestamps, and report logs to assess delays.
-- Use `timestamp_reported` and classification reports to study "pending" alerts and delays.
-
-**Why this matters:**  
-Improved risk dashboards, real-time alerts, and support systems for people with disabilities, pets, or other special needs.
-
----
-
-### 🔹 Route 2: Designing for Economic Resilience
-
-**Core Question:**  
-*How can wildfire disruption analytics inform stronger economic safety nets for affected workers, families, and small businesses?*
-
-This route is about quantifying how wildfires affect employment, income, and tourism — and using that insight to design better protections for vulnerable communities.
-
-**Suggested Starting Points:**
-- Use `geo_event_type` and evacuation zones to estimate lost workdays and industry impact.
-- Overlay fire risk maps with labor statistics to simulate “fire leave” policy impacts.
-- Map wildfire frequency against Airbnb density and seasonal tourism data to assess local economic fragility.
-- Explore long-term effects like secondary illness, displacement, or financial strain.
-
-**Why this matters:**  
-Supports for gig workers, targeted aid for small businesses, and policy tools for economic recovery.
-
----
-
-**Clearly state your chosen route at the top of your notebook and slide deck.** Your work should combine **data analysis**, **modeling**, and **real-world relevance** to propose actionable insights.
+This project was developed under **Track 2: Designing for Economic Resilience**, which focuses on understanding and mitigating the economic consequences of wildfires. In particular, the objective is to support decision-making processes that contribute to preserving workdays, protecting wages, and improving the targeting of economic safety nets for vulnerable communities.
 
 ---
 
 ## Project Title & Team Info
 
 **Project Title**: _Your Title Here_  
-**Team Name**: _Your Team Name_  
-**University**: _Your University_  
-**Course**: _Course Name (e.g., Data Science Capstone)_  
-**Term**: _Quarter/Semester & Year_  
+**Team Name**: _SOLARA_  
+**University**: _Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM)_  
+**Course**: _Data Science & Mathematics_  
+**Term**: _6th Semester_
 
-**Team Members**:  
-- Name 1 (GitHub: [@username](https://github.com/username))  
-- Name 2  
-- Name 3  
-- Name 4  
+**Team Members**:
+
+- Kira Darian Gómez Pantoja
+- Juan Pablo Guerrero Escudero
+- Romina Nájera Fuentes
+- María José Ocharte Álvarez
+- Sergio Rock Arredondo
+- María José Zamora Gómez
+
+---
+
+## Project Overview
+
+Wildfires have evolved into a multidimensional challenge that extends beyond environmental damage and into significant economic disruption. Communities affected by wildfires often experience loss of income, reduced employment opportunities, and long-term financial instability. Despite the availability of extensive datasets, existing tools remain fragmented and insufficient for identifying which populations are most economically vulnerable.
+
+SOLARA addresses this gap by integrating heterogeneous data sources into a unified analytical framework. The system combines wildfire activity data, sociodemographic indicators, economic metrics, and climate variables to construct a comprehensive view of vulnerability. In addition, it incorporates a Hybrid Retrieval-Augmented Generation (Hybrid RAG) system that enables the integration of structured data with unstructured information such as policies and reports.
 
 ---
 
 ## Dataset Overview
 
-Summarize the datasets you used and how you processed them.
+The foundation of this project is built upon the Watch Duty wildfire dataset, which provides detailed geospatial and temporal information on wildfire activity across the United States. This dataset includes approximately 62,000 geo-referenced wildfire events and over 1,200 fire perimeters, offering a comprehensive representation of fire occurrence, progression, and spatial extent. :contentReference[oaicite:0]{index=0}
 
-- `infrastructure.csv`: Metadata and coordinates of infrastructure
-- `fire_perimeters.geojson`: Timestamped fire perimeter polygons
-- `evacuation_zones.csv`: (Optional) evacuation declarations
-- `watch_duty_change_log.csv`: Alerts and timestamps
-- (Optional) NOAA weather data or census data
+However, wildfire location alone does not fully capture the economic impact experienced by affected communities. To address this limitation, the dataset was enriched with additional data sources spanning four key domains: sociodemographic, economic, climatic, and document-based information.
 
-Mention any merging, filtering, or assumptions.
+Sociodemographic data were obtained from the U.S. Census Bureau, including variables such as population density, income per capita, education levels, disability prevalence, and insurance coverage. These variables provide insight into structural vulnerability and the capacity of communities to respond to and recover from wildfire events.
+
+Economic data were collected from the U.S. Census Bureau, the Bureau of Labor Statistics, and the USDA, incorporating indicators such as poverty rates, household income, employment conditions, and rural-urban classification. These variables are critical for understanding the economic fragility of different regions and their resilience to disruption.
+
+Climate data were integrated from sources such as NASA POWER and Open-Meteo, including temperature, precipitation, relative humidity, wind conditions, and drought indices. These variables capture environmental conditions that influence wildfire intensity and spread.
+
+Additionally, a corpus of legally scraped documents was constructed, including wildfire-related policies, insurance frameworks, community reports, and news articles. This unstructured data component supports the Hybrid RAG system, enabling the retrieval of contextual and policy-relevant information.
+
+All datasets were harmonized at the county level, which serves as the primary spatial unit of analysis. Temporal alignment was also performed to reconcile differences in data frequency, including yearly, monthly, and weekly observations. This harmonization process ensures consistency across sources and enables the integration of heterogeneous data into a unified analytical framework.
+
+The resulting dataset is multi-source, multi-dimensional, and designed to support both quantitative modeling and qualitative information retrieval. As highlighted in the technical pitch, this integrated data landscape allows the system to move beyond isolated analyses and instead provide a cohesive understanding of wildfire exposure, economic vulnerability, and recovery capacity. :contentReference[oaicite:1]{index=1}
 
 ---
 
 ## Approach
 
-Explain your full workflow:
-- Preprocessing and cleaning
-- Spatial joins, feature engineering, timestamp analysis
-- Modeling (if applicable): regression, classification, clustering, etc.
-- Evaluation metrics used (AUC, F1, RMSE, etc.)
-- Tools used (e.g., pandas, geopandas, scikit-learn)
+The project follows a structured pipeline that combines data engineering, unsupervised learning, and AI-based retrieval systems.
+
+First, raw datasets were cleaned, processed, and aligned across spatial and temporal dimensions. Feature engineering was applied to construct meaningful indicators of vulnerability and exposure.
+
+Second, clustering techniques were used to identify latent patterns across climate, sociodemographic, and economic dimensions. These clusters support the development of an enhanced vulnerability index, which captures structural differences across regions.
+
+Finally, a Hybrid RAG system was implemented to bridge structured and unstructured data. This system integrates document-based retrieval, and a knowledge graph, enabling the generation of context-aware and interpretable responses.
 
 ---
 
 ## Results
 
 Report your final results and key insights:
+
 - Metrics: Precision, Recall, ROC AUC, RMSE, etc.
 - Key findings or visualizations (include in slides)
 - Any limitations or ethical considerations
@@ -121,27 +83,11 @@ Report your final results and key insights:
 
 ## Team Contributions
 
-| Name         | Contributions                                |
-|--------------|----------------------------------------------|
-| Name 1       | Feature engineering, model tuning            |
-| Name 2       | EDA, preprocessing, geospatial joins         |
-| Name 3       | Final modeling, evaluation, GitHub setup     |
-| Name 4       | Slides, results summary, presentation prep   |
-
-> All members are expected to contribute, this is an example of how to split the work load. 
-
----
-
-## How to Reproduce
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOURTEAM/wids-2026-project.git
-   cd wids-2026-project
-
----
-
-## Questions?
-
-Visit the community hub: [WiDS Community](https://community.widsworldwide.org)
-
+| Name                         | Contributions                                                                 |
+| ---------------------------- | ----------------------------------------------------------------------------- |
+| Juan Pablo Guerrero Escudero | Knowledge Graph design, GraphRAG implementation, backend architecture         |
+| Romina Nájera Fuentes        | Data ingestion, clustering, vulnerability index (WRVI) development, frontend  |
+| María José Ocharte Álvarez   | EDA, clustering, WRVI development, frontend, poster design                    |
+| Sergio Rock Arredondo        | Legal document scraping, Document RAG pipeline, backend development, planning |
+| María José Zamora Gómez      | Feature engineering, preprocessing, clustering, RAG support, presentation     |
+| Kira Darian Gómez Pantoja    | EDA, data cleaning and preprocessing, frontend                                |
