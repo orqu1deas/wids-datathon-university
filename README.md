@@ -55,7 +55,7 @@ Additionally, a corpus of legally scraped documents was constructed, including w
 
 All datasets were harmonized at the county level, which serves as the primary spatial unit of analysis. Temporal alignment was also performed to reconcile differences in data frequency, including yearly, monthly, and weekly observations. This harmonization process ensures consistency across sources and enables the integration of heterogeneous data into a unified analytical framework.
 
-The resulting dataset is multi-source, multi-dimensional, and designed to support both quantitative modeling and qualitative information retrieval. As highlighted in the technical pitch, this integrated data landscape allows the system to move beyond isolated analyses and instead provide a cohesive understanding of wildfire exposure, economic vulnerability, and recovery capacity. :contentReference[oaicite:1]{index=1}
+The resulting dataset is multi-source, multi-dimensional, and designed to support both quantitative modeling and qualitative information retrieval. As highlighted in the technical pitch, this integrated data landscape allows the system to move beyond isolated analyses and instead provide a cohesive understanding of wildfire exposure, economic vulnerability, and recovery capacity.
 
 ---
 
