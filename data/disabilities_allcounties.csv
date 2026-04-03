@@ -1,0 +1,3223 @@
+state,county,disability_prevalence
+alabama,autauga county,15.80%
+alabama,baldwin county,13.50%
+alabama,barbour county,18.40%
+alabama,bibb county,20.00%
+alabama,blount county,18.70%
+alabama,bullock county,15.40%
+alabama,butler county,16.50%
+alabama,calhoun county,20.40%
+alabama,chambers county,20.80%
+alabama,cherokee county,19.60%
+alabama,chilton county,19.10%
+alabama,choctaw county,23.40%
+alabama,clarke county,20.10%
+alabama,clay county,19.70%
+alabama,cleburne county,20.60%
+alabama,coffee county,17.90%
+alabama,colbert county,18.00%
+alabama,conecuh county,20.40%
+alabama,coosa county,25.60%
+alabama,covington county,20.50%
+alabama,crenshaw county,17.80%
+alabama,cullman county,17.90%
+alabama,dale county,20.30%
+alabama,dallas county,20.50%
+alabama,dekalb county,15.90%
+alabama,elmore county,15.40%
+alabama,escambia county,20.20%
+alabama,etowah county,17.80%
+alabama,fayette county,23.50%
+alabama,franklin county,17.40%
+alabama,geneva county,23.60%
+alabama,greene county,26.50%
+alabama,hale county,25.50%
+alabama,henry county,22.50%
+alabama,houston county,16.90%
+alabama,jackson county,21.80%
+alabama,jefferson county,15.30%
+alabama,lamar county,22.20%
+alabama,lauderdale county,16.20%
+alabama,lawrence county,21.30%
+alabama,lee county,13.00%
+alabama,limestone county,13.80%
+alabama,lowndes county,20.50%
+alabama,macon county,17.30%
+alabama,madison county,13.50%
+alabama,marengo county,23.90%
+alabama,marion county,26.80%
+alabama,marshall county,14.60%
+alabama,mobile county,13.90%
+alabama,monroe county,16.80%
+alabama,montgomery county,15.90%
+alabama,morgan county,17.20%
+alabama,perry county,24.20%
+alabama,pickens county,24.10%
+alabama,pike county,14.80%
+alabama,randolph county,17.90%
+alabama,russell county,19.90%
+alabama,shelby county,11.70%
+alabama,st. clair county,15.80%
+alabama,sumter county,19.70%
+alabama,talladega county,21.80%
+alabama,tallapoosa county,21.20%
+alabama,tuscaloosa county,12.80%
+alabama,walker county,23.50%
+alabama,washington county,14.60%
+alabama,wilcox county,21.00%
+alabama,winston county,22.60%
+alaska,aleutians east borough,11.20%
+alaska,aleutians west census area,10.60%
+alaska,anchorage municipality,12.20%
+alaska,bethel city,11.50%
+alaska,bristol bay borough,16.00%
+alaska,chugach census area,16.00%
+alaska,copper river census area,22.50%
+alaska,denali borough,9.70%
+alaska,dillingham census area,11.30%
+alaska,fairbanks north star borough,13.10%
+alaska,haines borough,19.10%
+alaska,hoonah-angoon census area,20.80%
+alaska,juneau city and borough,11.60%
+alaska,kenai peninsula borough,16.20%
+alaska,ketchikan gateway borough,13.70%
+alaska,kodiak island borough,9.10%
+alaska,kusilvak census area,13.50%
+alaska,lake and peninsula borough,13.10%
+alaska,matanuska-susitna borough,13.50%
+alaska,nome census area,11.40%
+alaska,north slope borough,11.40%
+alaska,northwest arctic borough,9.60%
+alaska,petersburg borough,16.10%
+alaska,prince of wales-hyder census area,20.70%
+alaska,sitka city and borough,17.10%
+alaska,skagway municipality,20.30%
+alaska,southeast fairbanks census area,17.00%
+alaska,wrangell city and borough,19.40%
+alaska,yakutat city and borough,13.20%
+alaska,yukon-koyukuk census area,19.30%
+arizona,apache county,13.50%
+arizona,cochise county,18.40%
+arizona,coconino county,13.40%
+arizona,gila county,21.90%
+arizona,graham county,15.20%
+arizona,greenlee county,13.50%
+arizona,la paz county,24.90%
+arizona,maricopa county,11.90%
+arizona,mohave county,22.20%
+arizona,navajo county,17.30%
+arizona,pima county,15.10%
+arizona,pinal county,16.70%
+arizona,santa cruz county,12.50%
+arizona,yavapai county,17.80%
+arizona,yuma county,13.30%
+arkansas,arkansas county,19.90%
+arkansas,ashley county,23.20%
+arkansas,baxter county,25.90%
+arkansas,benton county,10.20%
+arkansas,boone county,20.10%
+arkansas,bradley county,21.90%
+arkansas,calhoun county,24.70%
+arkansas,carroll county,15.30%
+arkansas,chicot county,24.50%
+arkansas,clark county,20.10%
+arkansas,clay county,22.00%
+arkansas,cleburne county,22.80%
+arkansas,cleveland county,25.50%
+arkansas,columbia county,19.80%
+arkansas,conway county,24.40%
+arkansas,craighead county,19.00%
+arkansas,crawford county,18.30%
+arkansas,crittenden county,18.00%
+arkansas,cross county,18.00%
+arkansas,dallas county,31.80%
+arkansas,desha county,20.80%
+arkansas,drew county,21.30%
+arkansas,faulkner county,13.60%
+arkansas,franklin county,22.10%
+arkansas,fulton county,26.80%
+arkansas,garland county,21.80%
+arkansas,grant county,18.00%
+arkansas,greene county,20.20%
+arkansas,hempstead county,22.30%
+arkansas,hot spring county,25.00%
+arkansas,howard county,18.50%
+arkansas,independence county,19.70%
+arkansas,izard county,25.10%
+arkansas,jackson county,24.60%
+arkansas,jefferson county,19.70%
+arkansas,johnson county,20.30%
+arkansas,lafayette county,23.90%
+arkansas,lawrence county,22.80%
+arkansas,lee county,25.10%
+arkansas,lincoln county,18.10%
+arkansas,little river county,16.80%
+arkansas,logan county,22.70%
+arkansas,lonoke county,16.20%
+arkansas,madison county,18.60%
+arkansas,marion county,25.30%
+arkansas,miller county,19.90%
+arkansas,mississippi county,21.10%
+arkansas,monroe county,23.00%
+arkansas,montgomery county,28.30%
+arkansas,nevada county,22.40%
+arkansas,newton county,20.10%
+arkansas,ouachita county,26.00%
+arkansas,perry county,22.90%
+arkansas,phillips county,22.30%
+arkansas,pike county,21.90%
+arkansas,poinsett county,24.10%
+arkansas,polk county,21.40%
+arkansas,pope county,18.60%
+arkansas,prairie county,21.80%
+arkansas,pulaski county,15.60%
+arkansas,randolph county,23.40%
+arkansas,saline county,15.60%
+arkansas,scott county,19.90%
+arkansas,searcy county,26.60%
+arkansas,sebastian county,22.00%
+arkansas,sevier county,14.80%
+arkansas,sharp county,24.30%
+arkansas,st. francis county,23.10%
+arkansas,stone county,27.20%
+arkansas,union county,16.40%
+arkansas,van buren county,26.20%
+arkansas,washington county,11.40%
+arkansas,white county,19.00%
+arkansas,woodruff county,18.20%
+arkansas,yell county,17.90%
+california,alameda county,9.90%
+california,alpine county,10.70%
+california,amador county,16.50%
+california,butte county,16.30%
+california,calaveras county,21.10%
+california,colusa county,13.10%
+california,contra costa county,11.20%
+california,del norte county,20.50%
+california,el dorado county,12.50%
+california,fresno county,13.10%
+california,glenn county,13.20%
+california,humboldt county,18.50%
+california,imperial county,14.80%
+california,inyo county,15.90%
+california,kern county,11.90%
+california,kings county,12.60%
+california,lake county,20.60%
+california,lassen county,18.10%
+california,los angeles county,10.90%
+california,madera county,14.90%
+california,marin county,9.70%
+california,mariposa county,18.40%
+california,mendocino county,18.50%
+california,merced county,12.80%
+california,modoc county,18.90%
+california,mono county,7.70%
+california,monterey county,9.40%
+california,napa county,12.80%
+california,nevada county,13.80%
+california,orange county,9.30%
+california,placer county,11.40%
+california,plumas county,21.30%
+california,riverside county,11.90%
+california,sacramento county,12.70%
+california,san benito county,10.50%
+california,san bernardino county,11.80%
+california,san diego county,10.70%
+california,san francisco county,11.20%
+california,san joaquin county,12.50%
+california,san luis obispo county,13.00%
+california,san mateo county,9.00%
+california,santa barbara county,11.10%
+california,santa clara county,8.80%
+california,santa cruz county,11.20%
+california,shasta county,18.20%
+california,sierra county,17.30%
+california,siskiyou county,17.50%
+california,solano county,12.80%
+california,sonoma county,12.10%
+california,stanislaus county,12.50%
+california,sutter county,14.50%
+california,tehama county,18.10%
+california,trinity county,17.70%
+california,tulare county,12.00%
+california,tuolumne county,21.20%
+california,ventura county,11.50%
+california,yolo county,10.80%
+california,yuba county,16.00%
+colorado,adams county,11.30%
+colorado,alamosa county,18.50%
+colorado,arapahoe county,10.80%
+colorado,archuleta county,17.80%
+colorado,baca county,16.90%
+colorado,bent county,19.10%
+colorado,boulder county,8.80%
+colorado,broomfield county,8.70%
+colorado,chaffee county,11.40%
+colorado,cheyenne county,10.70%
+colorado,clear creek county,11.00%
+colorado,conejos county,19.60%
+colorado,costilla county,23.70%
+colorado,crowley county,18.70%
+colorado,custer county,14.00%
+colorado,delta county,19.20%
+colorado,denver county,10.10%
+colorado,dolores county,11.30%
+colorado,douglas county,7.60%
+colorado,eagle county,6.50%
+colorado,el paso county,12.50%
+colorado,elbert county,8.80%
+colorado,fremont county,19.10%
+colorado,garfield county,9.10%
+colorado,gilpin county,12.30%
+colorado,grand county,7.60%
+colorado,gunnison county,8.10%
+colorado,hinsdale county,11.10%
+colorado,huerfano county,23.40%
+colorado,jackson county,11.10%
+colorado,jefferson county,10.80%
+colorado,kiowa county,11.00%
+colorado,kit carson county,17.80%
+colorado,la plata county,10.10%
+colorado,lake county,10.00%
+colorado,larimer county,10.30%
+colorado,las animas county,22.30%
+colorado,lincoln county,16.80%
+colorado,logan county,16.90%
+colorado,mesa county,15.30%
+colorado,mineral county,10.60%
+colorado,moffat county,15.50%
+colorado,montezuma county,15.20%
+colorado,montrose county,12.80%
+colorado,morgan county,10.00%
+colorado,otero county,17.60%
+colorado,ouray county,13.10%
+colorado,park county,10.80%
+colorado,phillips county,13.30%
+colorado,pitkin county,8.60%
+colorado,prowers county,16.90%
+colorado,pueblo county,17.80%
+colorado,rio blanco county,18.40%
+colorado,rio grande county,17.10%
+colorado,routt county,7.90%
+colorado,saguache county,16.70%
+colorado,san juan county,2.90%
+colorado,san miguel county,6.00%
+colorado,sedgwick county,17.60%
+colorado,summit county,6.40%
+colorado,teller county,13.60%
+colorado,washington county,12.50%
+colorado,weld county,11.30%
+colorado,yuma county,8.20%
+connecticut,capitol planning region,12.20%
+connecticut,greater bridgeport planning region,12.80%
+connecticut,lower connecticut river valley planning region,11.50%
+connecticut,naugatuck valley planning region,14.00%
+connecticut,northeastern connecticut planning region,14.00%
+connecticut,northwest hills planning region,12.20%
+connecticut,south central connecticut planning region,11.70%
+connecticut,southeastern connecticut planning region,14.40%
+connecticut,western connecticut planning region,9.40%
+delaware,kent county,16.30%
+delaware,new castle county,12.80%
+delaware,sussex county,14.50%
+district of columbia,district of columbia,11.00%
+florida,alachua county,11.60%
+florida,baker county,15.10%
+florida,bay county,18.20%
+florida,bradford county,18.70%
+florida,brevard county,16.00%
+florida,broward county,11.10%
+florida,calhoun county,24.10%
+florida,charlotte county,21.00%
+florida,citrus county,21.50%
+florida,clay county,13.40%
+florida,collier county,11.50%
+florida,columbia county,20.20%
+florida,desoto county,20.50%
+florida,dixie county,23.80%
+florida,duval county,13.40%
+florida,escambia county,17.20%
+florida,flagler county,15.60%
+florida,franklin county,21.50%
+florida,gadsden county,19.60%
+florida,gilchrist county,20.30%
+florida,glades county,18.90%
+florida,gulf county,21.10%
+florida,hamilton county,18.60%
+florida,hardee county,16.60%
+florida,hendry county,11.70%
+florida,hernando county,19.50%
+florida,highlands county,21.80%
+florida,hillsborough county,12.20%
+florida,holmes county,17.40%
+florida,indian river county,16.80%
+florida,jackson county,19.50%
+florida,jefferson county,20.40%
+florida,lafayette county,20.40%
+florida,lake county,15.90%
+florida,lee county,13.70%
+florida,leon county,12.30%
+florida,levy county,20.90%
+florida,liberty county,24.80%
+florida,madison county,17.60%
+florida,manatee county,14.90%
+florida,marion county,16.50%
+florida,martin county,14.00%
+florida,miami-dade county,10.30%
+florida,monroe county,11.30%
+florida,nassau county,16.90%
+florida,okaloosa county,15.50%
+florida,okeechobee county,19.20%
+florida,orange county,11.20%
+florida,osceola county,13.20%
+florida,palm beach county,12.20%
+florida,pasco county,16.60%
+florida,pinellas county,15.40%
+florida,polk county,13.90%
+florida,putnam county,18.20%
+florida,santa rosa county,15.40%
+florida,sarasota county,15.30%
+florida,seminole county,11.60%
+florida,st. johns county,10.80%
+florida,st. lucie county,15.20%
+florida,sumter county,18.30%
+florida,suwannee county,19.50%
+florida,taylor county,19.80%
+florida,union county,19.10%
+florida,volusia county,17.30%
+florida,wakulla county,12.60%
+florida,walton county,15.00%
+florida,washington county,19.80%
+georgia,appling county,14.70%
+georgia,atkinson county,12.90%
+georgia,bacon county,18.20%
+georgia,baker county,16.20%
+georgia,baldwin county,16.20%
+georgia,banks county,18.40%
+georgia,barrow county,13.50%
+georgia,bartow county,12.30%
+georgia,ben hill county,12.20%
+georgia,berrien county,18.30%
+georgia,bibb county,15.80%
+georgia,bleckley county,20.40%
+georgia,brantley county,16.30%
+georgia,brooks county,16.50%
+georgia,bryan county,11.80%
+georgia,bulloch county,14.80%
+georgia,burke county,15.50%
+georgia,butts county,15.40%
+georgia,calhoun county,17.40%
+georgia,camden county,16.20%
+georgia,candler county,21.30%
+georgia,carroll county,15.00%
+georgia,catoosa county,17.10%
+georgia,charlton county,19.80%
+georgia,chatham county,15.50%
+georgia,chattahoochee county,11.90%
+georgia,chattooga county,20.00%
+georgia,cherokee county,10.90%
+georgia,clarke county,12.50%
+georgia,clay county,20.20%
+georgia,clayton county,11.30%
+georgia,clinch county,16.70%
+georgia,cobb county,9.20%
+georgia,coffee county,16.10%
+georgia,colquitt county,17.50%
+georgia,columbia county,13.90%
+georgia,cook county,16.10%
+georgia,coweta county,13.30%
+georgia,crawford county,24.40%
+georgia,crisp county,20.20%
+georgia,dade county,16.70%
+georgia,dawson county,12.90%
+georgia,decatur county,16.70%
+georgia,dekalb county,11.80%
+georgia,dodge county,22.10%
+georgia,dooly county,17.90%
+georgia,dougherty county,18.70%
+georgia,douglas county,11.40%
+georgia,early county,14.30%
+georgia,echols county,9.80%
+georgia,effingham county,11.70%
+georgia,elbert county,19.20%
+georgia,emanuel county,20.60%
+georgia,evans county,16.20%
+georgia,fannin county,20.70%
+georgia,fayette county,12.20%
+georgia,floyd county,17.50%
+georgia,forsyth county,8.10%
+georgia,franklin county,17.30%
+georgia,fulton county,10.20%
+georgia,gilmer county,19.10%
+georgia,glascock county,18.50%
+georgia,glynn county,13.20%
+georgia,gordon county,13.40%
+georgia,grady county,19.00%
+georgia,greene county,13.60%
+georgia,gwinnett county,8.50%
+georgia,habersham county,16.20%
+georgia,hall county,11.70%
+georgia,hancock county,23.40%
+georgia,haralson county,17.50%
+georgia,harris county,15.40%
+georgia,hart county,18.30%
+georgia,heard county,25.90%
+georgia,henry county,10.80%
+georgia,houston county,13.00%
+georgia,irwin county,8.40%
+georgia,jackson county,14.50%
+georgia,jasper county,16.10%
+georgia,jeff davis county,22.60%
+georgia,jefferson county,15.80%
+georgia,jenkins county,21.40%
+georgia,johnson county,20.00%
+georgia,jones county,15.20%
+georgia,lamar county,16.80%
+georgia,lanier county,15.00%
+georgia,laurens county,16.40%
+georgia,lee county,12.70%
+georgia,liberty county,15.90%
+georgia,lincoln county,19.50%
+georgia,long county,19.70%
+georgia,lowndes county,12.40%
+georgia,lumpkin county,12.50%
+georgia,macon county,18.60%
+georgia,madison county,18.50%
+georgia,marion county,22.00%
+georgia,mcduffie county,12.40%
+georgia,mcintosh county,25.70%
+georgia,meriwether county,21.30%
+georgia,miller county,16.80%
+georgia,mitchell county,21.70%
+georgia,monroe county,15.00%
+georgia,montgomery county,14.00%
+georgia,morgan county,13.60%
+georgia,murray county,13.30%
+georgia,muscogee county,17.40%
+georgia,newton county,14.00%
+georgia,oconee county,8.60%
+georgia,oglethorpe county,15.50%
+georgia,paulding county,11.50%
+georgia,peach county,17.60%
+georgia,pickens county,19.30%
+georgia,pierce county,13.20%
+georgia,pike county,11.20%
+georgia,polk county,17.80%
+georgia,pulaski county,20.30%
+georgia,putnam county,18.50%
+georgia,quitman county,36.40%
+georgia,rabun county,17.70%
+georgia,randolph county,19.00%
+georgia,richmond county,19.10%
+georgia,rockdale county,12.40%
+georgia,schley county,17.00%
+georgia,screven county,17.00%
+georgia,seminole county,19.20%
+georgia,spalding county,13.70%
+georgia,stephens county,17.30%
+georgia,stewart county,27.00%
+georgia,sumter county,12.90%
+georgia,talbot county,23.90%
+georgia,taliaferro county,20.60%
+georgia,tattnall county,20.70%
+georgia,taylor county,19.30%
+georgia,telfair county,23.90%
+georgia,terrell county,16.20%
+georgia,thomas county,17.60%
+georgia,tift county,11.80%
+georgia,toombs county,16.30%
+georgia,towns county,19.60%
+georgia,treutlen county,19.80%
+georgia,troup county,17.30%
+georgia,turner county,20.00%
+georgia,twiggs county,22.50%
+georgia,union county,21.00%
+georgia,upson county,17.50%
+georgia,walker county,19.60%
+georgia,walton county,14.00%
+georgia,ware county,14.50%
+georgia,warren county,17.40%
+georgia,washington county,17.20%
+georgia,wayne county,17.50%
+georgia,webster county,15.40%
+georgia,wheeler county,9.70%
+georgia,white county,16.80%
+georgia,whitfield county,11.50%
+georgia,wilcox county,14.20%
+georgia,wilkes county,17.60%
+georgia,wilkinson county,16.00%
+georgia,worth county,18.30%
+hawaii,hawaii county,15.70%
+hawaii,honolulu county,12.20%
+hawaii,kalawao county,26.80%
+hawaii,kauai county,11.40%
+hawaii,maui county,10.80%
+idaho,ada county,11.20%
+idaho,adams county,15.60%
+idaho,bannock county,15.40%
+idaho,bear lake county,15.00%
+idaho,benewah county,21.20%
+idaho,bingham county,16.10%
+idaho,blaine county,11.70%
+idaho,boise county,15.10%
+idaho,bonner county,17.80%
+idaho,bonneville county,13.70%
+idaho,boundary county,17.90%
+idaho,butte county,18.80%
+idaho,camas county,18.40%
+idaho,canyon county,14.90%
+idaho,caribou county,14.10%
+idaho,cassia county,13.50%
+idaho,clark county,15.20%
+idaho,clearwater county,23.30%
+idaho,custer county,27.10%
+idaho,elmore county,16.90%
+idaho,franklin county,12.20%
+idaho,fremont county,17.90%
+idaho,gem county,17.70%
+idaho,gooding county,16.10%
+idaho,idaho county,16.30%
+idaho,jefferson county,10.80%
+idaho,jerome county,12.70%
+idaho,kootenai county,15.00%
+idaho,latah county,12.10%
+idaho,lemhi county,22.20%
+idaho,lewis county,24.80%
+idaho,lincoln county,13.30%
+idaho,madison county,7.00%
+idaho,minidoka county,12.40%
+idaho,nez perce county,17.30%
+idaho,oneida county,14.40%
+idaho,owyhee county,17.70%
+idaho,payette county,16.30%
+idaho,power county,14.60%
+idaho,shoshone county,22.60%
+idaho,teton county,7.40%
+idaho,twin falls county,14.00%
+idaho,valley county,11.00%
+idaho,washington county,17.00%
+illinois,adams county,17.60%
+illinois,alexander county,24.00%
+illinois,bond county,18.30%
+illinois,boone county,13.70%
+illinois,brown county,20.90%
+illinois,bureau county,14.60%
+illinois,calhoun county,18.80%
+illinois,carroll county,15.90%
+illinois,cass county,16.10%
+illinois,champaign county,10.10%
+illinois,christian county,15.20%
+illinois,clark county,13.50%
+illinois,clay county,18.60%
+illinois,clinton county,13.60%
+illinois,coles county,16.30%
+illinois,cook county,11.20%
+illinois,crawford county,15.70%
+illinois,cumberland county,13.40%
+illinois,de witt county,13.30%
+illinois,dekalb county,11.00%
+illinois,douglas county,13.20%
+illinois,dupage county,8.40%
+illinois,edgar county,18.40%
+illinois,edwards county,20.30%
+illinois,effingham county,14.80%
+illinois,fayette county,17.50%
+illinois,ford county,14.70%
+illinois,franklin county,20.10%
+illinois,fulton county,15.00%
+illinois,gallatin county,25.30%
+illinois,greene county,16.90%
+illinois,grundy county,9.70%
+illinois,hamilton county,20.30%
+illinois,hancock county,20.00%
+illinois,hardin county,27.30%
+illinois,henderson county,19.20%
+illinois,henry county,13.60%
+illinois,iroquois county,17.00%
+illinois,jackson county,17.10%
+illinois,jasper county,15.90%
+illinois,jefferson county,18.30%
+illinois,jersey county,13.60%
+illinois,jo daviess county,13.70%
+illinois,johnson county,18.10%
+illinois,kane county,9.50%
+illinois,kankakee county,14.80%
+illinois,kendall county,7.70%
+illinois,knox county,14.70%
+illinois,lake county,9.90%
+illinois,lasalle county,13.80%
+illinois,lawrence county,20.20%
+illinois,lee county,16.30%
+illinois,livingston county,13.70%
+illinois,logan county,14.40%
+illinois,macon county,14.50%
+illinois,macoupin county,16.90%
+illinois,madison county,15.50%
+illinois,marion county,18.70%
+illinois,marshall county,15.60%
+illinois,mason county,17.10%
+illinois,massac county,18.80%
+illinois,mcdonough county,14.60%
+illinois,mchenry county,9.90%
+illinois,mclean county,9.50%
+illinois,menard county,16.00%
+illinois,mercer county,12.80%
+illinois,monroe county,10.70%
+illinois,montgomery county,17.90%
+illinois,morgan county,17.50%
+illinois,moultrie county,13.20%
+illinois,ogle county,15.10%
+illinois,peoria county,13.70%
+illinois,perry county,20.70%
+illinois,piatt county,12.10%
+illinois,pike county,17.00%
+illinois,pope county,21.60%
+illinois,pulaski county,24.40%
+illinois,putnam county,15.70%
+illinois,randolph county,20.80%
+illinois,richland county,18.30%
+illinois,rock island county,15.10%
+illinois,saline county,23.10%
+illinois,sangamon county,13.60%
+illinois,schuyler county,18.60%
+illinois,scott county,15.20%
+illinois,shelby county,14.80%
+illinois,st. clair county,15.10%
+illinois,stark county,14.70%
+illinois,stephenson county,15.50%
+illinois,tazewell county,12.40%
+illinois,union county,19.30%
+illinois,vermilion county,14.70%
+illinois,wabash county,21.50%
+illinois,warren county,13.70%
+illinois,washington county,13.50%
+illinois,wayne county,17.20%
+illinois,white county,21.30%
+illinois,whiteside county,15.30%
+illinois,will county,9.70%
+illinois,williamson county,19.00%
+illinois,winnebago county,14.90%
+illinois,woodford county,10.30%
+indiana,adams county,11.80%
+indiana,allen county,12.30%
+indiana,bartholomew county,13.90%
+indiana,benton county,17.70%
+indiana,blackford county,21.80%
+indiana,boone county,10.20%
+indiana,brown county,16.60%
+indiana,carroll county,12.50%
+indiana,cass county,16.80%
+indiana,clark county,15.00%
+indiana,clay county,17.70%
+indiana,clinton county,10.60%
+indiana,crawford county,17.90%
+indiana,daviess county,13.90%
+indiana,dearborn county,14.50%
+indiana,decatur county,12.20%
+indiana,dekalb county,14.50%
+indiana,delaware county,19.10%
+indiana,dubois county,11.60%
+indiana,elkhart county,12.10%
+indiana,fayette county,20.70%
+indiana,floyd county,14.50%
+indiana,fountain county,18.50%
+indiana,franklin county,13.90%
+indiana,fulton county,15.40%
+indiana,gibson county,15.80%
+indiana,grant county,19.60%
+indiana,greene county,19.90%
+indiana,hamilton county,7.80%
+indiana,hancock county,12.70%
+indiana,harrison county,15.40%
+indiana,hendricks county,9.90%
+indiana,henry county,20.30%
+indiana,howard county,17.90%
+indiana,huntington county,15.20%
+indiana,jackson county,14.60%
+indiana,jasper county,16.50%
+indiana,jay county,17.80%
+indiana,jefferson county,19.80%
+indiana,jennings county,18.90%
+indiana,johnson county,11.30%
+indiana,knox county,18.10%
+indiana,kosciusko county,13.50%
+indiana,lagrange county,11.40%
+indiana,lake county,13.40%
+indiana,laporte county,14.40%
+indiana,lawrence county,16.90%
+indiana,madison county,20.30%
+indiana,marion county,13.40%
+indiana,marshall county,12.10%
+indiana,martin county,17.00%
+indiana,miami county,16.80%
+indiana,monroe county,11.80%
+indiana,montgomery county,15.80%
+indiana,morgan county,15.50%
+indiana,newton county,17.80%
+indiana,noble county,13.30%
+indiana,ohio county,17.20%
+indiana,orange county,17.00%
+indiana,owen county,20.30%
+indiana,parke county,15.40%
+indiana,perry county,16.00%
+indiana,pike county,15.10%
+indiana,porter county,11.50%
+indiana,posey county,12.60%
+indiana,pulaski county,18.00%
+indiana,putnam county,14.50%
+indiana,randolph county,19.90%
+indiana,ripley county,13.70%
+indiana,rush county,16.60%
+indiana,scott county,22.40%
+indiana,shelby county,15.30%
+indiana,spencer county,14.10%
+indiana,st. joseph county,13.60%
+indiana,starke county,19.30%
+indiana,steuben county,14.60%
+indiana,sullivan county,17.40%
+indiana,switzerland county,20.70%
+indiana,tippecanoe county,9.50%
+indiana,tipton county,13.20%
+indiana,union county,12.70%
+indiana,vanderburgh county,16.00%
+indiana,vermillion county,19.40%
+indiana,vigo county,17.10%
+indiana,wabash county,15.40%
+indiana,warren county,18.20%
+indiana,warrick county,12.50%
+indiana,washington county,16.00%
+indiana,wayne county,18.30%
+indiana,wells county,12.20%
+indiana,white county,14.60%
+indiana,whitley county,13.70%
+iowa,adair county,14.30%
+iowa,adams county,14.90%
+iowa,allamakee county,12.50%
+iowa,appanoose county,18.00%
+iowa,audubon county,12.50%
+iowa,benton county,11.50%
+iowa,black hawk county,13.70%
+iowa,boone county,12.40%
+iowa,bremer county,11.80%
+iowa,buchanan county,12.00%
+iowa,buena vista county,8.90%
+iowa,butler county,11.50%
+iowa,calhoun county,15.30%
+iowa,carroll county,12.80%
+iowa,cass county,14.60%
+iowa,cedar county,11.90%
+iowa,cerro gordo county,14.40%
+iowa,cherokee county,11.80%
+iowa,chickasaw county,14.70%
+iowa,clarke county,18.40%
+iowa,clay county,15.00%
+iowa,clayton county,15.40%
+iowa,clinton county,13.50%
+iowa,crawford county,15.80%
+iowa,dallas county,7.70%
+iowa,davis county,10.80%
+iowa,decatur county,15.30%
+iowa,delaware county,15.30%
+iowa,des moines county,16.50%
+iowa,dickinson county,14.60%
+iowa,dubuque county,10.90%
+iowa,emmet county,19.10%
+iowa,fayette county,16.40%
+iowa,floyd county,16.00%
+iowa,franklin county,11.40%
+iowa,fremont county,14.90%
+iowa,greene county,16.90%
+iowa,grundy county,11.10%
+iowa,guthrie county,11.20%
+iowa,hamilton county,13.00%
+iowa,hancock county,13.60%
+iowa,hardin county,14.10%
+iowa,harrison county,12.20%
+iowa,henry county,15.00%
+iowa,howard county,10.70%
+iowa,humboldt county,14.70%
+iowa,ida county,13.00%
+iowa,iowa county,13.70%
+iowa,jackson county,12.30%
+iowa,jasper county,14.00%
+iowa,jefferson county,13.70%
+iowa,johnson county,9.50%
+iowa,jones county,13.70%
+iowa,keokuk county,16.40%
+iowa,kossuth county,14.20%
+iowa,lee county,16.70%
+iowa,linn county,11.30%
+iowa,louisa county,15.60%
+iowa,lucas county,16.70%
+iowa,lyon county,11.90%
+iowa,madison county,9.40%
+iowa,mahaska county,13.50%
+iowa,marion county,13.40%
+iowa,marshall county,12.20%
+iowa,mills county,13.60%
+iowa,mitchell county,10.30%
+iowa,monona county,13.80%
+iowa,monroe county,15.50%
+iowa,montgomery county,16.70%
+iowa,muscatine county,13.40%
+iowa,o'brien county,14.60%
+iowa,osceola county,12.50%
+iowa,page county,16.50%
+iowa,palo alto county,13.80%
+iowa,plymouth county,11.80%
+iowa,pocahontas county,15.20%
+iowa,polk county,11.20%
+iowa,pottawattamie county,15.80%
+iowa,poweshiek county,13.90%
+iowa,ringgold county,14.80%
+iowa,sac county,12.30%
+iowa,scott county,12.10%
+iowa,shelby county,9.50%
+iowa,sioux county,9.10%
+iowa,story county,9.20%
+iowa,tama county,11.40%
+iowa,taylor county,14.10%
+iowa,union county,15.60%
+iowa,van buren county,18.00%
+iowa,wapello county,15.90%
+iowa,warren county,10.60%
+iowa,washington county,13.50%
+iowa,wayne county,14.70%
+iowa,webster county,14.80%
+iowa,winnebago county,12.20%
+iowa,winneshiek county,10.30%
+iowa,woodbury county,13.50%
+iowa,worth county,13.80%
+iowa,wright county,13.00%
+kansas,allen county,17.60%
+kansas,anderson county,16.40%
+kansas,atchison county,14.90%
+kansas,barber county,18.90%
+kansas,barton county,16.50%
+kansas,bourbon county,18.70%
+kansas,brown county,16.80%
+kansas,butler county,14.80%
+kansas,chase county,11.80%
+kansas,chautauqua county,20.70%
+kansas,cherokee county,19.20%
+kansas,cheyenne county,14.20%
+kansas,clark county,18.30%
+kansas,clay county,18.30%
+kansas,cloud county,13.80%
+kansas,coffey county,16.70%
+kansas,comanche county,19.70%
+kansas,cowley county,18.00%
+kansas,crawford county,16.30%
+kansas,decatur county,18.40%
+kansas,dickinson county,14.90%
+kansas,doniphan county,13.20%
+kansas,douglas county,11.20%
+kansas,edwards county,16.50%
+kansas,elk county,24.30%
+kansas,ellis county,11.50%
+kansas,ellsworth county,16.50%
+kansas,finney county,13.00%
+kansas,ford county,10.90%
+kansas,franklin county,16.50%
+kansas,geary county,14.20%
+kansas,gove county,13.20%
+kansas,graham county,13.90%
+kansas,grant county,8.00%
+kansas,gray county,8.30%
+kansas,greeley county,10.90%
+kansas,greenwood county,18.80%
+kansas,hamilton county,13.00%
+kansas,harper county,19.30%
+kansas,harvey county,13.70%
+kansas,haskell county,10.50%
+kansas,hodgeman county,14.20%
+kansas,jackson county,15.60%
+kansas,jefferson county,13.60%
+kansas,jewell county,21.00%
+kansas,johnson county,8.90%
+kansas,kearny county,14.80%
+kansas,kingman county,16.60%
+kansas,kiowa county,16.00%
+kansas,labette county,23.30%
+kansas,lane county,18.00%
+kansas,leavenworth county,13.50%
+kansas,lincoln county,19.10%
+kansas,linn county,16.80%
+kansas,logan county,21.50%
+kansas,lyon county,13.40%
+kansas,marion county,14.20%
+kansas,marshall county,15.20%
+kansas,mcpherson county,12.30%
+kansas,meade county,12.80%
+kansas,miami county,12.60%
+kansas,mitchell county,16.20%
+kansas,montgomery county,20.40%
+kansas,morris county,16.10%
+kansas,morton county,17.20%
+kansas,nemaha county,12.90%
+kansas,neosho county,19.40%
+kansas,ness county,13.70%
+kansas,norton county,18.50%
+kansas,osage county,16.40%
+kansas,osborne county,14.40%
+kansas,ottawa county,13.50%
+kansas,pawnee county,23.80%
+kansas,phillips county,18.90%
+kansas,pottawatomie county,11.80%
+kansas,pratt county,15.90%
+kansas,rawlins county,20.00%
+kansas,reno county,16.10%
+kansas,republic county,17.30%
+kansas,rice county,14.80%
+kansas,riley county,13.00%
+kansas,rooks county,16.60%
+kansas,rush county,14.30%
+kansas,russell county,18.80%
+kansas,saline county,15.20%
+kansas,scott county,13.80%
+kansas,sedgwick county,14.50%
+kansas,seward county,10.70%
+kansas,shawnee county,14.80%
+kansas,sheridan county,16.50%
+kansas,sherman county,18.80%
+kansas,smith county,17.70%
+kansas,stafford county,15.00%
+kansas,stanton county,12.50%
+kansas,stevens county,12.40%
+kansas,sumner county,17.60%
+kansas,thomas county,12.00%
+kansas,trego county,11.50%
+kansas,wabaunsee county,16.90%
+kansas,wallace county,18.30%
+kansas,washington county,13.90%
+kansas,wichita county,18.30%
+kansas,wilson county,17.90%
+kansas,woodson county,21.50%
+kansas,wyandotte county,13.90%
+kentucky,adair county,23.50%
+kentucky,allen county,18.60%
+kentucky,anderson county,18.60%
+kentucky,ballard county,16.10%
+kentucky,barren county,21.50%
+kentucky,bath county,22.30%
+kentucky,bell county,26.20%
+kentucky,boone county,12.10%
+kentucky,bourbon county,19.60%
+kentucky,boyd county,21.80%
+kentucky,boyle county,16.80%
+kentucky,bracken county,17.40%
+kentucky,breathitt county,31.40%
+kentucky,breckinridge county,22.20%
+kentucky,bullitt county,15.50%
+kentucky,butler county,19.40%
+kentucky,caldwell county,26.40%
+kentucky,calloway county,17.00%
+kentucky,campbell county,13.50%
+kentucky,carlisle county,16.00%
+kentucky,carroll county,17.40%
+kentucky,carter county,21.50%
+kentucky,casey county,18.00%
+kentucky,christian county,18.20%
+kentucky,clark county,19.60%
+kentucky,clay county,28.10%
+kentucky,clinton county,22.90%
+kentucky,crittenden county,32.20%
+kentucky,cumberland county,23.60%
+kentucky,daviess county,17.40%
+kentucky,edmonson county,24.10%
+kentucky,elliott county,26.60%
+kentucky,estill county,26.30%
+kentucky,fayette county,12.80%
+kentucky,fleming county,19.80%
+kentucky,floyd county,26.60%
+kentucky,franklin county,17.10%
+kentucky,fulton county,23.90%
+kentucky,gallatin county,17.10%
+kentucky,garrard county,19.60%
+kentucky,grant county,16.50%
+kentucky,graves county,18.90%
+kentucky,grayson county,21.00%
+kentucky,green county,25.50%
+kentucky,greenup county,20.90%
+kentucky,hancock county,21.80%
+kentucky,hardin county,17.50%
+kentucky,harlan county,27.30%
+kentucky,harrison county,19.10%
+kentucky,hart county,22.00%
+kentucky,henderson county,24.10%
+kentucky,henry county,18.70%
+kentucky,hickman county,22.80%
+kentucky,hopkins county,26.80%
+kentucky,jackson county,23.30%
+kentucky,jefferson county,14.30%
+kentucky,jessamine county,14.40%
+kentucky,johnson county,24.50%
+kentucky,kenton county,13.20%
+kentucky,knott county,27.00%
+kentucky,knox county,23.80%
+kentucky,larue county,18.10%
+kentucky,laurel county,18.60%
+kentucky,lawrence county,23.50%
+kentucky,lee county,28.80%
+kentucky,leslie county,30.00%
+kentucky,letcher county,30.10%
+kentucky,lewis county,21.40%
+kentucky,lincoln county,19.20%
+kentucky,livingston county,28.30%
+kentucky,logan county,17.50%
+kentucky,lyon county,38.00%
+kentucky,madison county,15.80%
+kentucky,magoffin county,28.50%
+kentucky,marion county,20.50%
+kentucky,marshall county,19.00%
+kentucky,martin county,32.00%
+kentucky,mason county,20.30%
+kentucky,mccracken county,16.00%
+kentucky,mccreary county,23.80%
+kentucky,mclean county,19.80%
+kentucky,meade county,20.50%
+kentucky,menifee county,23.80%
+kentucky,mercer county,14.30%
+kentucky,metcalfe county,21.40%
+kentucky,monroe county,23.30%
+kentucky,montgomery county,20.30%
+kentucky,morgan county,24.80%
+kentucky,muhlenberg county,23.00%
+kentucky,nelson county,15.10%
+kentucky,nicholas county,21.50%
+kentucky,ohio county,19.00%
+kentucky,oldham county,8.90%
+kentucky,owen county,15.90%
+kentucky,owsley county,36.00%
+kentucky,pendleton county,20.60%
+kentucky,perry county,30.80%
+kentucky,pike county,29.30%
+kentucky,powell county,22.30%
+kentucky,pulaski county,21.70%
+kentucky,robertson county,16.10%
+kentucky,rockcastle county,22.30%
+kentucky,rowan county,17.00%
+kentucky,russell county,23.80%
+kentucky,scott county,14.80%
+kentucky,shelby county,12.30%
+kentucky,simpson county,15.20%
+kentucky,spencer county,15.30%
+kentucky,taylor county,21.50%
+kentucky,todd county,16.80%
+kentucky,trigg county,27.30%
+kentucky,trimble county,18.50%
+kentucky,union county,30.80%
+kentucky,warren county,13.50%
+kentucky,washington county,22.00%
+kentucky,wayne county,25.30%
+kentucky,webster county,27.50%
+kentucky,whitley county,21.10%
+kentucky,wolfe county,33.00%
+kentucky,woodford county,13.10%
+louisiana,acadia parish,18.80%
+louisiana,allen parish,19.30%
+louisiana,ascension parish,12.30%
+louisiana,assumption parish,16.90%
+louisiana,avoyelles parish,24.80%
+louisiana,beauregard parish,18.70%
+louisiana,bienville parish,20.20%
+louisiana,bossier parish,14.30%
+louisiana,caddo parish,18.60%
+louisiana,calcasieu parish,14.00%
+louisiana,caldwell parish,19.40%
+louisiana,cameron parish,15.50%
+louisiana,catahoula parish,17.90%
+louisiana,claiborne parish,14.60%
+louisiana,concordia parish,21.60%
+louisiana,de soto parish,20.70%
+louisiana,east baton rouge parish,14.50%
+louisiana,east carroll parish,21.60%
+louisiana,east feliciana parish,18.30%
+louisiana,evangeline parish,21.00%
+louisiana,franklin parish,18.50%
+louisiana,grant parish,19.20%
+louisiana,iberia parish,17.20%
+louisiana,iberville parish,16.40%
+louisiana,jackson parish,19.10%
+louisiana,jefferson davis parish,16.30%
+louisiana,jefferson parish,16.10%
+louisiana,lafayette parish,12.30%
+louisiana,lafourche parish,16.70%
+louisiana,lasalle parish,18.30%
+louisiana,lincoln parish,13.30%
+louisiana,livingston parish,14.00%
+louisiana,madison parish,22.80%
+louisiana,morehouse parish,17.50%
+louisiana,natchitoches parish,16.90%
+louisiana,orleans parish,14.10%
+louisiana,ouachita parish,14.60%
+louisiana,plaquemines parish,15.40%
+louisiana,pointe coupee parish,22.40%
+louisiana,rapides parish,18.40%
+louisiana,red river parish,18.50%
+louisiana,richland parish,15.40%
+louisiana,sabine parish,22.80%
+louisiana,st. bernard parish,18.60%
+louisiana,st. charles parish,16.30%
+louisiana,st. helena parish,29.00%
+louisiana,st. james parish,12.10%
+louisiana,st. john the baptist parish,15.20%
+louisiana,st. landry parish,14.50%
+louisiana,st. martin parish,16.90%
+louisiana,st. mary parish,16.20%
+louisiana,st. tammany parish,16.90%
+louisiana,tangipahoa parish,20.50%
+louisiana,tensas parish,20.10%
+louisiana,terrebonne parish,16.90%
+louisiana,union parish,16.60%
+louisiana,vermilion parish,17.20%
+louisiana,vernon parish,22.10%
+louisiana,washington parish,23.50%
+louisiana,webster parish,17.50%
+louisiana,west baton rouge parish,13.00%
+louisiana,west carroll parish,18.10%
+louisiana,west feliciana parish,12.10%
+louisiana,winn parish,18.90%
+maine,androscoggin county,17.10%
+maine,aroostook county,20.80%
+maine,cumberland county,11.30%
+maine,franklin county,18.40%
+maine,hancock county,13.70%
+maine,kennebec county,16.40%
+maine,knox county,12.70%
+maine,lincoln county,16.10%
+maine,oxford county,17.80%
+maine,penobscot county,18.50%
+maine,piscataquis county,22.00%
+maine,sagadahoc county,13.50%
+maine,somerset county,18.90%
+maine,waldo county,16.30%
+maine,washington county,23.40%
+maine,york county,14.50%
+maryland,allegany county,20.70%
+maryland,anne arundel county,10.70%
+maryland,baltimore city,16.50%
+maryland,baltimore county,11.80%
+maryland,calvert county,9.70%
+maryland,caroline county,15.20%
+maryland,carroll county,12.10%
+maryland,cecil county,12.90%
+maryland,charles county,10.80%
+maryland,dorchester county,16.50%
+maryland,frederick county,9.60%
+maryland,garrett county,18.70%
+maryland,harford county,10.90%
+maryland,howard county,8.40%
+maryland,kent county,14.70%
+maryland,montgomery county,9.10%
+maryland,prince george's county,10.10%
+maryland,queen anne's county,10.50%
+maryland,somerset county,16.30%
+maryland,st. mary's county,11.20%
+maryland,talbot county,16.40%
+maryland,washington county,15.30%
+maryland,wicomico county,12.20%
+maryland,worcester county,14.90%
+massachusetts,barnstable county,14.30%
+massachusetts,berkshire county,15.70%
+massachusetts,bristol county,14.60%
+massachusetts,dukes county,10.90%
+massachusetts,essex county,12.10%
+massachusetts,franklin county,17.00%
+massachusetts,hampden county,16.40%
+massachusetts,hampshire county,12.10%
+massachusetts,middlesex county,9.80%
+massachusetts,nantucket county,9.30%
+massachusetts,norfolk county,9.70%
+massachusetts,plymouth county,11.70%
+massachusetts,suffolk county,12.30%
+massachusetts,worcester county,12.90%
+michigan,alcona county,23.00%
+michigan,alger county,19.70%
+michigan,allegan county,11.20%
+michigan,alpena county,21.60%
+michigan,antrim county,15.90%
+michigan,arenac county,18.60%
+michigan,baraga county,20.20%
+michigan,barry county,13.40%
+michigan,bay county,16.60%
+michigan,benzie county,16.30%
+michigan,berrien county,13.80%
+michigan,branch county,15.30%
+michigan,calhoun county,14.30%
+michigan,cass county,16.30%
+michigan,charlevoix county,14.70%
+michigan,cheboygan county,19.30%
+michigan,chippewa county,17.70%
+michigan,clare county,23.60%
+michigan,clinton county,12.70%
+michigan,crawford county,22.90%
+michigan,delta county,17.70%
+michigan,dickinson county,16.50%
+michigan,eaton county,15.80%
+michigan,emmet county,14.00%
+michigan,genesee county,17.80%
+michigan,gladwin county,20.00%
+michigan,gogebic county,18.30%
+michigan,grand traverse county,12.60%
+michigan,gratiot county,15.70%
+michigan,hillsdale county,15.80%
+michigan,houghton county,11.30%
+michigan,huron county,15.80%
+michigan,ingham county,13.50%
+michigan,ionia county,13.80%
+michigan,iosco county,21.60%
+michigan,iron county,21.70%
+michigan,isabella county,14.80%
+michigan,jackson county,14.50%
+michigan,kalamazoo county,12.30%
+michigan,kalkaska county,18.20%
+michigan,kent county,10.80%
+michigan,keweenaw county,14.80%
+michigan,lake county,25.70%
+michigan,lapeer county,15.20%
+michigan,leelanau county,13.40%
+michigan,lenawee county,14.20%
+michigan,livingston county,11.20%
+michigan,luce county,24.30%
+michigan,mackinac county,20.20%
+michigan,macomb county,13.90%
+michigan,manistee county,19.30%
+michigan,marquette county,15.30%
+michigan,mason county,16.70%
+michigan,mecosta county,17.00%
+michigan,menominee county,16.50%
+michigan,midland county,14.10%
+michigan,missaukee county,18.20%
+michigan,monroe county,14.70%
+michigan,montcalm county,16.00%
+michigan,montmorency county,24.50%
+michigan,muskegon county,14.50%
+michigan,newaygo county,18.00%
+michigan,oakland county,11.40%
+michigan,oceana county,16.90%
+michigan,ogemaw county,21.20%
+michigan,ontonagon county,20.80%
+michigan,osceola county,19.30%
+michigan,oscoda county,22.30%
+michigan,otsego county,16.50%
+michigan,ottawa county,10.00%
+michigan,presque isle county,18.90%
+michigan,roscommon county,23.60%
+michigan,saginaw county,17.70%
+michigan,sanilac county,17.20%
+michigan,schoolcraft county,19.70%
+michigan,shiawassee county,16.30%
+michigan,st. clair county,16.60%
+michigan,st. joseph county,16.80%
+michigan,tuscola county,19.50%
+michigan,van buren county,12.30%
+michigan,washtenaw county,10.30%
+michigan,wayne county,15.90%
+michigan,wexford county,18.30%
+minnesota,aitkin county,20.20%
+minnesota,anoka county,9.90%
+minnesota,becker county,14.50%
+minnesota,beltrami county,14.90%
+minnesota,benton county,12.20%
+minnesota,big stone county,13.80%
+minnesota,blue earth county,11.00%
+minnesota,brown county,11.40%
+minnesota,carlton county,15.60%
+minnesota,carver county,8.40%
+minnesota,cass county,15.40%
+minnesota,chippewa county,13.60%
+minnesota,chisago county,11.20%
+minnesota,clay county,12.20%
+minnesota,clearwater county,17.10%
+minnesota,cook county,13.20%
+minnesota,cottonwood county,12.30%
+minnesota,crow wing county,15.40%
+minnesota,dakota county,10.30%
+minnesota,dodge county,10.30%
+minnesota,douglas county,11.80%
+minnesota,faribault county,13.50%
+minnesota,fillmore county,11.00%
+minnesota,freeborn county,13.60%
+minnesota,goodhue county,10.90%
+minnesota,grant county,14.90%
+minnesota,hennepin county,10.30%
+minnesota,houston county,11.00%
+minnesota,hubbard county,14.50%
+minnesota,isanti county,12.70%
+minnesota,itasca county,17.90%
+minnesota,jackson county,14.40%
+minnesota,kanabec county,16.00%
+minnesota,kandiyohi county,14.10%
+minnesota,kittson county,10.80%
+minnesota,koochiching county,19.20%
+minnesota,lac qui parle county,15.30%
+minnesota,lake county,15.90%
+minnesota,lake of the woods county,13.10%
+minnesota,le sueur county,11.90%
+minnesota,lincoln county,14.00%
+minnesota,lyon county,12.80%
+minnesota,mahnomen county,16.80%
+minnesota,marshall county,13.10%
+minnesota,martin county,16.50%
+minnesota,mcleod county,13.30%
+minnesota,meeker county,12.30%
+minnesota,mille lacs county,15.80%
+minnesota,morrison county,13.10%
+minnesota,mower county,11.60%
+minnesota,murray county,12.30%
+minnesota,nicollet county,11.90%
+minnesota,nobles county,12.10%
+minnesota,norman county,13.50%
+minnesota,olmsted county,9.70%
+minnesota,otter tail county,14.20%
+minnesota,pennington county,15.00%
+minnesota,pine county,17.70%
+minnesota,pipestone county,13.00%
+minnesota,polk county,11.70%
+minnesota,pope county,12.90%
+minnesota,ramsey county,12.30%
+minnesota,red lake county,12.60%
+minnesota,redwood county,12.90%
+minnesota,renville county,13.30%
+minnesota,rice county,10.10%
+minnesota,rock county,10.90%
+minnesota,roseau county,11.40%
+minnesota,scott county,8.70%
+minnesota,sherburne county,9.90%
+minnesota,sibley county,13.50%
+minnesota,st. louis county,15.00%
+minnesota,stearns county,11.40%
+minnesota,steele county,11.10%
+minnesota,stevens county,13.00%
+minnesota,swift county,17.10%
+minnesota,todd county,12.60%
+minnesota,traverse county,15.70%
+minnesota,wabasha county,11.90%
+minnesota,wadena county,15.50%
+minnesota,waseca county,11.80%
+minnesota,washington county,9.60%
+minnesota,watonwan county,11.40%
+minnesota,wilkin county,13.80%
+minnesota,winona county,11.20%
+minnesota,wright county,8.70%
+minnesota,yellow medicine county,13.90%
+mississippi,adams county,15.40%
+mississippi,alcorn county,22.40%
+mississippi,amite county,27.30%
+mississippi,attala county,17.40%
+mississippi,benton county,23.30%
+mississippi,bolivar county,18.60%
+mississippi,calhoun county,22.40%
+mississippi,carroll county,19.80%
+mississippi,chickasaw county,16.20%
+mississippi,choctaw county,23.30%
+mississippi,claiborne county,11.60%
+mississippi,clarke county,24.30%
+mississippi,clay county,11.40%
+mississippi,coahoma county,14.90%
+mississippi,copiah county,15.40%
+mississippi,covington county,17.00%
+mississippi,desoto county,12.30%
+mississippi,forrest county,19.50%
+mississippi,franklin county,22.50%
+mississippi,george county,20.80%
+mississippi,greene county,25.30%
+mississippi,grenada county,20.80%
+mississippi,hancock county,18.80%
+mississippi,harrison county,19.20%
+mississippi,hinds county,15.00%
+mississippi,holmes county,33.30%
+mississippi,humphreys county,27.10%
+mississippi,issaquena county,36.90%
+mississippi,itawamba county,13.90%
+mississippi,jackson county,21.00%
+mississippi,jasper county,22.20%
+mississippi,jefferson county,14.80%
+mississippi,jefferson davis county,23.40%
+mississippi,jones county,16.70%
+mississippi,kemper county,23.50%
+mississippi,lafayette county,10.80%
+mississippi,lamar county,15.10%
+mississippi,lauderdale county,17.90%
+mississippi,lawrence county,28.20%
+mississippi,leake county,19.50%
+mississippi,lee county,14.20%
+mississippi,leflore county,16.10%
+mississippi,lincoln county,15.20%
+mississippi,lowndes county,12.50%
+mississippi,madison county,11.20%
+mississippi,marion county,21.50%
+mississippi,marshall county,22.70%
+mississippi,monroe county,13.70%
+mississippi,montgomery county,16.90%
+mississippi,neshoba county,17.60%
+mississippi,newton county,21.50%
+mississippi,noxubee county,25.30%
+mississippi,oktibbeha county,12.10%
+mississippi,panola county,17.40%
+mississippi,pearl river county,20.70%
+mississippi,perry county,29.10%
+mississippi,pike county,18.50%
+mississippi,pontotoc county,18.60%
+mississippi,prentiss county,17.50%
+mississippi,quitman county,18.60%
+mississippi,rankin county,14.30%
+mississippi,scott county,18.00%
+mississippi,sharkey county,15.40%
+mississippi,simpson county,21.10%
+mississippi,smith county,20.00%
+mississippi,stone county,21.20%
+mississippi,sunflower county,15.10%
+mississippi,tallahatchie county,16.60%
+mississippi,tate county,15.30%
+mississippi,tippah county,20.00%
+mississippi,tishomingo county,20.90%
+mississippi,tunica county,10.70%
+mississippi,union county,19.50%
+mississippi,walthall county,21.10%
+mississippi,warren county,20.00%
+mississippi,washington county,24.70%
+mississippi,wayne county,19.00%
+mississippi,webster county,22.40%
+mississippi,wilkinson county,20.50%
+mississippi,winston county,23.90%
+mississippi,yalobusha county,20.90%
+mississippi,yazoo county,21.00%
+missouri,adair county,12.10%
+missouri,andrew county,12.50%
+missouri,atchison county,16.90%
+missouri,audrain county,19.60%
+missouri,barry county,16.80%
+missouri,barton county,21.70%
+missouri,bates county,18.20%
+missouri,benton county,24.20%
+missouri,bollinger county,19.10%
+missouri,boone county,12.70%
+missouri,buchanan county,17.60%
+missouri,butler county,23.10%
+missouri,caldwell county,14.00%
+missouri,callaway county,15.00%
+missouri,camden county,17.80%
+missouri,cape girardeau county,14.20%
+missouri,carroll county,13.40%
+missouri,carter county,26.90%
+missouri,cass county,13.40%
+missouri,cedar county,21.30%
+missouri,chariton county,16.00%
+missouri,christian county,12.60%
+missouri,clark county,14.30%
+missouri,clay county,12.60%
+missouri,clinton county,14.60%
+missouri,cole county,12.80%
+missouri,cooper county,15.10%
+missouri,crawford county,20.60%
+missouri,dade county,17.00%
+missouri,dallas county,21.40%
+missouri,daviess county,15.60%
+missouri,dekalb county,15.00%
+missouri,dent county,21.80%
+missouri,douglas county,20.40%
+missouri,dunklin county,22.80%
+missouri,franklin county,13.90%
+missouri,gasconade county,16.90%
+missouri,gentry county,16.10%
+missouri,greene county,14.70%
+missouri,grundy county,13.10%
+missouri,harrison county,20.70%
+missouri,henry county,19.40%
+missouri,hickory county,25.30%
+missouri,holt county,20.50%
+missouri,howard county,15.40%
+missouri,howell county,19.60%
+missouri,iron county,22.00%
+missouri,jackson county,13.10%
+missouri,jasper county,16.30%
+missouri,jefferson county,13.30%
+missouri,johnson county,13.60%
+missouri,knox county,14.60%
+missouri,laclede county,18.50%
+missouri,lafayette county,15.90%
+missouri,lawrence county,15.60%
+missouri,lewis county,12.90%
+missouri,lincoln county,15.00%
+missouri,linn county,14.20%
+missouri,livingston county,15.40%
+missouri,macon county,16.70%
+missouri,madison county,22.90%
+missouri,maries county,23.10%
+missouri,marion county,15.70%
+missouri,mcdonald county,14.50%
+missouri,mercer county,15.80%
+missouri,miller county,18.40%
+missouri,mississippi county,25.00%
+missouri,moniteau county,13.00%
+missouri,monroe county,15.50%
+missouri,montgomery county,18.20%
+missouri,morgan county,21.10%
+missouri,new madrid county,19.80%
+missouri,newton county,14.70%
+missouri,nodaway county,12.60%
+missouri,oregon county,23.00%
+missouri,osage county,12.80%
+missouri,ozark county,26.70%
+missouri,pemiscot county,23.00%
+missouri,perry county,15.10%
+missouri,pettis county,17.30%
+missouri,phelps county,16.20%
+missouri,pike county,15.90%
+missouri,platte county,12.70%
+missouri,polk county,16.50%
+missouri,pulaski county,17.40%
+missouri,putnam county,14.00%
+missouri,ralls county,16.00%
+missouri,randolph county,18.50%
+missouri,ray county,14.50%
+missouri,reynolds county,27.40%
+missouri,ripley county,24.10%
+missouri,saline county,17.50%
+missouri,schuyler county,19.30%
+missouri,scotland county,11.50%
+missouri,scott county,17.80%
+missouri,shannon county,22.30%
+missouri,shelby county,17.10%
+missouri,st. charles county,11.10%
+missouri,st. clair county,22.80%
+missouri,st. francois county,21.40%
+missouri,st. louis city,16.60%
+missouri,st. louis county,11.80%
+missouri,ste. genevieve county,16.80%
+missouri,stoddard county,21.50%
+missouri,stone county,19.10%
+missouri,sullivan county,14.30%
+missouri,taney county,17.00%
+missouri,texas county,25.50%
+missouri,vernon county,18.70%
+missouri,warren county,14.50%
+missouri,washington county,23.70%
+missouri,wayne county,29.10%
+missouri,webster county,14.30%
+missouri,worth county,22.80%
+missouri,wright county,19.70%
+montana,beaverhead county,18.60%
+montana,big horn county,12.60%
+montana,blaine county,19.00%
+montana,broadwater county,15.00%
+montana,carbon county,17.10%
+montana,carter county,16.10%
+montana,cascade county,15.70%
+montana,chouteau county,12.80%
+montana,custer county,20.20%
+montana,daniels county,15.70%
+montana,dawson county,17.40%
+montana,deer lodge county,26.00%
+montana,fallon county,11.60%
+montana,fergus county,14.40%
+montana,flathead county,11.50%
+montana,gallatin county,8.80%
+montana,garfield county,13.40%
+montana,glacier county,16.90%
+montana,golden valley county,20.40%
+montana,granite county,17.40%
+montana,hill county,11.70%
+montana,jefferson county,17.00%
+montana,judith basin county,11.40%
+montana,lake county,16.20%
+montana,lewis and clark county,14.50%
+montana,liberty county,18.40%
+montana,lincoln county,24.30%
+montana,madison county,13.50%
+montana,mccone county,13.30%
+montana,meagher county,20.70%
+montana,mineral county,18.10%
+montana,missoula county,12.30%
+montana,musselshell county,20.20%
+montana,park county,12.00%
+montana,petroleum county,7.70%
+montana,phillips county,15.00%
+montana,pondera county,18.40%
+montana,powder river county,15.80%
+montana,powell county,22.60%
+montana,prairie county,16.60%
+montana,ravalli county,18.40%
+montana,richland county,11.90%
+montana,roosevelt county,13.70%
+montana,rosebud county,17.60%
+montana,sanders county,22.50%
+montana,sheridan county,15.80%
+montana,silver bow county,19.40%
+montana,stillwater county,17.20%
+montana,sweet grass county,16.70%
+montana,teton county,12.80%
+montana,toole county,17.10%
+montana,treasure county,14.80%
+montana,valley county,15.00%
+montana,wheatland county,11.70%
+montana,wibaux county,17.40%
+montana,yellowstone county,13.90%
+nebraska,adams county,13.60%
+nebraska,antelope county,12.70%
+nebraska,arthur county,16.10%
+nebraska,banner county,16.00%
+nebraska,blaine county,20.50%
+nebraska,boone county,12.50%
+nebraska,box butte county,15.20%
+nebraska,boyd county,17.20%
+nebraska,brown county,15.10%
+nebraska,buffalo county,13.30%
+nebraska,burt county,17.90%
+nebraska,butler county,14.20%
+nebraska,cass county,13.90%
+nebraska,cedar county,10.70%
+nebraska,chase county,11.50%
+nebraska,cherry county,13.20%
+nebraska,cheyenne county,14.10%
+nebraska,clay county,12.50%
+nebraska,colfax county,7.00%
+nebraska,cuming county,9.70%
+nebraska,custer county,14.90%
+nebraska,dakota county,12.10%
+nebraska,dawes county,14.10%
+nebraska,dawson county,12.40%
+nebraska,deuel county,17.50%
+nebraska,dixon county,11.90%
+nebraska,dodge county,14.30%
+nebraska,douglas county,10.70%
+nebraska,dundy county,15.30%
+nebraska,fillmore county,14.60%
+nebraska,franklin county,19.00%
+nebraska,frontier county,19.10%
+nebraska,furnas county,19.00%
+nebraska,gage county,16.60%
+nebraska,garden county,20.20%
+nebraska,garfield county,14.90%
+nebraska,gosper county,12.00%
+nebraska,grant county,9.50%
+nebraska,greeley county,15.30%
+nebraska,hall county,12.70%
+nebraska,hamilton county,10.80%
+nebraska,harlan county,16.80%
+nebraska,hayes county,14.60%
+nebraska,hitchcock county,18.90%
+nebraska,holt county,13.40%
+nebraska,hooker county,18.40%
+nebraska,howard county,14.10%
+nebraska,jefferson county,21.00%
+nebraska,johnson county,18.40%
+nebraska,kearney county,9.00%
+nebraska,keith county,15.00%
+nebraska,keya paha county,12.70%
+nebraska,kimball county,18.00%
+nebraska,knox county,16.30%
+nebraska,lancaster county,11.80%
+nebraska,lincoln county,17.90%
+nebraska,logan county,10.70%
+nebraska,loup county,12.10%
+nebraska,madison county,12.30%
+nebraska,mcpherson county,9.30%
+nebraska,merrick county,17.00%
+nebraska,morrill county,14.00%
+nebraska,nance county,16.10%
+nebraska,nemaha county,17.50%
+nebraska,nuckolls county,14.50%
+nebraska,otoe county,13.70%
+nebraska,pawnee county,19.40%
+nebraska,perkins county,13.70%
+nebraska,phelps county,12.50%
+nebraska,pierce county,10.90%
+nebraska,platte county,11.40%
+nebraska,polk county,11.40%
+nebraska,red willow county,15.90%
+nebraska,richardson county,17.00%
+nebraska,rock county,12.30%
+nebraska,saline county,12.00%
+nebraska,sarpy county,10.10%
+nebraska,saunders county,11.60%
+nebraska,scotts bluff county,14.90%
+nebraska,seward county,11.30%
+nebraska,sheridan county,17.10%
+nebraska,sherman county,14.40%
+nebraska,sioux county,11.90%
+nebraska,stanton county,11.80%
+nebraska,thayer county,13.10%
+nebraska,thomas county,9.30%
+nebraska,thurston county,11.40%
+nebraska,valley county,18.60%
+nebraska,washington county,10.70%
+nebraska,wayne county,14.70%
+nebraska,webster county,12.30%
+nebraska,wheeler county,13.10%
+nebraska,york county,15.10%
+nevada,carson city,16.20%
+nevada,churchill county,21.30%
+nevada,clark county,13.00%
+nevada,douglas county,16.30%
+nevada,elko county,12.40%
+nevada,esmeralda county,30.30%
+nevada,eureka county,20.60%
+nevada,humboldt county,14.00%
+nevada,lander county,14.40%
+nevada,lincoln county,19.90%
+nevada,lyon county,18.00%
+nevada,mineral county,20.50%
+nevada,nye county,24.80%
+nevada,pershing county,19.40%
+nevada,storey county,20.80%
+nevada,washoe county,12.40%
+nevada,white pine county,18.10%
+new hampshire,belknap county,16.10%
+new hampshire,carroll county,16.20%
+new hampshire,cheshire county,14.60%
+new hampshire,coos county,21.00%
+new hampshire,grafton county,13.60%
+new hampshire,hillsborough county,11.70%
+new hampshire,merrimack county,14.50%
+new hampshire,rockingham county,11.30%
+new hampshire,strafford county,13.50%
+new hampshire,sullivan county,14.70%
+new jersey,atlantic county,14.00%
+new jersey,bergen county,8.60%
+new jersey,burlington county,11.60%
+new jersey,camden county,14.60%
+new jersey,cape may county,14.90%
+new jersey,cumberland county,14.80%
+new jersey,essex county,12.20%
+new jersey,gloucester county,12.90%
+new jersey,hudson county,8.70%
+new jersey,hunterdon county,9.00%
+new jersey,mercer county,10.10%
+new jersey,middlesex county,9.60%
+new jersey,monmouth county,10.40%
+new jersey,morris county,8.80%
+new jersey,ocean county,12.50%
+new jersey,passaic county,9.10%
+new jersey,salem county,16.00%
+new jersey,somerset county,8.20%
+new jersey,sussex county,11.10%
+new jersey,union county,9.00%
+new jersey,warren county,11.70%
+new mexico,bernalillo county,15.60%
+new mexico,catron county,39.70%
+new mexico,chaves county,19.40%
+new mexico,cibola county,21.20%
+new mexico,colfax county,26.20%
+new mexico,curry county,18.60%
+new mexico,de baca county,19.70%
+new mexico,donia ana county,14.10%
+new mexico,eddy county,16.10%
+new mexico,grant county,22.80%
+new mexico,guadalupe county,22.40%
+new mexico,harding county,20.50%
+new mexico,hidalgo county,17.60%
+new mexico,lea county,12.60%
+new mexico,lincoln county,22.80%
+new mexico,los alamos county,10.40%
+new mexico,luna county,21.50%
+new mexico,mckinley county,15.90%
+new mexico,mora county,28.70%
+new mexico,otero county,20.20%
+new mexico,quay county,26.40%
+new mexico,rio arriba county,14.90%
+new mexico,roosevelt county,19.60%
+new mexico,san juan county,15.70%
+new mexico,san miguel county,24.50%
+new mexico,sandoval county,15.10%
+new mexico,santa fe county,14.80%
+new mexico,sierra county,28.90%
+new mexico,socorro county,25.80%
+new mexico,taos county,18.40%
+new mexico,torrance county,25.10%
+new mexico,union county,23.30%
+new mexico,valencia county,21.10%
+new york,albany county,12.50%
+new york,allegany county,16.60%
+new york,bronx county,16.50%
+new york,broome county,15.80%
+new york,cattaraugus county,16.80%
+new york,cayuga county,14.30%
+new york,chautauqua county,17.80%
+new york,chemung county,15.90%
+new york,chenango county,18.70%
+new york,clinton county,17.50%
+new york,columbia county,14.90%
+new york,cortland county,14.20%
+new york,delaware county,18.20%
+new york,dutchess county,13.00%
+new york,erie county,13.70%
+new york,essex county,17.30%
+new york,franklin county,17.10%
+new york,fulton county,17.30%
+new york,genesee county,15.00%
+new york,greene county,14.00%
+new york,hamilton county,15.80%
+new york,herkimer county,15.80%
+new york,jefferson county,14.90%
+new york,kings county,10.70%
+new york,lewis county,14.90%
+new york,livingston county,14.10%
+new york,madison county,12.80%
+new york,monroe county,14.50%
+new york,montgomery county,16.30%
+new york,nassau county,9.10%
+new york,new york county,11.50%
+new york,niagara county,15.20%
+new york,oneida county,15.10%
+new york,onondaga county,13.80%
+new york,ontario county,15.00%
+new york,orange county,11.30%
+new york,orleans county,15.60%
+new york,oswego county,15.40%
+new york,otsego county,13.70%
+new york,putnam county,10.20%
+new york,queens county,10.30%
+new york,rensselaer county,14.30%
+new york,richmond county,10.40%
+new york,rockland county,8.90%
+new york,saratoga county,11.40%
+new york,schenectady county,13.00%
+new york,schoharie county,16.40%
+new york,schuyler county,15.10%
+new york,seneca county,18.00%
+new york,st. lawrence county,17.70%
+new york,steuben county,15.30%
+new york,suffolk county,10.10%
+new york,sullivan county,16.20%
+new york,tioga county,15.70%
+new york,tompkins county,12.00%
+new york,ulster county,14.10%
+new york,warren county,16.30%
+new york,washington county,15.10%
+new york,wayne county,14.50%
+new york,westchester county,10.30%
+new york,wyoming county,13.30%
+new york,yates county,11.10%
+north carolina,alamance county,12.40%
+north carolina,alexander county,18.20%
+north carolina,alleghany county,17.40%
+north carolina,anson county,21.70%
+north carolina,ashe county,19.20%
+north carolina,avery county,18.10%
+north carolina,beaufort county,16.70%
+north carolina,bertie county,24.80%
+north carolina,bladen county,15.50%
+north carolina,brunswick county,15.30%
+north carolina,buncombe county,13.80%
+north carolina,burke county,19.80%
+north carolina,cabarrus county,10.70%
+north carolina,caldwell county,18.60%
+north carolina,camden county,14.50%
+north carolina,carteret county,17.60%
+north carolina,caswell county,20.00%
+north carolina,catawba county,13.90%
+north carolina,chatham county,11.80%
+north carolina,cherokee county,17.60%
+north carolina,chowan county,14.90%
+north carolina,clay county,17.30%
+north carolina,cleveland county,17.00%
+north carolina,columbus county,16.70%
+north carolina,craven county,15.90%
+north carolina,cumberland county,16.90%
+north carolina,currituck county,12.20%
+north carolina,dare county,10.60%
+north carolina,davidson county,15.40%
+north carolina,davie county,17.50%
+north carolina,duplin county,17.30%
+north carolina,durham county,9.90%
+north carolina,edgecombe county,17.10%
+north carolina,forsyth county,12.60%
+north carolina,franklin county,16.50%
+north carolina,gaston county,14.50%
+north carolina,gates county,17.20%
+north carolina,graham county,18.80%
+north carolina,granville county,16.20%
+north carolina,greene county,19.60%
+north carolina,guilford county,12.00%
+north carolina,halifax county,20.90%
+north carolina,harnett county,15.50%
+north carolina,haywood county,17.30%
+north carolina,henderson county,15.00%
+north carolina,hertford county,20.00%
+north carolina,hoke county,18.20%
+north carolina,hyde county,18.90%
+north carolina,iredell county,11.70%
+north carolina,jackson county,12.80%
+north carolina,johnston county,13.00%
+north carolina,jones county,21.80%
+north carolina,lee county,17.70%
+north carolina,lenoir county,23.00%
+north carolina,lincoln county,15.10%
+north carolina,macon county,16.10%
+north carolina,madison county,18.60%
+north carolina,martin county,20.50%
+north carolina,mcdowell county,17.30%
+north carolina,mecklenburg county,8.30%
+north carolina,mitchell county,20.10%
+north carolina,montgomery county,18.60%
+north carolina,moore county,14.00%
+north carolina,nash county,14.90%
+north carolina,new hanover county,11.80%
+north carolina,northampton county,20.80%
+north carolina,onslow county,16.60%
+north carolina,orange county,8.60%
+north carolina,pamlico county,19.60%
+north carolina,pasquotank county,15.10%
+north carolina,pender county,15.30%
+north carolina,perquimans county,23.60%
+north carolina,person county,18.90%
+north carolina,pitt county,14.80%
+north carolina,polk county,17.40%
+north carolina,randolph county,15.90%
+north carolina,richmond county,16.70%
+north carolina,robeson county,17.80%
+north carolina,rockingham county,17.80%
+north carolina,rowan county,15.00%
+north carolina,rutherford county,21.40%
+north carolina,sampson county,14.60%
+north carolina,scotland county,17.90%
+north carolina,stanly county,17.80%
+north carolina,stokes county,19.40%
+north carolina,surry county,18.60%
+north carolina,swain county,16.80%
+north carolina,transylvania county,14.50%
+north carolina,tyrrell county,22.70%
+north carolina,union county,9.20%
+north carolina,vance county,18.90%
+north carolina,wake county,9.00%
+north carolina,warren county,21.20%
+north carolina,washington county,26.10%
+north carolina,watauga county,11.90%
+north carolina,wayne county,15.80%
+north carolina,wilkes county,18.20%
+north carolina,wilson county,14.90%
+north carolina,yadkin county,15.80%
+north carolina,yancey county,19.90%
+north dakota,adams county,16.10%
+north dakota,barnes county,13.30%
+north dakota,benson county,13.50%
+north dakota,billings county,9.10%
+north dakota,bottineau county,12.90%
+north dakota,bowman county,10.30%
+north dakota,burke county,14.00%
+north dakota,burleigh county,11.60%
+north dakota,cass county,10.50%
+north dakota,cavalier county,12.60%
+north dakota,dickey county,11.30%
+north dakota,divide county,14.50%
+north dakota,dunn county,13.10%
+north dakota,eddy county,17.00%
+north dakota,emmons county,12.40%
+north dakota,foster county,12.40%
+north dakota,golden valley county,20.40%
+north dakota,grand forks county,9.50%
+north dakota,grant county,13.80%
+north dakota,griggs county,13.40%
+north dakota,hettinger county,19.60%
+north dakota,kidder county,11.90%
+north dakota,lamoure county,12.00%
+north dakota,logan county,12.00%
+north dakota,mchenry county,12.20%
+north dakota,mcintosh county,12.00%
+north dakota,mckenzie county,10.00%
+north dakota,mclean county,11.50%
+north dakota,mercer county,13.80%
+north dakota,morton county,9.30%
+north dakota,mountrail county,13.90%
+north dakota,nelson county,18.60%
+north dakota,oliver county,8.00%
+north dakota,pembina county,13.10%
+north dakota,pierce county,8.80%
+north dakota,ramsey county,17.60%
+north dakota,ransom county,11.10%
+north dakota,renville county,9.90%
+north dakota,richland county,12.70%
+north dakota,rolette county,18.00%
+north dakota,sargent county,12.60%
+north dakota,sheridan county,11.50%
+north dakota,sioux county,15.70%
+north dakota,slope county,15.30%
+north dakota,stark county,11.10%
+north dakota,steele county,10.60%
+north dakota,stutsman county,16.70%
+north dakota,towner county,16.30%
+north dakota,traill county,11.30%
+north dakota,walsh county,14.20%
+north dakota,ward county,13.40%
+north dakota,wells county,13.00%
+north dakota,williams county,11.20%
+ohio,adams county,22.20%
+ohio,allen county,15.90%
+ohio,ashland county,14.60%
+ohio,ashtabula county,17.00%
+ohio,athens county,17.00%
+ohio,auglaize county,13.90%
+ohio,belmont county,16.50%
+ohio,brown county,17.60%
+ohio,butler county,11.80%
+ohio,carroll county,18.00%
+ohio,champaign county,14.00%
+ohio,clark county,16.90%
+ohio,clermont county,14.30%
+ohio,clinton county,16.50%
+ohio,columbiana county,17.30%
+ohio,coshocton county,16.10%
+ohio,crawford county,15.80%
+ohio,cuyahoga county,15.20%
+ohio,darke county,13.80%
+ohio,defiance county,13.90%
+ohio,delaware county,8.20%
+ohio,erie county,15.60%
+ohio,fairfield county,13.80%
+ohio,fayette county,18.40%
+ohio,franklin county,11.60%
+ohio,fulton county,14.70%
+ohio,gallia county,19.70%
+ohio,geauga county,9.90%
+ohio,greene county,13.30%
+ohio,guernsey county,17.80%
+ohio,hamilton county,12.60%
+ohio,hancock county,12.90%
+ohio,hardin county,13.20%
+ohio,harrison county,16.10%
+ohio,henry county,12.30%
+ohio,highland county,18.00%
+ohio,hocking county,17.50%
+ohio,holmes county,7.80%
+ohio,huron county,16.20%
+ohio,jackson county,22.30%
+ohio,jefferson county,17.60%
+ohio,knox county,13.20%
+ohio,lake county,14.00%
+ohio,lawrence county,22.40%
+ohio,licking county,15.50%
+ohio,logan county,14.70%
+ohio,lorain county,14.70%
+ohio,lucas county,15.10%
+ohio,madison county,14.80%
+ohio,mahoning county,16.70%
+ohio,marion county,17.50%
+ohio,medina county,12.60%
+ohio,meigs county,22.00%
+ohio,mercer county,10.10%
+ohio,miami county,12.60%
+ohio,monroe county,17.80%
+ohio,montgomery county,15.20%
+ohio,morgan county,19.90%
+ohio,morrow county,15.70%
+ohio,muskingum county,15.70%
+ohio,noble county,20.00%
+ohio,ottawa county,15.70%
+ohio,paulding county,16.80%
+ohio,perry county,17.10%
+ohio,pickaway county,15.10%
+ohio,pike county,23.90%
+ohio,portage county,13.10%
+ohio,preble county,15.40%
+ohio,putnam county,9.70%
+ohio,richland county,16.00%
+ohio,ross county,18.80%
+ohio,sandusky county,16.60%
+ohio,scioto county,22.00%
+ohio,seneca county,14.90%
+ohio,shelby county,14.10%
+ohio,stark county,14.00%
+ohio,summit county,13.60%
+ohio,trumbull county,17.40%
+ohio,tuscarawas county,15.40%
+ohio,union county,10.60%
+ohio,van wert county,13.90%
+ohio,vinton county,22.10%
+ohio,warren county,10.40%
+ohio,washington county,16.60%
+ohio,wayne county,12.70%
+ohio,williams county,17.20%
+ohio,wood county,12.70%
+ohio,wyandot county,13.90%
+oklahoma,adair county,22.20%
+oklahoma,alfalfa county,17.70%
+oklahoma,atoka county,22.70%
+oklahoma,beaver county,16.10%
+oklahoma,beckham county,14.70%
+oklahoma,blaine county,16.40%
+oklahoma,bryan county,20.00%
+oklahoma,caddo county,19.30%
+oklahoma,canadian county,14.10%
+oklahoma,carter county,22.40%
+oklahoma,cherokee county,20.60%
+oklahoma,choctaw county,26.00%
+oklahoma,cimarron county,28.70%
+oklahoma,cleveland county,14.90%
+oklahoma,coal county,24.50%
+oklahoma,comanche county,21.30%
+oklahoma,cotton county,26.00%
+oklahoma,craig county,22.50%
+oklahoma,creek county,15.20%
+oklahoma,custer county,12.50%
+oklahoma,delaware county,21.80%
+oklahoma,dewey county,18.60%
+oklahoma,ellis county,20.20%
+oklahoma,garfield county,18.30%
+oklahoma,garvin county,16.00%
+oklahoma,grady county,18.90%
+oklahoma,grant county,19.70%
+oklahoma,greer county,19.20%
+oklahoma,harmon county,20.50%
+oklahoma,harper county,16.80%
+oklahoma,haskell county,21.10%
+oklahoma,hughes county,20.20%
+oklahoma,jackson county,15.80%
+oklahoma,jefferson county,27.50%
+oklahoma,johnston county,24.90%
+oklahoma,kay county,18.80%
+oklahoma,kingfisher county,11.90%
+oklahoma,kiowa county,22.50%
+oklahoma,latimer county,22.20%
+oklahoma,le flore county,21.00%
+oklahoma,lincoln county,20.40%
+oklahoma,logan county,15.90%
+oklahoma,love county,22.20%
+oklahoma,major county,17.90%
+oklahoma,marshall county,22.30%
+oklahoma,mayes county,24.10%
+oklahoma,mcclain county,14.50%
+oklahoma,mccurtain county,22.30%
+oklahoma,mcintosh county,25.40%
+oklahoma,murray county,21.80%
+oklahoma,muskogee county,23.80%
+oklahoma,noble county,18.10%
+oklahoma,nowata county,20.20%
+oklahoma,okfuskee county,20.70%
+oklahoma,oklahoma county,14.20%
+oklahoma,okmulgee county,21.30%
+oklahoma,osage county,20.60%
+oklahoma,ottawa county,21.40%
+oklahoma,pawnee county,18.20%
+oklahoma,payne county,13.20%
+oklahoma,pittsburg county,22.80%
+oklahoma,pontotoc county,14.60%
+oklahoma,pottawatomie county,19.50%
+oklahoma,pushmataha county,28.90%
+oklahoma,roger mills county,19.70%
+oklahoma,rogers county,16.80%
+oklahoma,seminole county,24.10%
+oklahoma,sequoyah county,24.40%
+oklahoma,stephens county,20.80%
+oklahoma,texas county,11.60%
+oklahoma,tillman county,25.90%
+oklahoma,tulsa county,13.60%
+oklahoma,wagoner county,17.90%
+oklahoma,washington county,18.00%
+oklahoma,washita county,22.70%
+oklahoma,woods county,16.80%
+oklahoma,woodward county,17.20%
+oregon,baker county,21.90%
+oregon,benton county,12.40%
+oregon,clackamas county,12.70%
+oregon,clatsop county,20.00%
+oregon,columbia county,16.70%
+oregon,coos county,23.30%
+oregon,crook county,18.70%
+oregon,curry county,21.90%
+oregon,deschutes county,12.00%
+oregon,douglas county,21.60%
+oregon,gilliam county,17.30%
+oregon,grant county,24.30%
+oregon,harney county,18.70%
+oregon,hood river county,12.60%
+oregon,jackson county,16.40%
+oregon,jefferson county,17.90%
+oregon,josephine county,20.70%
+oregon,klamath county,19.50%
+oregon,lake county,16.80%
+oregon,lane county,17.10%
+oregon,lincoln county,22.40%
+oregon,linn county,18.50%
+oregon,malheur county,15.10%
+oregon,marion county,15.60%
+oregon,morrow county,16.60%
+oregon,multnomah county,13.70%
+oregon,polk county,16.40%
+oregon,sherman county,22.50%
+oregon,tillamook county,20.40%
+oregon,umatilla county,18.20%
+oregon,union county,17.50%
+oregon,wallowa county,19.60%
+oregon,wasco county,17.90%
+oregon,washington county,11.00%
+oregon,wheeler county,27.20%
+oregon,yamhill county,16.10%
+pennsylvania,adams county,14.20%
+pennsylvania,allegheny county,13.80%
+pennsylvania,armstrong county,16.90%
+pennsylvania,beaver county,15.60%
+pennsylvania,bedford county,16.20%
+pennsylvania,berks county,14.00%
+pennsylvania,blair county,15.90%
+pennsylvania,bradford county,14.50%
+pennsylvania,bucks county,10.90%
+pennsylvania,butler county,13.20%
+pennsylvania,cambria county,18.10%
+pennsylvania,cameron county,24.70%
+pennsylvania,carbon county,16.60%
+pennsylvania,centre county,10.70%
+pennsylvania,chester county,9.40%
+pennsylvania,clarion county,14.90%
+pennsylvania,clearfield county,19.50%
+pennsylvania,clinton county,17.00%
+pennsylvania,columbia county,14.90%
+pennsylvania,crawford county,17.10%
+pennsylvania,cumberland county,12.80%
+pennsylvania,dauphin county,13.20%
+pennsylvania,delaware county,12.10%
+pennsylvania,elk county,16.70%
+pennsylvania,erie county,15.80%
+pennsylvania,fayette county,20.30%
+pennsylvania,forest county,23.20%
+pennsylvania,franklin county,15.90%
+pennsylvania,fulton county,17.30%
+pennsylvania,greene county,18.90%
+pennsylvania,huntingdon county,16.90%
+pennsylvania,indiana county,16.50%
+pennsylvania,jefferson county,15.20%
+pennsylvania,juniata county,12.70%
+pennsylvania,lackawanna county,16.20%
+pennsylvania,lancaster county,11.80%
+pennsylvania,lawrence county,17.50%
+pennsylvania,lebanon county,13.90%
+pennsylvania,lehigh county,13.10%
+pennsylvania,luzerne county,16.00%
+pennsylvania,lycoming county,17.10%
+pennsylvania,mckean county,19.60%
+pennsylvania,mercer county,17.30%
+pennsylvania,mifflin county,15.20%
+pennsylvania,monroe county,14.60%
+pennsylvania,montgomery county,10.40%
+pennsylvania,montour county,13.50%
+pennsylvania,northampton county,12.20%
+pennsylvania,northumberland county,16.40%
+pennsylvania,perry county,13.90%
+pennsylvania,philadelphia county,17.40%
+pennsylvania,pike county,16.30%
+pennsylvania,potter county,17.80%
+pennsylvania,schuylkill county,17.90%
+pennsylvania,snyder county,15.50%
+pennsylvania,somerset county,16.60%
+pennsylvania,sullivan county,15.70%
+pennsylvania,susquehanna county,16.30%
+pennsylvania,tioga county,18.40%
+pennsylvania,union county,13.20%
+pennsylvania,venango county,17.90%
+pennsylvania,warren county,15.80%
+pennsylvania,washington county,14.80%
+pennsylvania,wayne county,17.30%
+pennsylvania,westmoreland county,15.10%
+pennsylvania,wyoming county,14.10%
+pennsylvania,york county,14.00%
+puerto rico,adjuntas municipio,17.30%
+puerto rico,aguada municipio,28.50%
+puerto rico,aguadilla municipio,26.20%
+puerto rico,aguas buenas municipio,30.00%
+puerto rico,aibonito municipio,35.10%
+puerto rico,arecibo municipio,20.70%
+puerto rico,arroyo municipio,23.90%
+puerto rico,añasco municipio,26.80%
+puerto rico,barceloneta municipio,20.20%
+puerto rico,barranquitas municipio,18.00%
+puerto rico,bayamón municipio,23.00%
+puerto rico,cabo rojo municipio,21.30%
+puerto rico,caguas municipio,25.10%
+puerto rico,camuy municipio,29.40%
+puerto rico,canóvanas municipio,19.70%
+puerto rico,carolina municipio,19.40%
+puerto rico,cataño municipio,18.00%
+puerto rico,cayey municipio,32.20%
+puerto rico,ceiba municipio,11.60%
+puerto rico,ciales municipio,24.10%
+puerto rico,cidra municipio,36.30%
+puerto rico,coamo municipio,32.20%
+puerto rico,comerío municipio,26.50%
+puerto rico,corozal municipio,22.10%
+puerto rico,culebra municipio,8.40%
+puerto rico,dorado municipio,15.60%
+puerto rico,fajardo municipio,21.80%
+puerto rico,florida municipio,22.40%
+puerto rico,guayama municipio,24.50%
+puerto rico,guayanilla municipio,15.30%
+puerto rico,guaynabo municipio,21.80%
+puerto rico,gurabo municipio,23.50%
+puerto rico,guánica municipio,32.60%
+puerto rico,hatillo municipio,25.10%
+puerto rico,hormigueros municipio,29.70%
+puerto rico,humacao municipio,9.00%
+puerto rico,isabela municipio,25.70%
+puerto rico,jayuya municipio,26.20%
+puerto rico,juana díaz municipio,26.40%
+puerto rico,juncos municipio,28.60%
+puerto rico,lajas municipio,29.20%
+puerto rico,lares municipio,24.50%
+puerto rico,las marías municipio,9.80%
+puerto rico,las piedras municipio,13.00%
+puerto rico,loíza municipio,21.30%
+puerto rico,luquillo municipio,26.00%
+puerto rico,manatí municipio,21.00%
+puerto rico,maricao municipio,7.60%
+puerto rico,maunabo municipio,16.00%
+puerto rico,mayag�oez municipio,23.20%
+puerto rico,moca municipio,21.80%
+puerto rico,morovis municipio,21.40%
+puerto rico,naguabo municipio,8.20%
+puerto rico,naranjito municipio,24.30%
+puerto rico,orocovis municipio,19.90%
+puerto rico,patillas municipio,14.00%
+puerto rico,peñuelas municipio,15.80%
+puerto rico,ponce municipio,24.90%
+puerto rico,quebradillas municipio,27.70%
+puerto rico,rincón municipio,33.70%
+puerto rico,río grande municipio,23.50%
+puerto rico,sabana grande municipio,31.20%
+puerto rico,salinas municipio,31.00%
+puerto rico,san germán municipio,11.10%
+puerto rico,san juan municipio,21.00%
+puerto rico,san lorenzo municipio,13.60%
+puerto rico,san sebastián municipio,30.00%
+puerto rico,santa isabel municipio,30.30%
+puerto rico,toa alta municipio,16.70%
+puerto rico,toa baja municipio,28.60%
+puerto rico,trujillo alto municipio,22.60%
+puerto rico,utuado municipio,22.10%
+puerto rico,vega alta municipio,24.90%
+puerto rico,vega baja municipio,21.50%
+puerto rico,vieques municipio,15.60%
+puerto rico,villalba municipio,21.50%
+puerto rico,yabucoa municipio,12.30%
+puerto rico,yauco municipio,29.20%
+rhode island,bristol county,11.60%
+rhode island,kent county,15.10%
+rhode island,newport county,11.70%
+rhode island,providence county,14.20%
+rhode island,washington county,10.70%
+south carolina,abbeville county,13.20%
+south carolina,aiken county,15.80%
+south carolina,allendale county,26.50%
+south carolina,anderson county,15.50%
+south carolina,bamberg county,17.70%
+south carolina,barnwell county,19.60%
+south carolina,beaufort county,13.70%
+south carolina,berkeley county,13.30%
+south carolina,calhoun county,17.10%
+south carolina,charleston county,10.90%
+south carolina,cherokee county,16.60%
+south carolina,chester county,14.60%
+south carolina,chesterfield county,18.80%
+south carolina,clarendon county,18.00%
+south carolina,colleton county,19.30%
+south carolina,darlington county,16.60%
+south carolina,dillon county,16.50%
+south carolina,dorchester county,13.70%
+south carolina,edgefield county,15.30%
+south carolina,fairfield county,18.10%
+south carolina,florence county,13.30%
+south carolina,georgetown county,16.10%
+south carolina,greenville county,12.40%
+south carolina,greenwood county,11.10%
+south carolina,hampton county,22.20%
+south carolina,horry county,18.10%
+south carolina,jasper county,15.30%
+south carolina,kershaw county,16.30%
+south carolina,lancaster county,14.20%
+south carolina,laurens county,17.40%
+south carolina,lee county,17.10%
+south carolina,lexington county,13.60%
+south carolina,marion county,17.10%
+south carolina,marlboro county,18.60%
+south carolina,mccormick county,17.30%
+south carolina,newberry county,16.50%
+south carolina,oconee county,18.20%
+south carolina,orangeburg county,14.20%
+south carolina,pickens county,15.70%
+south carolina,richland county,14.10%
+south carolina,saluda county,16.60%
+south carolina,spartanburg county,15.30%
+south carolina,sumter county,14.90%
+south carolina,union county,20.80%
+south carolina,williamsburg county,20.50%
+south carolina,york county,10.50%
+south dakota,aurora county,12.80%
+south dakota,beadle county,13.30%
+south dakota,bennett county,9.60%
+south dakota,bon homme county,13.70%
+south dakota,brookings county,9.10%
+south dakota,brown county,12.10%
+south dakota,brule county,16.50%
+south dakota,buffalo county,15.70%
+south dakota,butte county,13.30%
+south dakota,campbell county,13.00%
+south dakota,charles mix county,11.60%
+south dakota,clark county,10.90%
+south dakota,clay county,11.70%
+south dakota,codington county,11.00%
+south dakota,corson county,15.20%
+south dakota,custer county,19.60%
+south dakota,davison county,14.80%
+south dakota,day county,13.10%
+south dakota,deuel county,12.50%
+south dakota,dewey county,9.50%
+south dakota,douglas county,11.20%
+south dakota,edmunds county,11.30%
+south dakota,fall river county,22.90%
+south dakota,faulk county,12.00%
+south dakota,grant county,14.90%
+south dakota,gregory county,12.60%
+south dakota,haakon county,12.50%
+south dakota,hamlin county,7.40%
+south dakota,hand county,13.00%
+south dakota,hanson county,8.00%
+south dakota,harding county,8.20%
+south dakota,hughes county,12.40%
+south dakota,hutchinson county,12.70%
+south dakota,hyde county,11.90%
+south dakota,jackson county,9.40%
+south dakota,jerauld county,14.70%
+south dakota,jones county,8.00%
+south dakota,kingsbury county,11.00%
+south dakota,lake county,14.80%
+south dakota,lawrence county,17.30%
+south dakota,lincoln county,8.60%
+south dakota,lyman county,15.60%
+south dakota,marshall county,11.60%
+south dakota,mccook county,11.90%
+south dakota,mcpherson county,12.60%
+south dakota,meade county,14.80%
+south dakota,mellette county,12.10%
+south dakota,miner county,19.20%
+south dakota,minnehaha county,10.30%
+south dakota,moody county,13.60%
+south dakota,oglala lakota county,9.90%
+south dakota,pennington county,14.90%
+south dakota,perkins county,13.80%
+south dakota,potter county,10.50%
+south dakota,roberts county,10.20%
+south dakota,sanborn county,12.20%
+south dakota,spink county,11.40%
+south dakota,stanley county,15.40%
+south dakota,sully county,9.80%
+south dakota,todd county,10.30%
+south dakota,tripp county,8.90%
+south dakota,turner county,10.50%
+south dakota,union county,12.00%
+south dakota,walworth county,14.00%
+south dakota,yankton county,14.20%
+south dakota,ziebach county,9.80%
+tennessee,anderson county,20.10%
+tennessee,bedford county,15.20%
+tennessee,benton county,24.40%
+tennessee,bledsoe county,24.40%
+tennessee,blount county,13.40%
+tennessee,bradley county,17.10%
+tennessee,campbell county,26.90%
+tennessee,cannon county,18.10%
+tennessee,carroll county,20.10%
+tennessee,carter county,22.60%
+tennessee,cheatham county,15.20%
+tennessee,chester county,10.80%
+tennessee,claiborne county,24.30%
+tennessee,clay county,23.10%
+tennessee,cocke county,22.70%
+tennessee,coffee county,18.30%
+tennessee,crockett county,17.50%
+tennessee,cumberland county,20.30%
+tennessee,davidson county,11.00%
+tennessee,decatur county,17.60%
+tennessee,dekalb county,21.60%
+tennessee,dickson county,18.10%
+tennessee,dyer county,17.10%
+tennessee,fayette county,17.30%
+tennessee,fentress county,24.50%
+tennessee,franklin county,19.30%
+tennessee,gibson county,20.30%
+tennessee,giles county,16.40%
+tennessee,grainger county,22.40%
+tennessee,greene county,22.30%
+tennessee,grundy county,26.20%
+tennessee,hamblen county,19.60%
+tennessee,hamilton county,14.20%
+tennessee,hancock county,25.50%
+tennessee,hardeman county,21.60%
+tennessee,hardin county,18.10%
+tennessee,hawkins county,23.00%
+tennessee,haywood county,26.10%
+tennessee,henderson county,17.70%
+tennessee,henry county,22.30%
+tennessee,hickman county,20.80%
+tennessee,houston county,19.20%
+tennessee,humphreys county,18.20%
+tennessee,jackson county,24.90%
+tennessee,jefferson county,19.50%
+tennessee,johnson county,19.70%
+tennessee,knox county,12.30%
+tennessee,lake county,28.30%
+tennessee,lauderdale county,22.70%
+tennessee,lawrence county,17.80%
+tennessee,lewis county,18.90%
+tennessee,lincoln county,17.20%
+tennessee,loudon county,15.30%
+tennessee,macon county,15.30%
+tennessee,madison county,16.60%
+tennessee,marion county,19.80%
+tennessee,marshall county,11.30%
+tennessee,maury county,11.50%
+tennessee,mcminn county,19.90%
+tennessee,mcnairy county,16.20%
+tennessee,meigs county,20.50%
+tennessee,monroe county,21.90%
+tennessee,montgomery county,14.90%
+tennessee,moore county,16.00%
+tennessee,morgan county,21.80%
+tennessee,obion county,21.80%
+tennessee,overton county,18.20%
+tennessee,perry county,19.50%
+tennessee,pickett county,27.00%
+tennessee,polk county,20.70%
+tennessee,putnam county,12.70%
+tennessee,rhea county,19.30%
+tennessee,roane county,18.70%
+tennessee,robertson county,13.20%
+tennessee,rutherford county,11.00%
+tennessee,scott county,26.30%
+tennessee,sequatchie county,22.10%
+tennessee,sevier county,16.30%
+tennessee,shelby county,12.60%
+tennessee,smith county,17.20%
+tennessee,stewart county,20.40%
+tennessee,sullivan county,18.40%
+tennessee,sumner county,12.10%
+tennessee,tipton county,18.80%
+tennessee,trousdale county,11.70%
+tennessee,unicoi county,19.90%
+tennessee,union county,21.50%
+tennessee,van buren county,22.20%
+tennessee,warren county,18.90%
+tennessee,washington county,16.50%
+tennessee,wayne county,19.00%
+tennessee,weakley county,19.40%
+tennessee,white county,17.70%
+tennessee,williamson county,7.80%
+tennessee,wilson county,11.90%
+texas,anderson county,18.20%
+texas,andrews county,11.40%
+texas,angelina county,19.40%
+texas,aransas county,18.20%
+texas,archer county,18.50%
+texas,armstrong county,11.10%
+texas,atascosa county,12.50%
+texas,austin county,12.50%
+texas,bailey county,11.80%
+texas,bandera county,20.50%
+texas,bastrop county,12.10%
+texas,baylor county,23.10%
+texas,bee county,15.80%
+texas,bell county,15.00%
+texas,bexar county,14.70%
+texas,blanco county,15.40%
+texas,borden county,10.80%
+texas,bosque county,17.90%
+texas,bowie county,13.70%
+texas,brazoria county,10.60%
+texas,brazos county,10.20%
+texas,brewster county,11.90%
+texas,briscoe county,23.00%
+texas,brooks county,23.40%
+texas,brown county,21.90%
+texas,burleson county,13.10%
+texas,burnet county,16.70%
+texas,caldwell county,14.30%
+texas,calhoun county,16.80%
+texas,callahan county,18.90%
+texas,cameron county,12.30%
+texas,camp county,19.20%
+texas,carson county,11.50%
+texas,cass county,20.70%
+texas,castro county,8.30%
+texas,chambers county,10.90%
+texas,cherokee county,12.40%
+texas,childress county,13.90%
+texas,clay county,20.50%
+texas,cochran county,20.10%
+texas,coke county,18.40%
+texas,coleman county,22.30%
+texas,collin county,7.70%
+texas,collingsworth county,15.20%
+texas,colorado county,15.50%
+texas,comal county,14.30%
+texas,comanche county,18.10%
+texas,concho county,21.40%
+texas,cooke county,15.20%
+texas,coryell county,19.10%
+texas,cottle county,28.80%
+texas,crane county,6.60%
+texas,crockett county,14.90%
+texas,crosby county,22.60%
+texas,culberson county,20.90%
+texas,dallam county,9.20%
+texas,dallas county,10.60%
+texas,dawson county,15.90%
+texas,deaf smith county,8.20%
+texas,delta county,21.60%
+texas,denton county,9.10%
+texas,dewitt county,16.40%
+texas,dickens county,25.90%
+texas,dimmit county,21.70%
+texas,donley county,10.70%
+texas,duval county,22.70%
+texas,eastland county,18.40%
+texas,ector county,10.40%
+texas,edwards county,17.70%
+texas,el paso county,13.80%
+texas,ellis county,12.00%
+texas,erath county,13.00%
+texas,falls county,19.90%
+texas,fannin county,14.60%
+texas,fayette county,15.10%
+texas,fisher county,18.70%
+texas,floyd county,15.10%
+texas,foard county,20.00%
+texas,fort bend county,7.60%
+texas,franklin county,15.20%
+texas,freestone county,20.40%
+texas,frio county,19.80%
+texas,gaines county,13.20%
+texas,galveston county,12.90%
+texas,garza county,16.80%
+texas,gillespie county,15.00%
+texas,glasscock county,10.70%
+texas,goliad county,16.50%
+texas,gonzales county,16.80%
+texas,gray county,12.30%
+texas,grayson county,14.50%
+texas,gregg county,13.10%
+texas,grimes county,13.60%
+texas,guadalupe county,13.80%
+texas,hale county,13.60%
+texas,hall county,20.60%
+texas,hamilton county,20.60%
+texas,hansford county,11.50%
+texas,hardeman county,24.40%
+texas,hardin county,18.10%
+texas,harris county,10.50%
+texas,harrison county,17.70%
+texas,hartley county,10.90%
+texas,haskell county,20.40%
+texas,hays county,11.30%
+texas,hemphill county,20.10%
+texas,henderson county,18.50%
+texas,hidalgo county,12.50%
+texas,hill county,17.80%
+texas,hockley county,15.90%
+texas,hood county,13.90%
+texas,hopkins county,14.50%
+texas,houston county,23.70%
+texas,howard county,16.70%
+texas,hudspeth county,31.80%
+texas,hunt county,15.40%
+texas,hutchinson county,17.30%
+texas,irion county,14.70%
+texas,jack county,12.00%
+texas,jackson county,14.30%
+texas,jasper county,13.90%
+texas,jeff davis county,22.10%
+texas,jefferson county,14.70%
+texas,jim hogg county,15.60%
+texas,jim wells county,17.00%
+texas,johnson county,11.30%
+texas,jones county,16.80%
+texas,karnes county,17.30%
+texas,kaufman county,10.90%
+texas,kendall county,12.10%
+texas,kenedy county,51.90%
+texas,kent county,25.10%
+texas,kerr county,16.90%
+texas,kimble county,17.50%
+texas,king county,17.50%
+texas,kinney county,29.10%
+texas,kleberg county,12.80%
+texas,knox county,17.30%
+texas,la salle county,17.20%
+texas,lamar county,18.10%
+texas,lamb county,14.40%
+texas,lampasas county,23.80%
+texas,lavaca county,13.40%
+texas,lee county,15.90%
+texas,leon county,22.50%
+texas,liberty county,14.90%
+texas,limestone county,17.70%
+texas,lipscomb county,12.80%
+texas,live oak county,17.60%
+texas,llano county,19.30%
+texas,loving county,42.60%
+texas,lubbock county,13.30%
+texas,lynn county,17.10%
+texas,madison county,14.70%
+texas,marion county,23.30%
+texas,martin county,8.70%
+texas,mason county,18.60%
+texas,matagorda county,17.00%
+texas,maverick county,11.70%
+texas,mcculloch county,21.10%
+texas,mclennan county,13.40%
+texas,mcmullen county,12.20%
+texas,medina county,18.90%
+texas,menard county,22.80%
+texas,midland county,11.00%
+texas,milam county,15.90%
+texas,mills county,16.00%
+texas,mitchell county,18.00%
+texas,montague county,19.90%
+texas,montgomery county,10.20%
+texas,moore county,10.40%
+texas,morris county,23.00%
+texas,motley county,20.20%
+texas,nacogdoches county,16.50%
+texas,navarro county,17.50%
+texas,newton county,15.70%
+texas,nolan county,19.20%
+texas,nueces county,13.80%
+texas,ochiltree county,15.40%
+texas,oldham county,9.50%
+texas,orange county,16.80%
+texas,palo pinto county,16.80%
+texas,panola county,18.00%
+texas,parker county,13.10%
+texas,parmer county,12.60%
+texas,pecos county,9.40%
+texas,polk county,23.70%
+texas,potter county,14.60%
+texas,presidio county,21.10%
+texas,rains county,20.60%
+texas,randall county,11.20%
+texas,reagan county,7.80%
+texas,real county,33.10%
+texas,red river county,18.80%
+texas,reeves county,10.90%
+texas,refugio county,20.70%
+texas,roberts county,9.40%
+texas,robertson county,19.40%
+texas,rockwall county,8.50%
+texas,runnels county,17.00%
+texas,rusk county,15.10%
+texas,sabine county,25.20%
+texas,san augustine county,22.00%
+texas,san jacinto county,21.80%
+texas,san patricio county,19.00%
+texas,san saba county,15.60%
+texas,schleicher county,12.30%
+texas,scurry county,14.00%
+texas,shackelford county,19.30%
+texas,shelby county,16.00%
+texas,sherman county,21.20%
+texas,smith county,13.00%
+texas,somervell county,11.40%
+texas,starr county,15.70%
+texas,stephens county,18.80%
+texas,sterling county,10.20%
+texas,stonewall county,17.20%
+texas,sutton county,6.90%
+texas,swisher county,17.10%
+texas,tarrant county,10.30%
+texas,taylor county,14.50%
+texas,terrell county,22.40%
+texas,terry county,14.70%
+texas,throckmorton county,12.80%
+texas,titus county,14.40%
+texas,tom green county,15.20%
+texas,travis county,9.30%
+texas,trinity county,23.90%
+texas,tyler county,25.30%
+texas,upshur county,20.40%
+texas,upton county,11.10%
+texas,uvalde county,20.30%
+texas,val verde county,14.70%
+texas,van zandt county,15.00%
+texas,victoria county,15.90%
+texas,walker county,12.30%
+texas,waller county,10.90%
+texas,ward county,12.40%
+texas,washington county,14.10%
+texas,webb county,13.30%
+texas,wharton county,15.10%
+texas,wheeler county,17.00%
+texas,wichita county,15.40%
+texas,wilbarger county,22.10%
+texas,willacy county,13.70%
+texas,williamson county,10.10%
+texas,wilson county,13.80%
+texas,winkler county,11.20%
+texas,wise county,15.40%
+texas,wood county,21.00%
+texas,yoakum county,13.50%
+texas,young county,16.60%
+texas,zapata county,15.70%
+texas,zavala county,17.40%
+utah,beaver county,14.30%
+utah,box elder county,11.50%
+utah,cache county,8.70%
+utah,carbon county,17.50%
+utah,daggett county,15.10%
+utah,davis county,9.40%
+utah,duchesne county,14.40%
+utah,emery county,17.00%
+utah,garfield county,13.70%
+utah,grand county,15.50%
+utah,iron county,12.20%
+utah,juab county,13.40%
+utah,kane county,19.90%
+utah,millard county,14.40%
+utah,morgan county,8.00%
+utah,piute county,23.00%
+utah,rich county,16.50%
+utah,salt lake county,10.20%
+utah,san juan county,20.70%
+utah,sanpete county,12.50%
+utah,sevier county,14.30%
+utah,summit county,5.90%
+utah,tooele county,11.30%
+utah,uintah county,13.00%
+utah,utah county,8.60%
+utah,wasatch county,7.50%
+utah,washington county,12.80%
+utah,wayne county,11.40%
+utah,weber county,11.90%
+vermont,addison county,15.50%
+vermont,bennington county,16.40%
+vermont,caledonia county,17.70%
+vermont,chittenden county,11.50%
+vermont,essex county,23.40%
+vermont,franklin county,14.80%
+vermont,grand isle county,11.90%
+vermont,lamoille county,13.00%
+vermont,orange county,16.10%
+vermont,orleans county,17.20%
+vermont,rutland county,15.50%
+vermont,washington county,14.20%
+vermont,windham county,15.80%
+vermont,windsor county,15.50%
+virginia,accomack county,16.30%
+virginia,albemarle county,9.80%
+virginia,alexandria city,7.20%
+virginia,alleghany county,19.20%
+virginia,amelia county,17.10%
+virginia,amherst county,16.00%
+virginia,appomattox county,13.90%
+virginia,arlington county,6.70%
+virginia,augusta county,15.20%
+virginia,bath county,14.50%
+virginia,bedford county,13.00%
+virginia,bland county,16.70%
+virginia,botetourt county,11.30%
+virginia,bristol city,21.10%
+virginia,brunswick county,15.60%
+virginia,buchanan county,35.20%
+virginia,buckingham county,19.10%
+virginia,buena vista city,18.50%
+virginia,campbell county,15.20%
+virginia,caroline county,13.30%
+virginia,carroll county,17.50%
+virginia,charles city county,19.30%
+virginia,charlotte county,23.10%
+virginia,charlottesville city,9.20%
+virginia,chesapeake city,12.50%
+virginia,chesterfield county,12.30%
+virginia,clarke county,12.50%
+virginia,colonial heights city,16.70%
+virginia,covington city,13.10%
+virginia,craig county,13.70%
+virginia,culpeper county,11.80%
+virginia,cumberland county,15.30%
+virginia,danville city,18.70%
+virginia,dickenson county,37.70%
+virginia,dinwiddie county,14.90%
+virginia,emporia city,27.30%
+virginia,essex county,16.00%
+virginia,fairfax city,7.50%
+virginia,fairfax county,7.80%
+virginia,falls church city,8.30%
+virginia,fauquier county,9.60%
+virginia,floyd county,13.30%
+virginia,fluvanna county,11.10%
+virginia,franklin city,17.40%
+virginia,franklin county,15.20%
+virginia,frederick county,11.70%
+virginia,fredericksburg city,9.60%
+virginia,galax city,14.00%
+virginia,giles county,13.80%
+virginia,gloucester county,17.20%
+virginia,goochland county,11.40%
+virginia,grayson county,20.10%
+virginia,greene county,13.80%
+virginia,greensville county,16.40%
+virginia,halifax county,21.10%
+virginia,hampton city,16.30%
+virginia,hanover county,11.50%
+virginia,harrisonburg city,10.30%
+virginia,henrico county,11.40%
+virginia,henry county,22.70%
+virginia,highland county,19.20%
+virginia,hopewell city,17.20%
+virginia,isle of wight county,14.30%
+virginia,james city county,14.40%
+virginia,king and queen county,16.30%
+virginia,king george county,10.40%
+virginia,king william county,12.60%
+virginia,lancaster county,16.70%
+virginia,lee county,29.50%
+virginia,lexington city,10.80%
+virginia,loudoun county,6.80%
+virginia,louisa county,15.30%
+virginia,lunenburg county,21.20%
+virginia,lynchburg city,12.70%
+virginia,madison county,13.60%
+virginia,manassas city,8.90%
+virginia,manassas park city,10.90%
+virginia,martinsville city,19.70%
+virginia,mathews county,20.30%
+virginia,mecklenburg county,19.70%
+virginia,middlesex county,20.00%
+virginia,montgomery county,10.50%
+virginia,nelson county,13.60%
+virginia,new kent county,11.00%
+virginia,newport news city,14.60%
+virginia,norfolk city,14.80%
+virginia,northampton county,19.40%
+virginia,northumberland county,14.70%
+virginia,norton city,30.50%
+virginia,nottoway county,19.00%
+virginia,orange county,15.10%
+virginia,page county,18.80%
+virginia,patrick county,21.30%
+virginia,petersburg city,21.80%
+virginia,pittsylvania county,20.20%
+virginia,poquoson city,10.70%
+virginia,portsmouth city,15.90%
+virginia,powhatan county,10.10%
+virginia,prince edward county,15.20%
+virginia,prince george county,12.50%
+virginia,prince william county,8.70%
+virginia,pulaski county,19.50%
+virginia,radford city,12.00%
+virginia,rappahannock county,12.60%
+virginia,richmond city,14.00%
+virginia,richmond county,16.80%
+virginia,roanoke city,14.00%
+virginia,roanoke county,13.70%
+virginia,rockbridge county,17.70%
+virginia,rockingham county,13.00%
+virginia,russell county,32.40%
+virginia,salem city,12.40%
+virginia,scott county,29.30%
+virginia,shenandoah county,16.90%
+virginia,smyth county,21.50%
+virginia,southampton county,19.00%
+virginia,spotsylvania county,10.60%
+virginia,stafford county,9.00%
+virginia,staunton city,15.40%
+virginia,suffolk city,12.60%
+virginia,surry county,17.50%
+virginia,sussex county,18.00%
+virginia,tazewell county,20.20%
+virginia,virginia beach city,11.70%
+virginia,warren county,14.80%
+virginia,washington county,21.50%
+virginia,waynesboro city,19.80%
+virginia,westmoreland county,18.10%
+virginia,williamsburg city,9.70%
+virginia,winchester city,13.80%
+virginia,wise county,27.00%
+virginia,wythe county,19.70%
+virginia,york county,12.30%
+washington,adams county,9.80%
+washington,asotin county,20.60%
+washington,benton county,14.40%
+washington,chelan county,17.80%
+washington,clallam county,20.70%
+washington,clark county,13.00%
+washington,columbia county,19.80%
+washington,cowlitz county,19.40%
+washington,douglas county,17.00%
+washington,ferry county,25.10%
+washington,franklin county,11.40%
+washington,garfield county,25.60%
+washington,grant county,13.90%
+washington,grays harbor county,21.50%
+washington,island county,16.00%
+washington,jefferson county,20.00%
+washington,king county,10.20%
+washington,kitsap county,14.50%
+washington,kittitas county,14.30%
+washington,klickitat county,16.20%
+washington,lewis county,19.80%
+washington,lincoln county,21.30%
+washington,mason county,19.30%
+washington,okanogan county,16.40%
+washington,pacific county,23.40%
+washington,pend oreille county,21.50%
+washington,pierce county,13.70%
+washington,san juan county,11.90%
+washington,skagit county,14.90%
+washington,skamania county,13.80%
+washington,snohomish county,12.00%
+washington,spokane county,15.60%
+washington,stevens county,18.30%
+washington,thurston county,15.20%
+washington,wahkiakum county,19.00%
+washington,walla walla county,15.10%
+washington,whatcom county,13.60%
+washington,whitman county,13.10%
+washington,yakima county,13.70%
+west virginia,barbour county,16.30%
+west virginia,berkeley county,13.90%
+west virginia,boone county,24.40%
+west virginia,braxton county,19.10%
+west virginia,brooke county,20.00%
+west virginia,cabell county,19.50%
+west virginia,calhoun county,22.00%
+west virginia,clay county,23.00%
+west virginia,doddridge county,16.30%
+west virginia,fayette county,22.70%
+west virginia,gilmer county,14.90%
+west virginia,grant county,14.90%
+west virginia,greenbrier county,19.30%
+west virginia,hampshire county,25.50%
+west virginia,hancock county,18.50%
+west virginia,hardy county,18.60%
+west virginia,harrison county,16.30%
+west virginia,jackson county,21.20%
+west virginia,jefferson county,12.80%
+west virginia,kanawha county,19.70%
+west virginia,lewis county,16.70%
+west virginia,lincoln county,27.40%
+west virginia,logan county,29.10%
+west virginia,marion county,18.60%
+west virginia,marshall county,18.50%
+west virginia,mason county,19.10%
+west virginia,mcdowell county,27.60%
+west virginia,mercer county,22.30%
+west virginia,mineral county,14.90%
+west virginia,mingo county,32.50%
+west virginia,monongalia county,12.10%
+west virginia,monroe county,21.30%
+west virginia,morgan county,16.20%
+west virginia,nicholas county,22.20%
+west virginia,ohio county,16.20%
+west virginia,pendleton county,18.80%
+west virginia,pleasants county,18.30%
+west virginia,pocahontas county,21.50%
+west virginia,preston county,18.20%
+west virginia,putnam county,12.80%
+west virginia,raleigh county,23.40%
+west virginia,randolph county,14.80%
+west virginia,ritchie county,27.60%
+west virginia,roane county,21.70%
+west virginia,summers county,27.50%
+west virginia,taylor county,20.20%
+west virginia,tucker county,21.10%
+west virginia,tyler county,25.40%
+west virginia,upshur county,16.40%
+west virginia,wayne county,24.20%
+west virginia,webster county,25.10%
+west virginia,wetzel county,22.40%
+west virginia,wirt county,17.10%
+west virginia,wood county,18.50%
+west virginia,wyoming county,31.90%
+wisconsin,adams county,21.80%
+wisconsin,ashland county,15.90%
+wisconsin,barron county,14.30%
+wisconsin,bayfield county,16.70%
+wisconsin,brown county,11.60%
+wisconsin,buffalo county,15.30%
+wisconsin,burnett county,19.00%
+wisconsin,calumet county,9.70%
+wisconsin,chippewa county,11.30%
+wisconsin,clark county,12.00%
+wisconsin,columbia county,11.80%
+wisconsin,crawford county,11.90%
+wisconsin,dane county,8.90%
+wisconsin,dodge county,12.00%
+wisconsin,door county,12.00%
+wisconsin,douglas county,15.20%
+wisconsin,dunn county,13.00%
+wisconsin,eau claire county,13.20%
+wisconsin,florence county,17.10%
+wisconsin,fond du lac county,12.20%
+wisconsin,forest county,17.90%
+wisconsin,grant county,10.90%
+wisconsin,green county,12.00%
+wisconsin,green lake county,15.60%
+wisconsin,iowa county,11.90%
+wisconsin,iron county,16.00%
+wisconsin,jackson county,14.10%
+wisconsin,jefferson county,11.90%
+wisconsin,juneau county,17.30%
+wisconsin,kenosha county,13.10%
+wisconsin,kewaunee county,12.00%
+wisconsin,la crosse county,11.70%
+wisconsin,lafayette county,10.70%
+wisconsin,langlade county,17.50%
+wisconsin,lincoln county,14.90%
+wisconsin,manitowoc county,13.10%
+wisconsin,marathon county,12.50%
+wisconsin,marinette county,15.30%
+wisconsin,marquette county,18.10%
+wisconsin,menominee county,15.10%
+wisconsin,milwaukee county,12.60%
+wisconsin,monroe county,13.70%
+wisconsin,oconto county,14.40%
+wisconsin,oneida county,14.70%
+wisconsin,outagamie county,10.90%
+wisconsin,ozaukee county,10.30%
+wisconsin,pepin county,12.00%
+wisconsin,pierce county,10.20%
+wisconsin,polk county,13.90%
+wisconsin,portage county,11.40%
+wisconsin,price county,16.90%
+wisconsin,racine county,13.80%
+wisconsin,richland county,14.30%
+wisconsin,rock county,13.10%
+wisconsin,rusk county,17.30%
+wisconsin,sauk county,12.20%
+wisconsin,sawyer county,16.50%
+wisconsin,shawano county,15.30%
+wisconsin,sheboygan county,11.20%
+wisconsin,st. croix county,9.90%
+wisconsin,taylor county,12.50%
+wisconsin,trempealeau county,10.90%
+wisconsin,vernon county,10.60%
+wisconsin,vilas county,15.40%
+wisconsin,walworth county,12.00%
+wisconsin,washburn county,15.90%
+wisconsin,washington county,9.80%
+wisconsin,waukesha county,9.40%
+wisconsin,waupaca county,14.60%
+wisconsin,waushara county,16.00%
+wisconsin,winnebago county,12.70%
+wisconsin,wood county,15.30%
+wyoming,albany county,10.40%
+wyoming,big horn county,16.90%
+wyoming,campbell county,10.60%
+wyoming,carbon county,15.70%
+wyoming,converse county,16.80%
+wyoming,crook county,13.20%
+wyoming,fremont county,15.20%
+wyoming,goshen county,18.80%
+wyoming,hot springs county,20.10%
+wyoming,johnson county,14.80%
+wyoming,laramie county,13.90%
+wyoming,lincoln county,14.20%
+wyoming,natrona county,15.90%
+wyoming,niobrara county,16.00%
+wyoming,park county,13.00%
+wyoming,platte county,16.60%
+wyoming,sheridan county,12.90%
+wyoming,sublette county,15.70%
+wyoming,sweetwater county,15.50%
+wyoming,teton county,6.40%
+wyoming,uinta county,14.70%
+wyoming,washakie county,13.00%
+wyoming,weston county,15.20%
