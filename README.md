@@ -2,7 +2,7 @@
   <img src="https://www.widsworldwide.org/wp-content/uploads/2023/05/WiDS_logo_nav.png" alt="WiDS Logo" width="250"/>
 </p>
 
-<h1 align="center">WiDS Datathon 2026 – Student Submission Template</h1>
+<h1 align="center">WiDS Datathon 2026</h1>
 
 ## Hybrid RAG + Enhanced Vulnerability Index for Wildfire Economic Resilience
 
