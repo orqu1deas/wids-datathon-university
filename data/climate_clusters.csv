@@ -1,0 +1,3212 @@
+geoid,cluster,climate_type
+01001,3,Warm Temperate Humid (Deep South)
+01003,3,Warm Temperate Humid (Deep South)
+01005,3,Warm Temperate Humid (Deep South)
+01007,3,Warm Temperate Humid (Deep South)
+01009,4,Subtropical Humid Atlantic
+01011,3,Warm Temperate Humid (Deep South)
+01013,3,Warm Temperate Humid (Deep South)
+01015,3,Warm Temperate Humid (Deep South)
+01017,3,Warm Temperate Humid (Deep South)
+01019,4,Subtropical Humid Atlantic
+01021,3,Warm Temperate Humid (Deep South)
+01023,3,Warm Temperate Humid (Deep South)
+01025,3,Warm Temperate Humid (Deep South)
+01027,3,Warm Temperate Humid (Deep South)
+01029,3,Warm Temperate Humid (Deep South)
+01031,3,Warm Temperate Humid (Deep South)
+01033,4,Subtropical Humid Atlantic
+01035,3,Warm Temperate Humid (Deep South)
+01037,3,Warm Temperate Humid (Deep South)
+01039,3,Warm Temperate Humid (Deep South)
+01041,3,Warm Temperate Humid (Deep South)
+01043,4,Subtropical Humid Atlantic
+01045,3,Warm Temperate Humid (Deep South)
+01047,3,Warm Temperate Humid (Deep South)
+01049,4,Subtropical Humid Atlantic
+01051,3,Warm Temperate Humid (Deep South)
+01053,3,Warm Temperate Humid (Deep South)
+01055,4,Subtropical Humid Atlantic
+01057,4,Subtropical Humid Atlantic
+01059,4,Subtropical Humid Atlantic
+01061,3,Warm Temperate Humid (Deep South)
+01063,4,Subtropical Humid Atlantic
+01065,3,Warm Temperate Humid (Deep South)
+01067,3,Warm Temperate Humid (Deep South)
+01069,3,Warm Temperate Humid (Deep South)
+01071,4,Subtropical Humid Atlantic
+01073,4,Subtropical Humid Atlantic
+01075,4,Subtropical Humid Atlantic
+01077,4,Subtropical Humid Atlantic
+01079,4,Subtropical Humid Atlantic
+01081,3,Warm Temperate Humid (Deep South)
+01083,4,Subtropical Humid Atlantic
+01085,3,Warm Temperate Humid (Deep South)
+01087,3,Warm Temperate Humid (Deep South)
+01089,4,Subtropical Humid Atlantic
+01091,3,Warm Temperate Humid (Deep South)
+01093,4,Subtropical Humid Atlantic
+01095,4,Subtropical Humid Atlantic
+01097,3,Warm Temperate Humid (Deep South)
+01099,3,Warm Temperate Humid (Deep South)
+01101,3,Warm Temperate Humid (Deep South)
+01103,4,Subtropical Humid Atlantic
+01105,3,Warm Temperate Humid (Deep South)
+01107,4,Subtropical Humid Atlantic
+01109,3,Warm Temperate Humid (Deep South)
+01111,3,Warm Temperate Humid (Deep South)
+01113,3,Warm Temperate Humid (Deep South)
+01115,3,Warm Temperate Humid (Deep South)
+01117,4,Subtropical Humid Atlantic
+01119,4,Subtropical Humid Atlantic
+01121,3,Warm Temperate Humid (Deep South)
+01123,3,Warm Temperate Humid (Deep South)
+01125,4,Subtropical Humid Atlantic
+01127,4,Subtropical Humid Atlantic
+01129,3,Warm Temperate Humid (Deep South)
+01131,3,Warm Temperate Humid (Deep South)
+01133,4,Subtropical Humid Atlantic
+02013,10,Cold Maritime / Pacific Northwest
+02016,9,Cold Continental / Great Lakes
+02020,10,Cold Maritime / Pacific Northwest
+02050,10,Cold Maritime / Pacific Northwest
+02060,10,Cold Maritime / Pacific Northwest
+02068,10,Cold Maritime / Pacific Northwest
+02070,10,Cold Maritime / Pacific Northwest
+02090,10,Cold Maritime / Pacific Northwest
+02100,10,Cold Maritime / Pacific Northwest
+02105,10,Cold Maritime / Pacific Northwest
+02110,10,Cold Maritime / Pacific Northwest
+02122,10,Cold Maritime / Pacific Northwest
+02130,10,Cold Maritime / Pacific Northwest
+02150,10,Cold Maritime / Pacific Northwest
+02158,10,Cold Maritime / Pacific Northwest
+02164,10,Cold Maritime / Pacific Northwest
+02170,10,Cold Maritime / Pacific Northwest
+02180,10,Cold Maritime / Pacific Northwest
+02185,10,Cold Maritime / Pacific Northwest
+02188,10,Cold Maritime / Pacific Northwest
+02195,10,Cold Maritime / Pacific Northwest
+02198,10,Cold Maritime / Pacific Northwest
+02220,10,Cold Maritime / Pacific Northwest
+02230,10,Cold Maritime / Pacific Northwest
+02240,10,Cold Maritime / Pacific Northwest
+02275,10,Cold Maritime / Pacific Northwest
+02282,10,Cold Maritime / Pacific Northwest
+02290,10,Cold Maritime / Pacific Northwest
+04001,7,High Altitude Dry Continental
+04003,2,Arid Warm (Desert)
+04005,7,High Altitude Dry Continental
+04007,2,Arid Warm (Desert)
+04009,2,Arid Warm (Desert)
+04011,2,Arid Warm (Desert)
+04012,2,Arid Warm (Desert)
+04013,2,Arid Warm (Desert)
+04015,2,Arid Warm (Desert)
+04017,7,High Altitude Dry Continental
+04019,2,Arid Warm (Desert)
+04021,2,Arid Warm (Desert)
+04023,2,Arid Warm (Desert)
+04025,7,High Altitude Dry Continental
+04027,2,Arid Warm (Desert)
+05001,4,Subtropical Humid Atlantic
+05003,4,Subtropical Humid Atlantic
+05005,4,Subtropical Humid Atlantic
+05007,4,Subtropical Humid Atlantic
+05009,4,Subtropical Humid Atlantic
+05011,4,Subtropical Humid Atlantic
+05013,4,Subtropical Humid Atlantic
+05015,4,Subtropical Humid Atlantic
+05017,4,Subtropical Humid Atlantic
+05019,4,Subtropical Humid Atlantic
+05021,4,Subtropical Humid Atlantic
+05023,4,Subtropical Humid Atlantic
+05025,4,Subtropical Humid Atlantic
+05027,4,Subtropical Humid Atlantic
+05029,4,Subtropical Humid Atlantic
+05031,4,Subtropical Humid Atlantic
+05033,4,Subtropical Humid Atlantic
+05035,4,Subtropical Humid Atlantic
+05037,4,Subtropical Humid Atlantic
+05039,4,Subtropical Humid Atlantic
+05041,4,Subtropical Humid Atlantic
+05043,4,Subtropical Humid Atlantic
+05045,4,Subtropical Humid Atlantic
+05047,4,Subtropical Humid Atlantic
+05049,4,Subtropical Humid Atlantic
+05051,4,Subtropical Humid Atlantic
+05053,4,Subtropical Humid Atlantic
+05055,4,Subtropical Humid Atlantic
+05057,4,Subtropical Humid Atlantic
+05059,4,Subtropical Humid Atlantic
+05061,4,Subtropical Humid Atlantic
+05063,4,Subtropical Humid Atlantic
+05065,4,Subtropical Humid Atlantic
+05067,4,Subtropical Humid Atlantic
+05069,4,Subtropical Humid Atlantic
+05071,4,Subtropical Humid Atlantic
+05073,4,Subtropical Humid Atlantic
+05075,4,Subtropical Humid Atlantic
+05077,4,Subtropical Humid Atlantic
+05079,4,Subtropical Humid Atlantic
+05081,4,Subtropical Humid Atlantic
+05083,4,Subtropical Humid Atlantic
+05085,4,Subtropical Humid Atlantic
+05087,4,Subtropical Humid Atlantic
+05089,4,Subtropical Humid Atlantic
+05091,4,Subtropical Humid Atlantic
+05093,4,Subtropical Humid Atlantic
+05095,4,Subtropical Humid Atlantic
+05097,4,Subtropical Humid Atlantic
+05099,4,Subtropical Humid Atlantic
+05101,4,Subtropical Humid Atlantic
+05103,4,Subtropical Humid Atlantic
+05105,4,Subtropical Humid Atlantic
+05107,4,Subtropical Humid Atlantic
+05109,4,Subtropical Humid Atlantic
+05111,4,Subtropical Humid Atlantic
+05113,4,Subtropical Humid Atlantic
+05115,4,Subtropical Humid Atlantic
+05117,4,Subtropical Humid Atlantic
+05119,4,Subtropical Humid Atlantic
+05121,4,Subtropical Humid Atlantic
+05123,4,Subtropical Humid Atlantic
+05125,4,Subtropical Humid Atlantic
+05127,4,Subtropical Humid Atlantic
+05129,4,Subtropical Humid Atlantic
+05131,4,Subtropical Humid Atlantic
+05133,4,Subtropical Humid Atlantic
+05135,4,Subtropical Humid Atlantic
+05137,4,Subtropical Humid Atlantic
+05139,4,Subtropical Humid Atlantic
+05141,4,Subtropical Humid Atlantic
+05143,4,Subtropical Humid Atlantic
+05145,4,Subtropical Humid Atlantic
+05147,4,Subtropical Humid Atlantic
+05149,4,Subtropical Humid Atlantic
+06001,3,Warm Temperate Humid (Deep South)
+06003,11,Subarctic Mountain
+06005,7,High Altitude Dry Continental
+06007,7,High Altitude Dry Continental
+06009,7,High Altitude Dry Continental
+06011,7,High Altitude Dry Continental
+06013,4,Subtropical Humid Atlantic
+06015,6,Temperate Continental Humid
+06017,7,High Altitude Dry Continental
+06019,7,High Altitude Dry Continental
+06021,7,High Altitude Dry Continental
+06023,4,Subtropical Humid Atlantic
+06025,2,Arid Warm (Desert)
+06027,2,Arid Warm (Desert)
+06029,7,High Altitude Dry Continental
+06031,7,High Altitude Dry Continental
+06033,7,High Altitude Dry Continental
+06035,11,Subarctic Mountain
+06037,7,High Altitude Dry Continental
+06039,7,High Altitude Dry Continental
+06041,3,Warm Temperate Humid (Deep South)
+06043,7,High Altitude Dry Continental
+06045,7,High Altitude Dry Continental
+06047,7,High Altitude Dry Continental
+06049,11,Subarctic Mountain
+06051,7,High Altitude Dry Continental
+06053,4,Subtropical Humid Atlantic
+06055,4,Subtropical Humid Atlantic
+06057,7,High Altitude Dry Continental
+06059,3,Warm Temperate Humid (Deep South)
+06061,7,High Altitude Dry Continental
+06063,11,Subarctic Mountain
+06065,2,Arid Warm (Desert)
+06067,7,High Altitude Dry Continental
+06069,7,High Altitude Dry Continental
+06071,2,Arid Warm (Desert)
+06073,1,Warm Temperate / Subtropical Transition
+06075,3,Warm Temperate Humid (Deep South)
+06077,7,High Altitude Dry Continental
+06079,4,Subtropical Humid Atlantic
+06081,3,Warm Temperate Humid (Deep South)
+06083,4,Subtropical Humid Atlantic
+06085,3,Warm Temperate Humid (Deep South)
+06087,3,Warm Temperate Humid (Deep South)
+06089,7,High Altitude Dry Continental
+06091,11,Subarctic Mountain
+06093,11,Subarctic Mountain
+06095,4,Subtropical Humid Atlantic
+06097,3,Warm Temperate Humid (Deep South)
+06099,7,High Altitude Dry Continental
+06101,7,High Altitude Dry Continental
+06103,7,High Altitude Dry Continental
+06105,11,Subarctic Mountain
+06107,7,High Altitude Dry Continental
+06109,7,High Altitude Dry Continental
+06111,7,High Altitude Dry Continental
+06113,4,Subtropical Humid Atlantic
+06115,7,High Altitude Dry Continental
+08001,5,Semiarid Continental
+08003,8,Semiarid Cold
+08005,5,Semiarid Continental
+08007,8,Semiarid Cold
+08009,5,Semiarid Continental
+08011,5,Semiarid Continental
+08013,11,Subarctic Mountain
+08014,5,Semiarid Continental
+08015,11,Subarctic Mountain
+08017,5,Semiarid Continental
+08019,11,Subarctic Mountain
+08021,11,Subarctic Mountain
+08023,8,Semiarid Cold
+08025,5,Semiarid Continental
+08027,8,Semiarid Cold
+08029,7,High Altitude Dry Continental
+08031,5,Semiarid Continental
+08033,11,Subarctic Mountain
+08035,5,Semiarid Continental
+08037,11,Subarctic Mountain
+08039,5,Semiarid Continental
+08041,5,Semiarid Continental
+08043,5,Semiarid Continental
+08045,11,Subarctic Mountain
+08047,11,Subarctic Mountain
+08049,11,Subarctic Mountain
+08051,11,Subarctic Mountain
+08053,11,Subarctic Mountain
+08055,5,Semiarid Continental
+08057,11,Subarctic Mountain
+08059,5,Semiarid Continental
+08061,5,Semiarid Continental
+08063,5,Semiarid Continental
+08065,11,Subarctic Mountain
+08067,11,Subarctic Mountain
+08069,11,Subarctic Mountain
+08071,5,Semiarid Continental
+08073,5,Semiarid Continental
+08075,5,Semiarid Continental
+08077,7,High Altitude Dry Continental
+08079,11,Subarctic Mountain
+08081,11,Subarctic Mountain
+08083,5,Semiarid Continental
+08085,11,Subarctic Mountain
+08087,5,Semiarid Continental
+08089,5,Semiarid Continental
+08091,11,Subarctic Mountain
+08093,11,Subarctic Mountain
+08095,5,Semiarid Continental
+08097,11,Subarctic Mountain
+08099,5,Semiarid Continental
+08101,5,Semiarid Continental
+08103,7,High Altitude Dry Continental
+08105,11,Subarctic Mountain
+08107,11,Subarctic Mountain
+08109,11,Subarctic Mountain
+08111,11,Subarctic Mountain
+08113,11,Subarctic Mountain
+08115,5,Semiarid Continental
+08117,11,Subarctic Mountain
+08119,8,Semiarid Cold
+08121,5,Semiarid Continental
+08123,5,Semiarid Continental
+08125,5,Semiarid Continental
+10001,6,Temperate Continental Humid
+10003,6,Temperate Continental Humid
+10005,3,Warm Temperate Humid (Deep South)
+11001,6,Temperate Continental Humid
+12001,0,Tropical Humid
+12003,0,Tropical Humid
+12005,3,Warm Temperate Humid (Deep South)
+12007,0,Tropical Humid
+12009,0,Tropical Humid
+12011,0,Tropical Humid
+12013,3,Warm Temperate Humid (Deep South)
+12015,0,Tropical Humid
+12017,0,Tropical Humid
+12019,0,Tropical Humid
+12021,0,Tropical Humid
+12023,0,Tropical Humid
+12027,0,Tropical Humid
+12029,0,Tropical Humid
+12031,0,Tropical Humid
+12033,3,Warm Temperate Humid (Deep South)
+12035,0,Tropical Humid
+12037,3,Warm Temperate Humid (Deep South)
+12039,3,Warm Temperate Humid (Deep South)
+12041,0,Tropical Humid
+12043,0,Tropical Humid
+12045,0,Tropical Humid
+12047,3,Warm Temperate Humid (Deep South)
+12049,0,Tropical Humid
+12051,0,Tropical Humid
+12053,0,Tropical Humid
+12055,0,Tropical Humid
+12057,0,Tropical Humid
+12059,3,Warm Temperate Humid (Deep South)
+12061,0,Tropical Humid
+12063,3,Warm Temperate Humid (Deep South)
+12065,3,Warm Temperate Humid (Deep South)
+12067,0,Tropical Humid
+12069,0,Tropical Humid
+12071,0,Tropical Humid
+12073,3,Warm Temperate Humid (Deep South)
+12075,0,Tropical Humid
+12077,3,Warm Temperate Humid (Deep South)
+12079,3,Warm Temperate Humid (Deep South)
+12081,0,Tropical Humid
+12083,0,Tropical Humid
+12085,0,Tropical Humid
+12086,0,Tropical Humid
+12087,0,Tropical Humid
+12089,0,Tropical Humid
+12091,3,Warm Temperate Humid (Deep South)
+12093,0,Tropical Humid
+12095,0,Tropical Humid
+12097,0,Tropical Humid
+12099,0,Tropical Humid
+12101,0,Tropical Humid
+12103,0,Tropical Humid
+12105,0,Tropical Humid
+12107,0,Tropical Humid
+12109,0,Tropical Humid
+12111,0,Tropical Humid
+12113,3,Warm Temperate Humid (Deep South)
+12115,0,Tropical Humid
+12117,0,Tropical Humid
+12119,0,Tropical Humid
+12121,0,Tropical Humid
+12123,3,Warm Temperate Humid (Deep South)
+12125,0,Tropical Humid
+12127,0,Tropical Humid
+12129,3,Warm Temperate Humid (Deep South)
+12131,3,Warm Temperate Humid (Deep South)
+12133,3,Warm Temperate Humid (Deep South)
+13001,3,Warm Temperate Humid (Deep South)
+13003,3,Warm Temperate Humid (Deep South)
+13005,3,Warm Temperate Humid (Deep South)
+13007,3,Warm Temperate Humid (Deep South)
+13009,3,Warm Temperate Humid (Deep South)
+13011,3,Warm Temperate Humid (Deep South)
+13013,3,Warm Temperate Humid (Deep South)
+13015,3,Warm Temperate Humid (Deep South)
+13017,3,Warm Temperate Humid (Deep South)
+13019,3,Warm Temperate Humid (Deep South)
+13021,3,Warm Temperate Humid (Deep South)
+13023,3,Warm Temperate Humid (Deep South)
+13025,3,Warm Temperate Humid (Deep South)
+13027,3,Warm Temperate Humid (Deep South)
+13029,3,Warm Temperate Humid (Deep South)
+13031,3,Warm Temperate Humid (Deep South)
+13033,3,Warm Temperate Humid (Deep South)
+13035,3,Warm Temperate Humid (Deep South)
+13037,3,Warm Temperate Humid (Deep South)
+13039,3,Warm Temperate Humid (Deep South)
+13043,3,Warm Temperate Humid (Deep South)
+13045,3,Warm Temperate Humid (Deep South)
+13047,4,Subtropical Humid Atlantic
+13049,3,Warm Temperate Humid (Deep South)
+13051,3,Warm Temperate Humid (Deep South)
+13053,3,Warm Temperate Humid (Deep South)
+13055,4,Subtropical Humid Atlantic
+13057,3,Warm Temperate Humid (Deep South)
+13059,3,Warm Temperate Humid (Deep South)
+13061,3,Warm Temperate Humid (Deep South)
+13063,3,Warm Temperate Humid (Deep South)
+13065,3,Warm Temperate Humid (Deep South)
+13067,3,Warm Temperate Humid (Deep South)
+13069,3,Warm Temperate Humid (Deep South)
+13071,3,Warm Temperate Humid (Deep South)
+13073,3,Warm Temperate Humid (Deep South)
+13075,3,Warm Temperate Humid (Deep South)
+13077,3,Warm Temperate Humid (Deep South)
+13079,3,Warm Temperate Humid (Deep South)
+13081,3,Warm Temperate Humid (Deep South)
+13083,4,Subtropical Humid Atlantic
+13085,3,Warm Temperate Humid (Deep South)
+13087,3,Warm Temperate Humid (Deep South)
+13089,3,Warm Temperate Humid (Deep South)
+13091,3,Warm Temperate Humid (Deep South)
+13093,3,Warm Temperate Humid (Deep South)
+13095,3,Warm Temperate Humid (Deep South)
+13097,3,Warm Temperate Humid (Deep South)
+13099,3,Warm Temperate Humid (Deep South)
+13101,3,Warm Temperate Humid (Deep South)
+13103,3,Warm Temperate Humid (Deep South)
+13105,3,Warm Temperate Humid (Deep South)
+13107,3,Warm Temperate Humid (Deep South)
+13109,3,Warm Temperate Humid (Deep South)
+13111,3,Warm Temperate Humid (Deep South)
+13113,3,Warm Temperate Humid (Deep South)
+13115,3,Warm Temperate Humid (Deep South)
+13117,3,Warm Temperate Humid (Deep South)
+13119,3,Warm Temperate Humid (Deep South)
+13121,3,Warm Temperate Humid (Deep South)
+13123,3,Warm Temperate Humid (Deep South)
+13125,3,Warm Temperate Humid (Deep South)
+13127,3,Warm Temperate Humid (Deep South)
+13129,4,Subtropical Humid Atlantic
+13131,3,Warm Temperate Humid (Deep South)
+13133,3,Warm Temperate Humid (Deep South)
+13135,3,Warm Temperate Humid (Deep South)
+13137,3,Warm Temperate Humid (Deep South)
+13139,3,Warm Temperate Humid (Deep South)
+13141,3,Warm Temperate Humid (Deep South)
+13143,3,Warm Temperate Humid (Deep South)
+13145,3,Warm Temperate Humid (Deep South)
+13147,3,Warm Temperate Humid (Deep South)
+13149,3,Warm Temperate Humid (Deep South)
+13151,3,Warm Temperate Humid (Deep South)
+13153,3,Warm Temperate Humid (Deep South)
+13155,3,Warm Temperate Humid (Deep South)
+13157,3,Warm Temperate Humid (Deep South)
+13159,3,Warm Temperate Humid (Deep South)
+13161,3,Warm Temperate Humid (Deep South)
+13163,3,Warm Temperate Humid (Deep South)
+13165,3,Warm Temperate Humid (Deep South)
+13167,3,Warm Temperate Humid (Deep South)
+13169,3,Warm Temperate Humid (Deep South)
+13171,3,Warm Temperate Humid (Deep South)
+13173,3,Warm Temperate Humid (Deep South)
+13175,3,Warm Temperate Humid (Deep South)
+13177,3,Warm Temperate Humid (Deep South)
+13179,3,Warm Temperate Humid (Deep South)
+13181,3,Warm Temperate Humid (Deep South)
+13183,3,Warm Temperate Humid (Deep South)
+13185,3,Warm Temperate Humid (Deep South)
+13187,3,Warm Temperate Humid (Deep South)
+13189,3,Warm Temperate Humid (Deep South)
+13191,3,Warm Temperate Humid (Deep South)
+13193,3,Warm Temperate Humid (Deep South)
+13195,3,Warm Temperate Humid (Deep South)
+13197,3,Warm Temperate Humid (Deep South)
+13199,3,Warm Temperate Humid (Deep South)
+13201,3,Warm Temperate Humid (Deep South)
+13205,3,Warm Temperate Humid (Deep South)
+13207,3,Warm Temperate Humid (Deep South)
+13209,3,Warm Temperate Humid (Deep South)
+13211,3,Warm Temperate Humid (Deep South)
+13213,4,Subtropical Humid Atlantic
+13215,3,Warm Temperate Humid (Deep South)
+13217,3,Warm Temperate Humid (Deep South)
+13219,3,Warm Temperate Humid (Deep South)
+13221,3,Warm Temperate Humid (Deep South)
+13223,3,Warm Temperate Humid (Deep South)
+13225,3,Warm Temperate Humid (Deep South)
+13227,3,Warm Temperate Humid (Deep South)
+13229,3,Warm Temperate Humid (Deep South)
+13231,3,Warm Temperate Humid (Deep South)
+13233,3,Warm Temperate Humid (Deep South)
+13235,3,Warm Temperate Humid (Deep South)
+13237,3,Warm Temperate Humid (Deep South)
+13239,3,Warm Temperate Humid (Deep South)
+13241,3,Warm Temperate Humid (Deep South)
+13243,3,Warm Temperate Humid (Deep South)
+13245,3,Warm Temperate Humid (Deep South)
+13247,3,Warm Temperate Humid (Deep South)
+13249,3,Warm Temperate Humid (Deep South)
+13251,3,Warm Temperate Humid (Deep South)
+13253,3,Warm Temperate Humid (Deep South)
+13255,3,Warm Temperate Humid (Deep South)
+13257,3,Warm Temperate Humid (Deep South)
+13259,3,Warm Temperate Humid (Deep South)
+13261,3,Warm Temperate Humid (Deep South)
+13263,3,Warm Temperate Humid (Deep South)
+13265,3,Warm Temperate Humid (Deep South)
+13267,3,Warm Temperate Humid (Deep South)
+13269,3,Warm Temperate Humid (Deep South)
+13271,3,Warm Temperate Humid (Deep South)
+13273,3,Warm Temperate Humid (Deep South)
+13275,3,Warm Temperate Humid (Deep South)
+13277,3,Warm Temperate Humid (Deep South)
+13279,3,Warm Temperate Humid (Deep South)
+13281,3,Warm Temperate Humid (Deep South)
+13283,3,Warm Temperate Humid (Deep South)
+13285,3,Warm Temperate Humid (Deep South)
+13287,3,Warm Temperate Humid (Deep South)
+13289,3,Warm Temperate Humid (Deep South)
+13291,3,Warm Temperate Humid (Deep South)
+13293,3,Warm Temperate Humid (Deep South)
+13295,4,Subtropical Humid Atlantic
+13297,3,Warm Temperate Humid (Deep South)
+13299,3,Warm Temperate Humid (Deep South)
+13301,3,Warm Temperate Humid (Deep South)
+13303,3,Warm Temperate Humid (Deep South)
+13305,3,Warm Temperate Humid (Deep South)
+13307,3,Warm Temperate Humid (Deep South)
+13309,3,Warm Temperate Humid (Deep South)
+13311,3,Warm Temperate Humid (Deep South)
+13313,4,Subtropical Humid Atlantic
+13315,3,Warm Temperate Humid (Deep South)
+13317,3,Warm Temperate Humid (Deep South)
+13319,3,Warm Temperate Humid (Deep South)
+13321,3,Warm Temperate Humid (Deep South)
+15001,3,Warm Temperate Humid (Deep South)
+15003,0,Tropical Humid
+15005,0,Tropical Humid
+15007,0,Tropical Humid
+15009,0,Tropical Humid
+16001,7,High Altitude Dry Continental
+16003,11,Subarctic Mountain
+16005,11,Subarctic Mountain
+16007,11,Subarctic Mountain
+16009,11,Subarctic Mountain
+16011,11,Subarctic Mountain
+16013,11,Subarctic Mountain
+16015,11,Subarctic Mountain
+16017,11,Subarctic Mountain
+16019,11,Subarctic Mountain
+16021,11,Subarctic Mountain
+16023,11,Subarctic Mountain
+16025,11,Subarctic Mountain
+16027,7,High Altitude Dry Continental
+16029,11,Subarctic Mountain
+16031,11,Subarctic Mountain
+16033,11,Subarctic Mountain
+16035,11,Subarctic Mountain
+16037,11,Subarctic Mountain
+16039,11,Subarctic Mountain
+16041,11,Subarctic Mountain
+16043,11,Subarctic Mountain
+16045,11,Subarctic Mountain
+16047,7,High Altitude Dry Continental
+16049,11,Subarctic Mountain
+16051,11,Subarctic Mountain
+16053,7,High Altitude Dry Continental
+16055,11,Subarctic Mountain
+16057,11,Subarctic Mountain
+16059,11,Subarctic Mountain
+16061,11,Subarctic Mountain
+16063,11,Subarctic Mountain
+16065,11,Subarctic Mountain
+16067,7,High Altitude Dry Continental
+16069,11,Subarctic Mountain
+16071,11,Subarctic Mountain
+16073,11,Subarctic Mountain
+16075,7,High Altitude Dry Continental
+16077,11,Subarctic Mountain
+16079,11,Subarctic Mountain
+16081,11,Subarctic Mountain
+16083,7,High Altitude Dry Continental
+16085,11,Subarctic Mountain
+16087,11,Subarctic Mountain
+17001,6,Temperate Continental Humid
+17003,4,Subtropical Humid Atlantic
+17005,6,Temperate Continental Humid
+17007,10,Cold Maritime / Pacific Northwest
+17009,6,Temperate Continental Humid
+17011,6,Temperate Continental Humid
+17013,6,Temperate Continental Humid
+17015,6,Temperate Continental Humid
+17017,6,Temperate Continental Humid
+17019,6,Temperate Continental Humid
+17021,6,Temperate Continental Humid
+17023,6,Temperate Continental Humid
+17025,6,Temperate Continental Humid
+17027,6,Temperate Continental Humid
+17029,6,Temperate Continental Humid
+17031,6,Temperate Continental Humid
+17033,6,Temperate Continental Humid
+17035,6,Temperate Continental Humid
+17037,6,Temperate Continental Humid
+17039,6,Temperate Continental Humid
+17041,6,Temperate Continental Humid
+17043,6,Temperate Continental Humid
+17045,6,Temperate Continental Humid
+17047,6,Temperate Continental Humid
+17049,6,Temperate Continental Humid
+17051,6,Temperate Continental Humid
+17053,6,Temperate Continental Humid
+17055,6,Temperate Continental Humid
+17057,6,Temperate Continental Humid
+17059,6,Temperate Continental Humid
+17061,6,Temperate Continental Humid
+17063,6,Temperate Continental Humid
+17065,6,Temperate Continental Humid
+17067,6,Temperate Continental Humid
+17069,6,Temperate Continental Humid
+17071,6,Temperate Continental Humid
+17073,6,Temperate Continental Humid
+17075,6,Temperate Continental Humid
+17077,6,Temperate Continental Humid
+17079,6,Temperate Continental Humid
+17081,6,Temperate Continental Humid
+17083,6,Temperate Continental Humid
+17085,6,Temperate Continental Humid
+17087,6,Temperate Continental Humid
+17089,6,Temperate Continental Humid
+17091,6,Temperate Continental Humid
+17093,6,Temperate Continental Humid
+17095,6,Temperate Continental Humid
+17097,6,Temperate Continental Humid
+17099,6,Temperate Continental Humid
+17101,6,Temperate Continental Humid
+17103,6,Temperate Continental Humid
+17105,6,Temperate Continental Humid
+17107,6,Temperate Continental Humid
+17109,6,Temperate Continental Humid
+17111,10,Cold Maritime / Pacific Northwest
+17113,6,Temperate Continental Humid
+17115,6,Temperate Continental Humid
+17117,6,Temperate Continental Humid
+17119,6,Temperate Continental Humid
+17121,6,Temperate Continental Humid
+17123,6,Temperate Continental Humid
+17125,6,Temperate Continental Humid
+17127,4,Subtropical Humid Atlantic
+17129,6,Temperate Continental Humid
+17131,6,Temperate Continental Humid
+17133,6,Temperate Continental Humid
+17135,6,Temperate Continental Humid
+17137,6,Temperate Continental Humid
+17139,6,Temperate Continental Humid
+17141,6,Temperate Continental Humid
+17143,6,Temperate Continental Humid
+17145,6,Temperate Continental Humid
+17147,6,Temperate Continental Humid
+17149,6,Temperate Continental Humid
+17151,6,Temperate Continental Humid
+17153,4,Subtropical Humid Atlantic
+17155,6,Temperate Continental Humid
+17157,6,Temperate Continental Humid
+17159,6,Temperate Continental Humid
+17161,6,Temperate Continental Humid
+17163,6,Temperate Continental Humid
+17165,6,Temperate Continental Humid
+17167,6,Temperate Continental Humid
+17169,6,Temperate Continental Humid
+17171,6,Temperate Continental Humid
+17173,6,Temperate Continental Humid
+17175,6,Temperate Continental Humid
+17177,6,Temperate Continental Humid
+17179,6,Temperate Continental Humid
+17181,6,Temperate Continental Humid
+17183,6,Temperate Continental Humid
+17185,6,Temperate Continental Humid
+17187,6,Temperate Continental Humid
+17189,6,Temperate Continental Humid
+17191,6,Temperate Continental Humid
+17193,6,Temperate Continental Humid
+17195,6,Temperate Continental Humid
+17197,6,Temperate Continental Humid
+17199,6,Temperate Continental Humid
+17201,6,Temperate Continental Humid
+17203,6,Temperate Continental Humid
+18001,6,Temperate Continental Humid
+18003,6,Temperate Continental Humid
+18005,6,Temperate Continental Humid
+18007,6,Temperate Continental Humid
+18009,6,Temperate Continental Humid
+18011,6,Temperate Continental Humid
+18013,6,Temperate Continental Humid
+18015,6,Temperate Continental Humid
+18017,6,Temperate Continental Humid
+18019,6,Temperate Continental Humid
+18021,6,Temperate Continental Humid
+18023,6,Temperate Continental Humid
+18025,6,Temperate Continental Humid
+18027,6,Temperate Continental Humid
+18029,6,Temperate Continental Humid
+18031,6,Temperate Continental Humid
+18033,6,Temperate Continental Humid
+18035,6,Temperate Continental Humid
+18037,6,Temperate Continental Humid
+18039,6,Temperate Continental Humid
+18041,6,Temperate Continental Humid
+18043,6,Temperate Continental Humid
+18045,6,Temperate Continental Humid
+18047,6,Temperate Continental Humid
+18049,6,Temperate Continental Humid
+18051,6,Temperate Continental Humid
+18053,6,Temperate Continental Humid
+18055,6,Temperate Continental Humid
+18057,6,Temperate Continental Humid
+18059,6,Temperate Continental Humid
+18061,6,Temperate Continental Humid
+18063,6,Temperate Continental Humid
+18065,6,Temperate Continental Humid
+18067,6,Temperate Continental Humid
+18069,6,Temperate Continental Humid
+18071,6,Temperate Continental Humid
+18073,6,Temperate Continental Humid
+18075,6,Temperate Continental Humid
+18077,6,Temperate Continental Humid
+18079,6,Temperate Continental Humid
+18081,6,Temperate Continental Humid
+18083,6,Temperate Continental Humid
+18085,6,Temperate Continental Humid
+18087,6,Temperate Continental Humid
+18089,6,Temperate Continental Humid
+18091,6,Temperate Continental Humid
+18093,6,Temperate Continental Humid
+18095,6,Temperate Continental Humid
+18097,6,Temperate Continental Humid
+18099,6,Temperate Continental Humid
+18101,6,Temperate Continental Humid
+18103,6,Temperate Continental Humid
+18105,6,Temperate Continental Humid
+18107,6,Temperate Continental Humid
+18109,6,Temperate Continental Humid
+18111,6,Temperate Continental Humid
+18113,6,Temperate Continental Humid
+18115,6,Temperate Continental Humid
+18117,6,Temperate Continental Humid
+18119,6,Temperate Continental Humid
+18121,6,Temperate Continental Humid
+18123,6,Temperate Continental Humid
+18125,6,Temperate Continental Humid
+18127,6,Temperate Continental Humid
+18129,6,Temperate Continental Humid
+18131,6,Temperate Continental Humid
+18133,6,Temperate Continental Humid
+18135,6,Temperate Continental Humid
+18137,6,Temperate Continental Humid
+18139,6,Temperate Continental Humid
+18141,6,Temperate Continental Humid
+18143,6,Temperate Continental Humid
+18145,6,Temperate Continental Humid
+18147,6,Temperate Continental Humid
+18149,6,Temperate Continental Humid
+18151,6,Temperate Continental Humid
+18153,6,Temperate Continental Humid
+18155,6,Temperate Continental Humid
+18157,6,Temperate Continental Humid
+18159,6,Temperate Continental Humid
+18161,6,Temperate Continental Humid
+18163,6,Temperate Continental Humid
+18165,6,Temperate Continental Humid
+18167,6,Temperate Continental Humid
+18169,6,Temperate Continental Humid
+18171,6,Temperate Continental Humid
+18173,6,Temperate Continental Humid
+18175,6,Temperate Continental Humid
+18177,6,Temperate Continental Humid
+18179,6,Temperate Continental Humid
+18181,6,Temperate Continental Humid
+18183,6,Temperate Continental Humid
+19001,9,Cold Continental / Great Lakes
+19003,9,Cold Continental / Great Lakes
+19005,10,Cold Maritime / Pacific Northwest
+19007,6,Temperate Continental Humid
+19009,9,Cold Continental / Great Lakes
+19011,9,Cold Continental / Great Lakes
+19013,9,Cold Continental / Great Lakes
+19015,9,Cold Continental / Great Lakes
+19017,9,Cold Continental / Great Lakes
+19019,9,Cold Continental / Great Lakes
+19021,9,Cold Continental / Great Lakes
+19023,9,Cold Continental / Great Lakes
+19025,9,Cold Continental / Great Lakes
+19027,9,Cold Continental / Great Lakes
+19029,9,Cold Continental / Great Lakes
+19031,6,Temperate Continental Humid
+19033,9,Cold Continental / Great Lakes
+19035,9,Cold Continental / Great Lakes
+19037,9,Cold Continental / Great Lakes
+19039,6,Temperate Continental Humid
+19041,9,Cold Continental / Great Lakes
+19043,9,Cold Continental / Great Lakes
+19045,6,Temperate Continental Humid
+19047,9,Cold Continental / Great Lakes
+19049,9,Cold Continental / Great Lakes
+19051,6,Temperate Continental Humid
+19053,6,Temperate Continental Humid
+19055,9,Cold Continental / Great Lakes
+19057,6,Temperate Continental Humid
+19059,9,Cold Continental / Great Lakes
+19061,10,Cold Maritime / Pacific Northwest
+19063,9,Cold Continental / Great Lakes
+19065,9,Cold Continental / Great Lakes
+19067,9,Cold Continental / Great Lakes
+19069,9,Cold Continental / Great Lakes
+19071,8,Semiarid Cold
+19073,9,Cold Continental / Great Lakes
+19075,9,Cold Continental / Great Lakes
+19077,9,Cold Continental / Great Lakes
+19079,9,Cold Continental / Great Lakes
+19081,9,Cold Continental / Great Lakes
+19083,9,Cold Continental / Great Lakes
+19085,8,Semiarid Cold
+19087,6,Temperate Continental Humid
+19089,9,Cold Continental / Great Lakes
+19091,9,Cold Continental / Great Lakes
+19093,9,Cold Continental / Great Lakes
+19095,6,Temperate Continental Humid
+19097,6,Temperate Continental Humid
+19099,9,Cold Continental / Great Lakes
+19101,6,Temperate Continental Humid
+19103,6,Temperate Continental Humid
+19105,9,Cold Continental / Great Lakes
+19107,6,Temperate Continental Humid
+19109,9,Cold Continental / Great Lakes
+19111,6,Temperate Continental Humid
+19113,9,Cold Continental / Great Lakes
+19115,6,Temperate Continental Humid
+19117,6,Temperate Continental Humid
+19119,9,Cold Continental / Great Lakes
+19121,9,Cold Continental / Great Lakes
+19123,9,Cold Continental / Great Lakes
+19125,9,Cold Continental / Great Lakes
+19127,9,Cold Continental / Great Lakes
+19129,8,Semiarid Cold
+19131,9,Cold Continental / Great Lakes
+19133,8,Semiarid Cold
+19135,6,Temperate Continental Humid
+19137,9,Cold Continental / Great Lakes
+19139,6,Temperate Continental Humid
+19141,9,Cold Continental / Great Lakes
+19143,9,Cold Continental / Great Lakes
+19145,9,Cold Continental / Great Lakes
+19147,9,Cold Continental / Great Lakes
+19149,9,Cold Continental / Great Lakes
+19151,9,Cold Continental / Great Lakes
+19153,9,Cold Continental / Great Lakes
+19155,8,Semiarid Cold
+19157,9,Cold Continental / Great Lakes
+19159,6,Temperate Continental Humid
+19161,9,Cold Continental / Great Lakes
+19163,6,Temperate Continental Humid
+19165,9,Cold Continental / Great Lakes
+19167,9,Cold Continental / Great Lakes
+19169,9,Cold Continental / Great Lakes
+19171,9,Cold Continental / Great Lakes
+19173,9,Cold Continental / Great Lakes
+19175,9,Cold Continental / Great Lakes
+19177,6,Temperate Continental Humid
+19179,6,Temperate Continental Humid
+19181,9,Cold Continental / Great Lakes
+19183,6,Temperate Continental Humid
+19185,6,Temperate Continental Humid
+19187,9,Cold Continental / Great Lakes
+19189,9,Cold Continental / Great Lakes
+19191,9,Cold Continental / Great Lakes
+19193,8,Semiarid Cold
+19195,9,Cold Continental / Great Lakes
+19197,9,Cold Continental / Great Lakes
+20001,6,Temperate Continental Humid
+20003,6,Temperate Continental Humid
+20005,6,Temperate Continental Humid
+20007,5,Semiarid Continental
+20009,8,Semiarid Cold
+20011,6,Temperate Continental Humid
+20013,8,Semiarid Cold
+20015,8,Semiarid Cold
+20017,8,Semiarid Cold
+20019,8,Semiarid Cold
+20021,6,Temperate Continental Humid
+20023,5,Semiarid Continental
+20025,5,Semiarid Continental
+20027,8,Semiarid Cold
+20029,8,Semiarid Cold
+20031,6,Temperate Continental Humid
+20033,5,Semiarid Continental
+20035,8,Semiarid Cold
+20037,6,Temperate Continental Humid
+20039,5,Semiarid Continental
+20041,8,Semiarid Cold
+20043,6,Temperate Continental Humid
+20045,6,Temperate Continental Humid
+20047,5,Semiarid Continental
+20049,8,Semiarid Cold
+20051,5,Semiarid Continental
+20053,8,Semiarid Cold
+20055,5,Semiarid Continental
+20057,5,Semiarid Continental
+20059,6,Temperate Continental Humid
+20061,8,Semiarid Cold
+20063,5,Semiarid Continental
+20065,5,Semiarid Continental
+20067,5,Semiarid Continental
+20069,5,Semiarid Continental
+20071,5,Semiarid Continental
+20073,8,Semiarid Cold
+20075,5,Semiarid Continental
+20077,8,Semiarid Cold
+20079,8,Semiarid Cold
+20081,5,Semiarid Continental
+20083,5,Semiarid Continental
+20085,8,Semiarid Cold
+20087,8,Semiarid Cold
+20089,8,Semiarid Cold
+20091,6,Temperate Continental Humid
+20093,5,Semiarid Continental
+20095,8,Semiarid Cold
+20097,5,Semiarid Continental
+20099,6,Temperate Continental Humid
+20101,5,Semiarid Continental
+20103,6,Temperate Continental Humid
+20105,8,Semiarid Cold
+20107,6,Temperate Continental Humid
+20109,5,Semiarid Continental
+20111,8,Semiarid Cold
+20113,8,Semiarid Cold
+20115,8,Semiarid Cold
+20117,8,Semiarid Cold
+20119,5,Semiarid Continental
+20121,6,Temperate Continental Humid
+20123,8,Semiarid Cold
+20125,6,Temperate Continental Humid
+20127,8,Semiarid Cold
+20129,5,Semiarid Continental
+20131,8,Semiarid Cold
+20133,6,Temperate Continental Humid
+20135,5,Semiarid Continental
+20137,5,Semiarid Continental
+20139,8,Semiarid Cold
+20141,8,Semiarid Cold
+20143,8,Semiarid Cold
+20145,5,Semiarid Continental
+20147,8,Semiarid Cold
+20149,8,Semiarid Cold
+20151,8,Semiarid Cold
+20153,5,Semiarid Continental
+20155,8,Semiarid Cold
+20157,8,Semiarid Cold
+20159,8,Semiarid Cold
+20161,8,Semiarid Cold
+20163,5,Semiarid Continental
+20165,5,Semiarid Continental
+20167,8,Semiarid Cold
+20169,8,Semiarid Cold
+20171,5,Semiarid Continental
+20173,8,Semiarid Cold
+20175,5,Semiarid Continental
+20177,8,Semiarid Cold
+20179,5,Semiarid Continental
+20181,5,Semiarid Continental
+20183,8,Semiarid Cold
+20185,8,Semiarid Cold
+20187,5,Semiarid Continental
+20189,5,Semiarid Continental
+20191,8,Semiarid Cold
+20193,5,Semiarid Continental
+20195,5,Semiarid Continental
+20197,8,Semiarid Cold
+20199,5,Semiarid Continental
+20201,8,Semiarid Cold
+20203,5,Semiarid Continental
+20205,6,Temperate Continental Humid
+20207,6,Temperate Continental Humid
+20209,6,Temperate Continental Humid
+21001,4,Subtropical Humid Atlantic
+21003,4,Subtropical Humid Atlantic
+21005,6,Temperate Continental Humid
+21007,4,Subtropical Humid Atlantic
+21009,4,Subtropical Humid Atlantic
+21011,6,Temperate Continental Humid
+21013,4,Subtropical Humid Atlantic
+21015,6,Temperate Continental Humid
+21017,6,Temperate Continental Humid
+21019,6,Temperate Continental Humid
+21021,6,Temperate Continental Humid
+21023,6,Temperate Continental Humid
+21025,6,Temperate Continental Humid
+21027,6,Temperate Continental Humid
+21029,6,Temperate Continental Humid
+21031,4,Subtropical Humid Atlantic
+21033,4,Subtropical Humid Atlantic
+21035,4,Subtropical Humid Atlantic
+21037,6,Temperate Continental Humid
+21039,4,Subtropical Humid Atlantic
+21041,6,Temperate Continental Humid
+21043,6,Temperate Continental Humid
+21045,6,Temperate Continental Humid
+21047,4,Subtropical Humid Atlantic
+21049,6,Temperate Continental Humid
+21051,4,Subtropical Humid Atlantic
+21053,4,Subtropical Humid Atlantic
+21055,6,Temperate Continental Humid
+21057,4,Subtropical Humid Atlantic
+21059,6,Temperate Continental Humid
+21061,4,Subtropical Humid Atlantic
+21063,6,Temperate Continental Humid
+21065,6,Temperate Continental Humid
+21067,6,Temperate Continental Humid
+21069,6,Temperate Continental Humid
+21071,4,Subtropical Humid Atlantic
+21073,6,Temperate Continental Humid
+21075,4,Subtropical Humid Atlantic
+21077,6,Temperate Continental Humid
+21079,6,Temperate Continental Humid
+21081,6,Temperate Continental Humid
+21083,4,Subtropical Humid Atlantic
+21085,6,Temperate Continental Humid
+21087,6,Temperate Continental Humid
+21089,6,Temperate Continental Humid
+21091,6,Temperate Continental Humid
+21093,6,Temperate Continental Humid
+21095,4,Subtropical Humid Atlantic
+21097,6,Temperate Continental Humid
+21099,6,Temperate Continental Humid
+21101,6,Temperate Continental Humid
+21103,6,Temperate Continental Humid
+21105,4,Subtropical Humid Atlantic
+21107,4,Subtropical Humid Atlantic
+21109,6,Temperate Continental Humid
+21111,6,Temperate Continental Humid
+21113,6,Temperate Continental Humid
+21115,6,Temperate Continental Humid
+21117,6,Temperate Continental Humid
+21119,6,Temperate Continental Humid
+21121,4,Subtropical Humid Atlantic
+21123,6,Temperate Continental Humid
+21125,6,Temperate Continental Humid
+21127,6,Temperate Continental Humid
+21129,6,Temperate Continental Humid
+21131,4,Subtropical Humid Atlantic
+21133,4,Subtropical Humid Atlantic
+21135,6,Temperate Continental Humid
+21137,6,Temperate Continental Humid
+21139,4,Subtropical Humid Atlantic
+21141,4,Subtropical Humid Atlantic
+21143,4,Subtropical Humid Atlantic
+21145,4,Subtropical Humid Atlantic
+21147,4,Subtropical Humid Atlantic
+21149,6,Temperate Continental Humid
+21151,6,Temperate Continental Humid
+21153,6,Temperate Continental Humid
+21155,6,Temperate Continental Humid
+21157,4,Subtropical Humid Atlantic
+21159,6,Temperate Continental Humid
+21161,6,Temperate Continental Humid
+21163,6,Temperate Continental Humid
+21165,6,Temperate Continental Humid
+21167,6,Temperate Continental Humid
+21169,4,Subtropical Humid Atlantic
+21171,4,Subtropical Humid Atlantic
+21173,6,Temperate Continental Humid
+21175,6,Temperate Continental Humid
+21177,4,Subtropical Humid Atlantic
+21179,6,Temperate Continental Humid
+21181,6,Temperate Continental Humid
+21183,6,Temperate Continental Humid
+21185,6,Temperate Continental Humid
+21187,6,Temperate Continental Humid
+21189,6,Temperate Continental Humid
+21191,6,Temperate Continental Humid
+21193,6,Temperate Continental Humid
+21195,6,Temperate Continental Humid
+21197,6,Temperate Continental Humid
+21199,4,Subtropical Humid Atlantic
+21201,6,Temperate Continental Humid
+21203,6,Temperate Continental Humid
+21205,6,Temperate Continental Humid
+21207,4,Subtropical Humid Atlantic
+21209,6,Temperate Continental Humid
+21211,6,Temperate Continental Humid
+21213,4,Subtropical Humid Atlantic
+21215,6,Temperate Continental Humid
+21217,6,Temperate Continental Humid
+21219,4,Subtropical Humid Atlantic
+21221,4,Subtropical Humid Atlantic
+21223,6,Temperate Continental Humid
+21225,6,Temperate Continental Humid
+21227,4,Subtropical Humid Atlantic
+21229,6,Temperate Continental Humid
+21231,4,Subtropical Humid Atlantic
+21233,6,Temperate Continental Humid
+21235,4,Subtropical Humid Atlantic
+21237,6,Temperate Continental Humid
+21239,6,Temperate Continental Humid
+22001,3,Warm Temperate Humid (Deep South)
+22003,3,Warm Temperate Humid (Deep South)
+22005,3,Warm Temperate Humid (Deep South)
+22007,3,Warm Temperate Humid (Deep South)
+22009,4,Subtropical Humid Atlantic
+22011,3,Warm Temperate Humid (Deep South)
+22013,4,Subtropical Humid Atlantic
+22015,4,Subtropical Humid Atlantic
+22017,4,Subtropical Humid Atlantic
+22019,3,Warm Temperate Humid (Deep South)
+22021,4,Subtropical Humid Atlantic
+22023,3,Warm Temperate Humid (Deep South)
+22025,4,Subtropical Humid Atlantic
+22027,4,Subtropical Humid Atlantic
+22029,4,Subtropical Humid Atlantic
+22031,4,Subtropical Humid Atlantic
+22033,3,Warm Temperate Humid (Deep South)
+22035,4,Subtropical Humid Atlantic
+22037,3,Warm Temperate Humid (Deep South)
+22039,3,Warm Temperate Humid (Deep South)
+22041,4,Subtropical Humid Atlantic
+22043,4,Subtropical Humid Atlantic
+22045,3,Warm Temperate Humid (Deep South)
+22047,3,Warm Temperate Humid (Deep South)
+22049,4,Subtropical Humid Atlantic
+22051,3,Warm Temperate Humid (Deep South)
+22053,3,Warm Temperate Humid (Deep South)
+22055,3,Warm Temperate Humid (Deep South)
+22057,3,Warm Temperate Humid (Deep South)
+22059,4,Subtropical Humid Atlantic
+22061,4,Subtropical Humid Atlantic
+22063,3,Warm Temperate Humid (Deep South)
+22065,4,Subtropical Humid Atlantic
+22067,4,Subtropical Humid Atlantic
+22069,4,Subtropical Humid Atlantic
+22071,3,Warm Temperate Humid (Deep South)
+22073,4,Subtropical Humid Atlantic
+22075,3,Warm Temperate Humid (Deep South)
+22077,3,Warm Temperate Humid (Deep South)
+22079,4,Subtropical Humid Atlantic
+22081,4,Subtropical Humid Atlantic
+22083,4,Subtropical Humid Atlantic
+22085,4,Subtropical Humid Atlantic
+22087,3,Warm Temperate Humid (Deep South)
+22089,3,Warm Temperate Humid (Deep South)
+22091,3,Warm Temperate Humid (Deep South)
+22093,3,Warm Temperate Humid (Deep South)
+22095,3,Warm Temperate Humid (Deep South)
+22097,3,Warm Temperate Humid (Deep South)
+22099,3,Warm Temperate Humid (Deep South)
+22101,3,Warm Temperate Humid (Deep South)
+22103,3,Warm Temperate Humid (Deep South)
+22105,3,Warm Temperate Humid (Deep South)
+22107,4,Subtropical Humid Atlantic
+22109,3,Warm Temperate Humid (Deep South)
+22111,4,Subtropical Humid Atlantic
+22113,3,Warm Temperate Humid (Deep South)
+22115,3,Warm Temperate Humid (Deep South)
+22117,3,Warm Temperate Humid (Deep South)
+22119,4,Subtropical Humid Atlantic
+22121,3,Warm Temperate Humid (Deep South)
+22123,4,Subtropical Humid Atlantic
+22125,4,Subtropical Humid Atlantic
+22127,4,Subtropical Humid Atlantic
+23001,10,Cold Maritime / Pacific Northwest
+23003,10,Cold Maritime / Pacific Northwest
+23005,10,Cold Maritime / Pacific Northwest
+23007,10,Cold Maritime / Pacific Northwest
+23009,10,Cold Maritime / Pacific Northwest
+23011,10,Cold Maritime / Pacific Northwest
+23013,10,Cold Maritime / Pacific Northwest
+23015,10,Cold Maritime / Pacific Northwest
+23017,10,Cold Maritime / Pacific Northwest
+23019,10,Cold Maritime / Pacific Northwest
+23021,10,Cold Maritime / Pacific Northwest
+23023,10,Cold Maritime / Pacific Northwest
+23025,10,Cold Maritime / Pacific Northwest
+23027,10,Cold Maritime / Pacific Northwest
+23029,10,Cold Maritime / Pacific Northwest
+23031,10,Cold Maritime / Pacific Northwest
+24001,6,Temperate Continental Humid
+24003,6,Temperate Continental Humid
+24005,6,Temperate Continental Humid
+24009,4,Subtropical Humid Atlantic
+24011,6,Temperate Continental Humid
+24013,6,Temperate Continental Humid
+24015,6,Temperate Continental Humid
+24017,6,Temperate Continental Humid
+24019,4,Subtropical Humid Atlantic
+24021,6,Temperate Continental Humid
+24023,10,Cold Maritime / Pacific Northwest
+24025,6,Temperate Continental Humid
+24027,6,Temperate Continental Humid
+24029,6,Temperate Continental Humid
+24031,6,Temperate Continental Humid
+24033,6,Temperate Continental Humid
+24035,6,Temperate Continental Humid
+24037,4,Subtropical Humid Atlantic
+24039,3,Warm Temperate Humid (Deep South)
+24041,6,Temperate Continental Humid
+24043,6,Temperate Continental Humid
+24045,3,Warm Temperate Humid (Deep South)
+24047,3,Warm Temperate Humid (Deep South)
+24510,6,Temperate Continental Humid
+25001,3,Warm Temperate Humid (Deep South)
+25003,10,Cold Maritime / Pacific Northwest
+25005,10,Cold Maritime / Pacific Northwest
+25007,3,Warm Temperate Humid (Deep South)
+25009,10,Cold Maritime / Pacific Northwest
+25011,10,Cold Maritime / Pacific Northwest
+25013,10,Cold Maritime / Pacific Northwest
+25015,10,Cold Maritime / Pacific Northwest
+25017,10,Cold Maritime / Pacific Northwest
+25019,3,Warm Temperate Humid (Deep South)
+25021,10,Cold Maritime / Pacific Northwest
+25023,10,Cold Maritime / Pacific Northwest
+25025,10,Cold Maritime / Pacific Northwest
+25027,10,Cold Maritime / Pacific Northwest
+26001,10,Cold Maritime / Pacific Northwest
+26003,10,Cold Maritime / Pacific Northwest
+26005,10,Cold Maritime / Pacific Northwest
+26007,10,Cold Maritime / Pacific Northwest
+26009,10,Cold Maritime / Pacific Northwest
+26011,10,Cold Maritime / Pacific Northwest
+26013,10,Cold Maritime / Pacific Northwest
+26015,10,Cold Maritime / Pacific Northwest
+26017,10,Cold Maritime / Pacific Northwest
+26019,10,Cold Maritime / Pacific Northwest
+26021,6,Temperate Continental Humid
+26023,10,Cold Maritime / Pacific Northwest
+26025,10,Cold Maritime / Pacific Northwest
+26027,10,Cold Maritime / Pacific Northwest
+26029,10,Cold Maritime / Pacific Northwest
+26031,10,Cold Maritime / Pacific Northwest
+26033,10,Cold Maritime / Pacific Northwest
+26035,10,Cold Maritime / Pacific Northwest
+26037,10,Cold Maritime / Pacific Northwest
+26039,10,Cold Maritime / Pacific Northwest
+26041,10,Cold Maritime / Pacific Northwest
+26043,10,Cold Maritime / Pacific Northwest
+26045,10,Cold Maritime / Pacific Northwest
+26047,10,Cold Maritime / Pacific Northwest
+26049,10,Cold Maritime / Pacific Northwest
+26051,10,Cold Maritime / Pacific Northwest
+26053,10,Cold Maritime / Pacific Northwest
+26055,10,Cold Maritime / Pacific Northwest
+26057,10,Cold Maritime / Pacific Northwest
+26059,10,Cold Maritime / Pacific Northwest
+26061,10,Cold Maritime / Pacific Northwest
+26063,10,Cold Maritime / Pacific Northwest
+26065,10,Cold Maritime / Pacific Northwest
+26067,10,Cold Maritime / Pacific Northwest
+26069,10,Cold Maritime / Pacific Northwest
+26071,10,Cold Maritime / Pacific Northwest
+26073,10,Cold Maritime / Pacific Northwest
+26075,10,Cold Maritime / Pacific Northwest
+26077,10,Cold Maritime / Pacific Northwest
+26079,10,Cold Maritime / Pacific Northwest
+26081,10,Cold Maritime / Pacific Northwest
+26083,10,Cold Maritime / Pacific Northwest
+26085,10,Cold Maritime / Pacific Northwest
+26087,10,Cold Maritime / Pacific Northwest
+26089,10,Cold Maritime / Pacific Northwest
+26091,10,Cold Maritime / Pacific Northwest
+26093,10,Cold Maritime / Pacific Northwest
+26095,10,Cold Maritime / Pacific Northwest
+26097,10,Cold Maritime / Pacific Northwest
+26099,10,Cold Maritime / Pacific Northwest
+26101,10,Cold Maritime / Pacific Northwest
+26103,10,Cold Maritime / Pacific Northwest
+26105,10,Cold Maritime / Pacific Northwest
+26107,10,Cold Maritime / Pacific Northwest
+26109,10,Cold Maritime / Pacific Northwest
+26111,10,Cold Maritime / Pacific Northwest
+26113,10,Cold Maritime / Pacific Northwest
+26115,6,Temperate Continental Humid
+26117,10,Cold Maritime / Pacific Northwest
+26119,10,Cold Maritime / Pacific Northwest
+26121,10,Cold Maritime / Pacific Northwest
+26123,10,Cold Maritime / Pacific Northwest
+26125,10,Cold Maritime / Pacific Northwest
+26127,10,Cold Maritime / Pacific Northwest
+26129,10,Cold Maritime / Pacific Northwest
+26131,10,Cold Maritime / Pacific Northwest
+26133,10,Cold Maritime / Pacific Northwest
+26135,10,Cold Maritime / Pacific Northwest
+26137,10,Cold Maritime / Pacific Northwest
+26139,10,Cold Maritime / Pacific Northwest
+26141,10,Cold Maritime / Pacific Northwest
+26143,10,Cold Maritime / Pacific Northwest
+26145,10,Cold Maritime / Pacific Northwest
+26147,10,Cold Maritime / Pacific Northwest
+26149,10,Cold Maritime / Pacific Northwest
+26151,10,Cold Maritime / Pacific Northwest
+26153,10,Cold Maritime / Pacific Northwest
+26155,10,Cold Maritime / Pacific Northwest
+26157,10,Cold Maritime / Pacific Northwest
+26159,10,Cold Maritime / Pacific Northwest
+26161,10,Cold Maritime / Pacific Northwest
+26163,6,Temperate Continental Humid
+26165,10,Cold Maritime / Pacific Northwest
+27001,10,Cold Maritime / Pacific Northwest
+27003,9,Cold Continental / Great Lakes
+27005,9,Cold Continental / Great Lakes
+27007,9,Cold Continental / Great Lakes
+27009,9,Cold Continental / Great Lakes
+27011,9,Cold Continental / Great Lakes
+27013,9,Cold Continental / Great Lakes
+27015,9,Cold Continental / Great Lakes
+27017,10,Cold Maritime / Pacific Northwest
+27019,9,Cold Continental / Great Lakes
+27021,9,Cold Continental / Great Lakes
+27023,9,Cold Continental / Great Lakes
+27025,9,Cold Continental / Great Lakes
+27027,9,Cold Continental / Great Lakes
+27029,9,Cold Continental / Great Lakes
+27031,10,Cold Maritime / Pacific Northwest
+27033,9,Cold Continental / Great Lakes
+27035,9,Cold Continental / Great Lakes
+27037,9,Cold Continental / Great Lakes
+27039,9,Cold Continental / Great Lakes
+27041,9,Cold Continental / Great Lakes
+27043,9,Cold Continental / Great Lakes
+27045,9,Cold Continental / Great Lakes
+27047,9,Cold Continental / Great Lakes
+27049,9,Cold Continental / Great Lakes
+27051,9,Cold Continental / Great Lakes
+27053,9,Cold Continental / Great Lakes
+27055,10,Cold Maritime / Pacific Northwest
+27057,9,Cold Continental / Great Lakes
+27059,9,Cold Continental / Great Lakes
+27061,9,Cold Continental / Great Lakes
+27063,9,Cold Continental / Great Lakes
+27065,10,Cold Maritime / Pacific Northwest
+27067,9,Cold Continental / Great Lakes
+27069,9,Cold Continental / Great Lakes
+27071,9,Cold Continental / Great Lakes
+27073,9,Cold Continental / Great Lakes
+27075,10,Cold Maritime / Pacific Northwest
+27077,9,Cold Continental / Great Lakes
+27079,9,Cold Continental / Great Lakes
+27081,9,Cold Continental / Great Lakes
+27083,9,Cold Continental / Great Lakes
+27085,9,Cold Continental / Great Lakes
+27087,9,Cold Continental / Great Lakes
+27089,9,Cold Continental / Great Lakes
+27091,9,Cold Continental / Great Lakes
+27093,9,Cold Continental / Great Lakes
+27095,9,Cold Continental / Great Lakes
+27097,9,Cold Continental / Great Lakes
+27099,9,Cold Continental / Great Lakes
+27101,9,Cold Continental / Great Lakes
+27103,9,Cold Continental / Great Lakes
+27105,9,Cold Continental / Great Lakes
+27107,9,Cold Continental / Great Lakes
+27109,9,Cold Continental / Great Lakes
+27111,9,Cold Continental / Great Lakes
+27113,9,Cold Continental / Great Lakes
+27115,10,Cold Maritime / Pacific Northwest
+27117,9,Cold Continental / Great Lakes
+27119,9,Cold Continental / Great Lakes
+27121,9,Cold Continental / Great Lakes
+27123,9,Cold Continental / Great Lakes
+27125,9,Cold Continental / Great Lakes
+27127,9,Cold Continental / Great Lakes
+27129,9,Cold Continental / Great Lakes
+27131,9,Cold Continental / Great Lakes
+27133,9,Cold Continental / Great Lakes
+27135,9,Cold Continental / Great Lakes
+27137,10,Cold Maritime / Pacific Northwest
+27139,9,Cold Continental / Great Lakes
+27141,9,Cold Continental / Great Lakes
+27143,9,Cold Continental / Great Lakes
+27145,9,Cold Continental / Great Lakes
+27147,9,Cold Continental / Great Lakes
+27149,9,Cold Continental / Great Lakes
+27151,9,Cold Continental / Great Lakes
+27153,9,Cold Continental / Great Lakes
+27155,9,Cold Continental / Great Lakes
+27157,10,Cold Maritime / Pacific Northwest
+27159,9,Cold Continental / Great Lakes
+27161,9,Cold Continental / Great Lakes
+27163,9,Cold Continental / Great Lakes
+27165,9,Cold Continental / Great Lakes
+27167,9,Cold Continental / Great Lakes
+27169,10,Cold Maritime / Pacific Northwest
+27171,9,Cold Continental / Great Lakes
+27173,9,Cold Continental / Great Lakes
+28001,4,Subtropical Humid Atlantic
+28003,4,Subtropical Humid Atlantic
+28005,3,Warm Temperate Humid (Deep South)
+28007,4,Subtropical Humid Atlantic
+28009,4,Subtropical Humid Atlantic
+28011,4,Subtropical Humid Atlantic
+28013,4,Subtropical Humid Atlantic
+28015,4,Subtropical Humid Atlantic
+28017,4,Subtropical Humid Atlantic
+28019,4,Subtropical Humid Atlantic
+28021,4,Subtropical Humid Atlantic
+28023,3,Warm Temperate Humid (Deep South)
+28025,4,Subtropical Humid Atlantic
+28027,4,Subtropical Humid Atlantic
+28029,4,Subtropical Humid Atlantic
+28031,3,Warm Temperate Humid (Deep South)
+28033,4,Subtropical Humid Atlantic
+28035,3,Warm Temperate Humid (Deep South)
+28037,3,Warm Temperate Humid (Deep South)
+28039,3,Warm Temperate Humid (Deep South)
+28041,3,Warm Temperate Humid (Deep South)
+28043,4,Subtropical Humid Atlantic
+28045,3,Warm Temperate Humid (Deep South)
+28047,3,Warm Temperate Humid (Deep South)
+28049,4,Subtropical Humid Atlantic
+28051,4,Subtropical Humid Atlantic
+28053,4,Subtropical Humid Atlantic
+28055,4,Subtropical Humid Atlantic
+28057,4,Subtropical Humid Atlantic
+28059,3,Warm Temperate Humid (Deep South)
+28061,3,Warm Temperate Humid (Deep South)
+28063,4,Subtropical Humid Atlantic
+28065,3,Warm Temperate Humid (Deep South)
+28067,3,Warm Temperate Humid (Deep South)
+28069,4,Subtropical Humid Atlantic
+28071,4,Subtropical Humid Atlantic
+28073,3,Warm Temperate Humid (Deep South)
+28075,3,Warm Temperate Humid (Deep South)
+28077,3,Warm Temperate Humid (Deep South)
+28079,4,Subtropical Humid Atlantic
+28081,4,Subtropical Humid Atlantic
+28083,4,Subtropical Humid Atlantic
+28085,3,Warm Temperate Humid (Deep South)
+28087,4,Subtropical Humid Atlantic
+28089,4,Subtropical Humid Atlantic
+28091,3,Warm Temperate Humid (Deep South)
+28093,4,Subtropical Humid Atlantic
+28095,4,Subtropical Humid Atlantic
+28097,4,Subtropical Humid Atlantic
+28099,4,Subtropical Humid Atlantic
+28101,4,Subtropical Humid Atlantic
+28103,4,Subtropical Humid Atlantic
+28105,4,Subtropical Humid Atlantic
+28107,4,Subtropical Humid Atlantic
+28109,3,Warm Temperate Humid (Deep South)
+28111,3,Warm Temperate Humid (Deep South)
+28113,3,Warm Temperate Humid (Deep South)
+28115,4,Subtropical Humid Atlantic
+28117,4,Subtropical Humid Atlantic
+28119,4,Subtropical Humid Atlantic
+28121,4,Subtropical Humid Atlantic
+28123,4,Subtropical Humid Atlantic
+28125,4,Subtropical Humid Atlantic
+28127,4,Subtropical Humid Atlantic
+28129,3,Warm Temperate Humid (Deep South)
+28131,3,Warm Temperate Humid (Deep South)
+28133,4,Subtropical Humid Atlantic
+28135,4,Subtropical Humid Atlantic
+28137,4,Subtropical Humid Atlantic
+28139,4,Subtropical Humid Atlantic
+28141,4,Subtropical Humid Atlantic
+28143,4,Subtropical Humid Atlantic
+28145,4,Subtropical Humid Atlantic
+28147,3,Warm Temperate Humid (Deep South)
+28149,4,Subtropical Humid Atlantic
+28151,4,Subtropical Humid Atlantic
+28153,3,Warm Temperate Humid (Deep South)
+28155,4,Subtropical Humid Atlantic
+28157,4,Subtropical Humid Atlantic
+28159,4,Subtropical Humid Atlantic
+28161,4,Subtropical Humid Atlantic
+28163,4,Subtropical Humid Atlantic
+29001,6,Temperate Continental Humid
+29003,6,Temperate Continental Humid
+29005,8,Semiarid Cold
+29007,6,Temperate Continental Humid
+29009,4,Subtropical Humid Atlantic
+29011,6,Temperate Continental Humid
+29013,6,Temperate Continental Humid
+29015,6,Temperate Continental Humid
+29017,4,Subtropical Humid Atlantic
+29019,6,Temperate Continental Humid
+29021,6,Temperate Continental Humid
+29023,4,Subtropical Humid Atlantic
+29025,6,Temperate Continental Humid
+29027,6,Temperate Continental Humid
+29029,6,Temperate Continental Humid
+29031,4,Subtropical Humid Atlantic
+29033,6,Temperate Continental Humid
+29035,4,Subtropical Humid Atlantic
+29037,6,Temperate Continental Humid
+29039,6,Temperate Continental Humid
+29041,6,Temperate Continental Humid
+29043,4,Subtropical Humid Atlantic
+29045,6,Temperate Continental Humid
+29047,6,Temperate Continental Humid
+29049,6,Temperate Continental Humid
+29051,6,Temperate Continental Humid
+29053,6,Temperate Continental Humid
+29055,6,Temperate Continental Humid
+29057,6,Temperate Continental Humid
+29059,6,Temperate Continental Humid
+29061,6,Temperate Continental Humid
+29063,6,Temperate Continental Humid
+29065,4,Subtropical Humid Atlantic
+29067,4,Subtropical Humid Atlantic
+29069,4,Subtropical Humid Atlantic
+29071,6,Temperate Continental Humid
+29073,6,Temperate Continental Humid
+29075,6,Temperate Continental Humid
+29077,4,Subtropical Humid Atlantic
+29079,6,Temperate Continental Humid
+29081,6,Temperate Continental Humid
+29083,6,Temperate Continental Humid
+29085,6,Temperate Continental Humid
+29087,6,Temperate Continental Humid
+29089,6,Temperate Continental Humid
+29091,4,Subtropical Humid Atlantic
+29093,6,Temperate Continental Humid
+29095,6,Temperate Continental Humid
+29097,6,Temperate Continental Humid
+29099,6,Temperate Continental Humid
+29101,6,Temperate Continental Humid
+29103,6,Temperate Continental Humid
+29105,4,Subtropical Humid Atlantic
+29107,6,Temperate Continental Humid
+29109,4,Subtropical Humid Atlantic
+29111,6,Temperate Continental Humid
+29113,6,Temperate Continental Humid
+29115,6,Temperate Continental Humid
+29117,6,Temperate Continental Humid
+29119,4,Subtropical Humid Atlantic
+29121,6,Temperate Continental Humid
+29123,4,Subtropical Humid Atlantic
+29125,6,Temperate Continental Humid
+29127,6,Temperate Continental Humid
+29129,6,Temperate Continental Humid
+29131,6,Temperate Continental Humid
+29133,4,Subtropical Humid Atlantic
+29135,6,Temperate Continental Humid
+29137,6,Temperate Continental Humid
+29139,6,Temperate Continental Humid
+29141,6,Temperate Continental Humid
+29143,4,Subtropical Humid Atlantic
+29145,4,Subtropical Humid Atlantic
+29147,8,Semiarid Cold
+29149,4,Subtropical Humid Atlantic
+29151,6,Temperate Continental Humid
+29153,4,Subtropical Humid Atlantic
+29155,4,Subtropical Humid Atlantic
+29157,6,Temperate Continental Humid
+29159,6,Temperate Continental Humid
+29161,6,Temperate Continental Humid
+29163,6,Temperate Continental Humid
+29165,6,Temperate Continental Humid
+29167,6,Temperate Continental Humid
+29169,6,Temperate Continental Humid
+29171,6,Temperate Continental Humid
+29173,6,Temperate Continental Humid
+29175,6,Temperate Continental Humid
+29177,6,Temperate Continental Humid
+29179,4,Subtropical Humid Atlantic
+29181,4,Subtropical Humid Atlantic
+29183,6,Temperate Continental Humid
+29185,6,Temperate Continental Humid
+29186,6,Temperate Continental Humid
+29187,6,Temperate Continental Humid
+29189,6,Temperate Continental Humid
+29195,6,Temperate Continental Humid
+29197,6,Temperate Continental Humid
+29199,6,Temperate Continental Humid
+29201,4,Subtropical Humid Atlantic
+29203,4,Subtropical Humid Atlantic
+29205,6,Temperate Continental Humid
+29207,4,Subtropical Humid Atlantic
+29209,4,Subtropical Humid Atlantic
+29211,6,Temperate Continental Humid
+29213,4,Subtropical Humid Atlantic
+29215,4,Subtropical Humid Atlantic
+29217,6,Temperate Continental Humid
+29219,6,Temperate Continental Humid
+29221,6,Temperate Continental Humid
+29223,4,Subtropical Humid Atlantic
+29225,6,Temperate Continental Humid
+29227,6,Temperate Continental Humid
+29229,4,Subtropical Humid Atlantic
+29510,6,Temperate Continental Humid
+30001,11,Subarctic Mountain
+30003,8,Semiarid Cold
+30005,9,Cold Continental / Great Lakes
+30007,11,Subarctic Mountain
+30009,8,Semiarid Cold
+30011,9,Cold Continental / Great Lakes
+30013,11,Subarctic Mountain
+30015,9,Cold Continental / Great Lakes
+30017,9,Cold Continental / Great Lakes
+30019,9,Cold Continental / Great Lakes
+30021,9,Cold Continental / Great Lakes
+30023,11,Subarctic Mountain
+30025,9,Cold Continental / Great Lakes
+30027,9,Cold Continental / Great Lakes
+30029,11,Subarctic Mountain
+30031,11,Subarctic Mountain
+30033,9,Cold Continental / Great Lakes
+30035,10,Cold Maritime / Pacific Northwest
+30037,9,Cold Continental / Great Lakes
+30039,11,Subarctic Mountain
+30041,9,Cold Continental / Great Lakes
+30043,11,Subarctic Mountain
+30045,11,Subarctic Mountain
+30047,11,Subarctic Mountain
+30049,11,Subarctic Mountain
+30051,9,Cold Continental / Great Lakes
+30053,11,Subarctic Mountain
+30055,9,Cold Continental / Great Lakes
+30057,11,Subarctic Mountain
+30059,11,Subarctic Mountain
+30061,11,Subarctic Mountain
+30063,11,Subarctic Mountain
+30065,8,Semiarid Cold
+30067,11,Subarctic Mountain
+30069,8,Semiarid Cold
+30071,9,Cold Continental / Great Lakes
+30073,11,Subarctic Mountain
+30075,8,Semiarid Cold
+30077,11,Subarctic Mountain
+30079,9,Cold Continental / Great Lakes
+30081,11,Subarctic Mountain
+30083,9,Cold Continental / Great Lakes
+30085,9,Cold Continental / Great Lakes
+30087,8,Semiarid Cold
+30089,11,Subarctic Mountain
+30091,9,Cold Continental / Great Lakes
+30093,11,Subarctic Mountain
+30095,8,Semiarid Cold
+30097,11,Subarctic Mountain
+30099,11,Subarctic Mountain
+30101,9,Cold Continental / Great Lakes
+30103,8,Semiarid Cold
+30105,9,Cold Continental / Great Lakes
+30107,11,Subarctic Mountain
+30109,9,Cold Continental / Great Lakes
+30111,8,Semiarid Cold
+31001,8,Semiarid Cold
+31003,8,Semiarid Cold
+31005,8,Semiarid Cold
+31007,5,Semiarid Continental
+31009,8,Semiarid Cold
+31011,8,Semiarid Cold
+31013,8,Semiarid Cold
+31015,8,Semiarid Cold
+31017,8,Semiarid Cold
+31019,8,Semiarid Cold
+31021,8,Semiarid Cold
+31023,8,Semiarid Cold
+31025,8,Semiarid Cold
+31027,8,Semiarid Cold
+31029,5,Semiarid Continental
+31031,8,Semiarid Cold
+31033,5,Semiarid Continental
+31035,8,Semiarid Cold
+31037,8,Semiarid Cold
+31039,8,Semiarid Cold
+31041,8,Semiarid Cold
+31043,8,Semiarid Cold
+31045,8,Semiarid Cold
+31047,8,Semiarid Cold
+31049,5,Semiarid Continental
+31051,8,Semiarid Cold
+31053,8,Semiarid Cold
+31055,8,Semiarid Cold
+31057,5,Semiarid Continental
+31059,8,Semiarid Cold
+31061,8,Semiarid Cold
+31063,8,Semiarid Cold
+31065,8,Semiarid Cold
+31067,8,Semiarid Cold
+31069,5,Semiarid Continental
+31071,8,Semiarid Cold
+31073,8,Semiarid Cold
+31075,8,Semiarid Cold
+31077,8,Semiarid Cold
+31079,8,Semiarid Cold
+31081,8,Semiarid Cold
+31083,8,Semiarid Cold
+31085,5,Semiarid Continental
+31087,5,Semiarid Continental
+31089,8,Semiarid Cold
+31091,8,Semiarid Cold
+31093,8,Semiarid Cold
+31095,8,Semiarid Cold
+31097,8,Semiarid Cold
+31099,8,Semiarid Cold
+31101,5,Semiarid Continental
+31103,8,Semiarid Cold
+31105,5,Semiarid Continental
+31107,8,Semiarid Cold
+31109,8,Semiarid Cold
+31111,8,Semiarid Cold
+31113,8,Semiarid Cold
+31115,8,Semiarid Cold
+31117,8,Semiarid Cold
+31119,8,Semiarid Cold
+31121,8,Semiarid Cold
+31123,5,Semiarid Continental
+31125,8,Semiarid Cold
+31127,8,Semiarid Cold
+31129,8,Semiarid Cold
+31131,8,Semiarid Cold
+31133,8,Semiarid Cold
+31135,5,Semiarid Continental
+31137,8,Semiarid Cold
+31139,8,Semiarid Cold
+31141,8,Semiarid Cold
+31143,8,Semiarid Cold
+31145,5,Semiarid Continental
+31147,8,Semiarid Cold
+31149,8,Semiarid Cold
+31151,8,Semiarid Cold
+31153,8,Semiarid Cold
+31155,8,Semiarid Cold
+31157,5,Semiarid Continental
+31159,8,Semiarid Cold
+31161,8,Semiarid Cold
+31163,8,Semiarid Cold
+31165,8,Semiarid Cold
+31167,8,Semiarid Cold
+31169,8,Semiarid Cold
+31171,8,Semiarid Cold
+31173,8,Semiarid Cold
+31175,8,Semiarid Cold
+31177,8,Semiarid Cold
+31179,8,Semiarid Cold
+31181,8,Semiarid Cold
+31183,8,Semiarid Cold
+31185,8,Semiarid Cold
+32001,7,High Altitude Dry Continental
+32003,2,Arid Warm (Desert)
+32005,7,High Altitude Dry Continental
+32007,11,Subarctic Mountain
+32009,7,High Altitude Dry Continental
+32011,7,High Altitude Dry Continental
+32013,7,High Altitude Dry Continental
+32015,7,High Altitude Dry Continental
+32017,7,High Altitude Dry Continental
+32019,7,High Altitude Dry Continental
+32021,7,High Altitude Dry Continental
+32023,7,High Altitude Dry Continental
+32027,7,High Altitude Dry Continental
+32029,7,High Altitude Dry Continental
+32031,7,High Altitude Dry Continental
+32033,7,High Altitude Dry Continental
+32510,7,High Altitude Dry Continental
+33001,10,Cold Maritime / Pacific Northwest
+33003,10,Cold Maritime / Pacific Northwest
+33005,10,Cold Maritime / Pacific Northwest
+33007,10,Cold Maritime / Pacific Northwest
+33009,10,Cold Maritime / Pacific Northwest
+33011,10,Cold Maritime / Pacific Northwest
+33013,10,Cold Maritime / Pacific Northwest
+33015,10,Cold Maritime / Pacific Northwest
+33017,10,Cold Maritime / Pacific Northwest
+33019,10,Cold Maritime / Pacific Northwest
+34001,3,Warm Temperate Humid (Deep South)
+34003,6,Temperate Continental Humid
+34005,6,Temperate Continental Humid
+34007,6,Temperate Continental Humid
+34009,3,Warm Temperate Humid (Deep South)
+34011,6,Temperate Continental Humid
+34013,6,Temperate Continental Humid
+34015,6,Temperate Continental Humid
+34017,6,Temperate Continental Humid
+34019,6,Temperate Continental Humid
+34021,6,Temperate Continental Humid
+34023,6,Temperate Continental Humid
+34025,6,Temperate Continental Humid
+34027,6,Temperate Continental Humid
+34029,6,Temperate Continental Humid
+34031,6,Temperate Continental Humid
+34033,6,Temperate Continental Humid
+34035,6,Temperate Continental Humid
+34037,10,Cold Maritime / Pacific Northwest
+34039,6,Temperate Continental Humid
+34041,10,Cold Maritime / Pacific Northwest
+35001,2,Arid Warm (Desert)
+35003,5,Semiarid Continental
+35005,2,Arid Warm (Desert)
+35006,5,Semiarid Continental
+35007,5,Semiarid Continental
+35009,2,Arid Warm (Desert)
+35011,2,Arid Warm (Desert)
+35013,2,Arid Warm (Desert)
+35015,2,Arid Warm (Desert)
+35017,2,Arid Warm (Desert)
+35019,2,Arid Warm (Desert)
+35021,2,Arid Warm (Desert)
+35023,2,Arid Warm (Desert)
+35025,2,Arid Warm (Desert)
+35027,2,Arid Warm (Desert)
+35028,5,Semiarid Continental
+35029,2,Arid Warm (Desert)
+35031,5,Semiarid Continental
+35033,5,Semiarid Continental
+35035,2,Arid Warm (Desert)
+35037,2,Arid Warm (Desert)
+35039,8,Semiarid Cold
+35041,2,Arid Warm (Desert)
+35043,5,Semiarid Continental
+35045,7,High Altitude Dry Continental
+35047,5,Semiarid Continental
+35049,5,Semiarid Continental
+35051,2,Arid Warm (Desert)
+35053,2,Arid Warm (Desert)
+35055,8,Semiarid Cold
+35057,5,Semiarid Continental
+35059,5,Semiarid Continental
+35061,2,Arid Warm (Desert)
+36001,10,Cold Maritime / Pacific Northwest
+36003,10,Cold Maritime / Pacific Northwest
+36005,6,Temperate Continental Humid
+36007,10,Cold Maritime / Pacific Northwest
+36009,10,Cold Maritime / Pacific Northwest
+36011,10,Cold Maritime / Pacific Northwest
+36013,10,Cold Maritime / Pacific Northwest
+36015,10,Cold Maritime / Pacific Northwest
+36017,10,Cold Maritime / Pacific Northwest
+36019,10,Cold Maritime / Pacific Northwest
+36021,10,Cold Maritime / Pacific Northwest
+36023,10,Cold Maritime / Pacific Northwest
+36025,10,Cold Maritime / Pacific Northwest
+36027,10,Cold Maritime / Pacific Northwest
+36029,10,Cold Maritime / Pacific Northwest
+36031,10,Cold Maritime / Pacific Northwest
+36033,10,Cold Maritime / Pacific Northwest
+36035,10,Cold Maritime / Pacific Northwest
+36037,10,Cold Maritime / Pacific Northwest
+36039,10,Cold Maritime / Pacific Northwest
+36041,10,Cold Maritime / Pacific Northwest
+36043,10,Cold Maritime / Pacific Northwest
+36045,10,Cold Maritime / Pacific Northwest
+36047,6,Temperate Continental Humid
+36049,10,Cold Maritime / Pacific Northwest
+36051,10,Cold Maritime / Pacific Northwest
+36053,10,Cold Maritime / Pacific Northwest
+36055,10,Cold Maritime / Pacific Northwest
+36057,10,Cold Maritime / Pacific Northwest
+36059,6,Temperate Continental Humid
+36061,6,Temperate Continental Humid
+36063,10,Cold Maritime / Pacific Northwest
+36065,10,Cold Maritime / Pacific Northwest
+36067,10,Cold Maritime / Pacific Northwest
+36069,10,Cold Maritime / Pacific Northwest
+36071,10,Cold Maritime / Pacific Northwest
+36073,10,Cold Maritime / Pacific Northwest
+36075,10,Cold Maritime / Pacific Northwest
+36077,10,Cold Maritime / Pacific Northwest
+36079,10,Cold Maritime / Pacific Northwest
+36081,6,Temperate Continental Humid
+36083,10,Cold Maritime / Pacific Northwest
+36085,6,Temperate Continental Humid
+36087,6,Temperate Continental Humid
+36089,10,Cold Maritime / Pacific Northwest
+36091,10,Cold Maritime / Pacific Northwest
+36093,10,Cold Maritime / Pacific Northwest
+36095,10,Cold Maritime / Pacific Northwest
+36097,10,Cold Maritime / Pacific Northwest
+36099,10,Cold Maritime / Pacific Northwest
+36101,10,Cold Maritime / Pacific Northwest
+36103,3,Warm Temperate Humid (Deep South)
+36105,10,Cold Maritime / Pacific Northwest
+36107,10,Cold Maritime / Pacific Northwest
+36109,10,Cold Maritime / Pacific Northwest
+36111,10,Cold Maritime / Pacific Northwest
+36113,10,Cold Maritime / Pacific Northwest
+36115,10,Cold Maritime / Pacific Northwest
+36117,10,Cold Maritime / Pacific Northwest
+36119,6,Temperate Continental Humid
+36121,10,Cold Maritime / Pacific Northwest
+36123,10,Cold Maritime / Pacific Northwest
+37001,3,Warm Temperate Humid (Deep South)
+37003,3,Warm Temperate Humid (Deep South)
+37005,6,Temperate Continental Humid
+37007,3,Warm Temperate Humid (Deep South)
+37009,3,Warm Temperate Humid (Deep South)
+37011,10,Cold Maritime / Pacific Northwest
+37013,3,Warm Temperate Humid (Deep South)
+37015,3,Warm Temperate Humid (Deep South)
+37017,3,Warm Temperate Humid (Deep South)
+37019,3,Warm Temperate Humid (Deep South)
+37021,3,Warm Temperate Humid (Deep South)
+37023,3,Warm Temperate Humid (Deep South)
+37025,3,Warm Temperate Humid (Deep South)
+37027,3,Warm Temperate Humid (Deep South)
+37029,3,Warm Temperate Humid (Deep South)
+37031,3,Warm Temperate Humid (Deep South)
+37033,3,Warm Temperate Humid (Deep South)
+37035,3,Warm Temperate Humid (Deep South)
+37037,3,Warm Temperate Humid (Deep South)
+37039,3,Warm Temperate Humid (Deep South)
+37041,3,Warm Temperate Humid (Deep South)
+37043,3,Warm Temperate Humid (Deep South)
+37045,3,Warm Temperate Humid (Deep South)
+37047,3,Warm Temperate Humid (Deep South)
+37049,3,Warm Temperate Humid (Deep South)
+37051,3,Warm Temperate Humid (Deep South)
+37053,3,Warm Temperate Humid (Deep South)
+37055,3,Warm Temperate Humid (Deep South)
+37057,3,Warm Temperate Humid (Deep South)
+37059,3,Warm Temperate Humid (Deep South)
+37061,3,Warm Temperate Humid (Deep South)
+37063,3,Warm Temperate Humid (Deep South)
+37065,3,Warm Temperate Humid (Deep South)
+37067,3,Warm Temperate Humid (Deep South)
+37069,3,Warm Temperate Humid (Deep South)
+37071,3,Warm Temperate Humid (Deep South)
+37073,3,Warm Temperate Humid (Deep South)
+37075,3,Warm Temperate Humid (Deep South)
+37077,3,Warm Temperate Humid (Deep South)
+37079,3,Warm Temperate Humid (Deep South)
+37081,3,Warm Temperate Humid (Deep South)
+37083,3,Warm Temperate Humid (Deep South)
+37085,3,Warm Temperate Humid (Deep South)
+37087,3,Warm Temperate Humid (Deep South)
+37089,3,Warm Temperate Humid (Deep South)
+37091,3,Warm Temperate Humid (Deep South)
+37093,3,Warm Temperate Humid (Deep South)
+37095,3,Warm Temperate Humid (Deep South)
+37097,3,Warm Temperate Humid (Deep South)
+37099,3,Warm Temperate Humid (Deep South)
+37101,3,Warm Temperate Humid (Deep South)
+37103,3,Warm Temperate Humid (Deep South)
+37105,3,Warm Temperate Humid (Deep South)
+37107,3,Warm Temperate Humid (Deep South)
+37109,3,Warm Temperate Humid (Deep South)
+37111,3,Warm Temperate Humid (Deep South)
+37113,3,Warm Temperate Humid (Deep South)
+37115,3,Warm Temperate Humid (Deep South)
+37117,3,Warm Temperate Humid (Deep South)
+37119,3,Warm Temperate Humid (Deep South)
+37121,3,Warm Temperate Humid (Deep South)
+37123,3,Warm Temperate Humid (Deep South)
+37125,3,Warm Temperate Humid (Deep South)
+37127,3,Warm Temperate Humid (Deep South)
+37129,3,Warm Temperate Humid (Deep South)
+37131,3,Warm Temperate Humid (Deep South)
+37133,3,Warm Temperate Humid (Deep South)
+37135,3,Warm Temperate Humid (Deep South)
+37137,3,Warm Temperate Humid (Deep South)
+37139,3,Warm Temperate Humid (Deep South)
+37141,3,Warm Temperate Humid (Deep South)
+37143,3,Warm Temperate Humid (Deep South)
+37145,3,Warm Temperate Humid (Deep South)
+37147,3,Warm Temperate Humid (Deep South)
+37149,3,Warm Temperate Humid (Deep South)
+37151,3,Warm Temperate Humid (Deep South)
+37153,3,Warm Temperate Humid (Deep South)
+37155,3,Warm Temperate Humid (Deep South)
+37157,3,Warm Temperate Humid (Deep South)
+37159,3,Warm Temperate Humid (Deep South)
+37161,3,Warm Temperate Humid (Deep South)
+37163,3,Warm Temperate Humid (Deep South)
+37165,3,Warm Temperate Humid (Deep South)
+37167,3,Warm Temperate Humid (Deep South)
+37169,3,Warm Temperate Humid (Deep South)
+37171,3,Warm Temperate Humid (Deep South)
+37173,3,Warm Temperate Humid (Deep South)
+37175,3,Warm Temperate Humid (Deep South)
+37177,3,Warm Temperate Humid (Deep South)
+37179,3,Warm Temperate Humid (Deep South)
+37181,3,Warm Temperate Humid (Deep South)
+37183,3,Warm Temperate Humid (Deep South)
+37185,3,Warm Temperate Humid (Deep South)
+37187,3,Warm Temperate Humid (Deep South)
+37189,10,Cold Maritime / Pacific Northwest
+37191,3,Warm Temperate Humid (Deep South)
+37193,3,Warm Temperate Humid (Deep South)
+37195,3,Warm Temperate Humid (Deep South)
+37197,3,Warm Temperate Humid (Deep South)
+37199,3,Warm Temperate Humid (Deep South)
+38001,9,Cold Continental / Great Lakes
+38003,9,Cold Continental / Great Lakes
+38005,9,Cold Continental / Great Lakes
+38007,9,Cold Continental / Great Lakes
+38009,9,Cold Continental / Great Lakes
+38011,9,Cold Continental / Great Lakes
+38013,9,Cold Continental / Great Lakes
+38015,9,Cold Continental / Great Lakes
+38017,9,Cold Continental / Great Lakes
+38019,9,Cold Continental / Great Lakes
+38021,9,Cold Continental / Great Lakes
+38023,9,Cold Continental / Great Lakes
+38025,9,Cold Continental / Great Lakes
+38027,9,Cold Continental / Great Lakes
+38029,9,Cold Continental / Great Lakes
+38031,9,Cold Continental / Great Lakes
+38033,9,Cold Continental / Great Lakes
+38035,9,Cold Continental / Great Lakes
+38037,9,Cold Continental / Great Lakes
+38039,9,Cold Continental / Great Lakes
+38041,9,Cold Continental / Great Lakes
+38043,9,Cold Continental / Great Lakes
+38045,9,Cold Continental / Great Lakes
+38047,9,Cold Continental / Great Lakes
+38049,9,Cold Continental / Great Lakes
+38051,9,Cold Continental / Great Lakes
+38053,9,Cold Continental / Great Lakes
+38055,9,Cold Continental / Great Lakes
+38057,9,Cold Continental / Great Lakes
+38059,9,Cold Continental / Great Lakes
+38061,9,Cold Continental / Great Lakes
+38063,9,Cold Continental / Great Lakes
+38065,9,Cold Continental / Great Lakes
+38067,9,Cold Continental / Great Lakes
+38069,9,Cold Continental / Great Lakes
+38071,9,Cold Continental / Great Lakes
+38073,9,Cold Continental / Great Lakes
+38075,9,Cold Continental / Great Lakes
+38077,9,Cold Continental / Great Lakes
+38079,9,Cold Continental / Great Lakes
+38081,9,Cold Continental / Great Lakes
+38083,9,Cold Continental / Great Lakes
+38085,9,Cold Continental / Great Lakes
+38087,9,Cold Continental / Great Lakes
+38089,9,Cold Continental / Great Lakes
+38091,9,Cold Continental / Great Lakes
+38093,9,Cold Continental / Great Lakes
+38095,9,Cold Continental / Great Lakes
+38097,9,Cold Continental / Great Lakes
+38099,9,Cold Continental / Great Lakes
+38101,9,Cold Continental / Great Lakes
+38103,9,Cold Continental / Great Lakes
+38105,9,Cold Continental / Great Lakes
+39001,6,Temperate Continental Humid
+39003,6,Temperate Continental Humid
+39005,6,Temperate Continental Humid
+39007,10,Cold Maritime / Pacific Northwest
+39009,6,Temperate Continental Humid
+39011,6,Temperate Continental Humid
+39013,6,Temperate Continental Humid
+39015,6,Temperate Continental Humid
+39017,6,Temperate Continental Humid
+39019,6,Temperate Continental Humid
+39021,6,Temperate Continental Humid
+39023,6,Temperate Continental Humid
+39025,6,Temperate Continental Humid
+39027,6,Temperate Continental Humid
+39029,10,Cold Maritime / Pacific Northwest
+39031,6,Temperate Continental Humid
+39033,6,Temperate Continental Humid
+39035,6,Temperate Continental Humid
+39037,6,Temperate Continental Humid
+39039,6,Temperate Continental Humid
+39041,6,Temperate Continental Humid
+39043,6,Temperate Continental Humid
+39045,6,Temperate Continental Humid
+39047,6,Temperate Continental Humid
+39049,6,Temperate Continental Humid
+39051,6,Temperate Continental Humid
+39053,6,Temperate Continental Humid
+39055,10,Cold Maritime / Pacific Northwest
+39057,6,Temperate Continental Humid
+39059,6,Temperate Continental Humid
+39061,6,Temperate Continental Humid
+39063,6,Temperate Continental Humid
+39065,6,Temperate Continental Humid
+39067,6,Temperate Continental Humid
+39069,6,Temperate Continental Humid
+39071,6,Temperate Continental Humid
+39073,6,Temperate Continental Humid
+39075,6,Temperate Continental Humid
+39077,6,Temperate Continental Humid
+39079,6,Temperate Continental Humid
+39081,6,Temperate Continental Humid
+39083,6,Temperate Continental Humid
+39085,6,Temperate Continental Humid
+39087,6,Temperate Continental Humid
+39089,6,Temperate Continental Humid
+39091,6,Temperate Continental Humid
+39093,6,Temperate Continental Humid
+39095,6,Temperate Continental Humid
+39097,6,Temperate Continental Humid
+39099,10,Cold Maritime / Pacific Northwest
+39101,6,Temperate Continental Humid
+39103,6,Temperate Continental Humid
+39105,6,Temperate Continental Humid
+39107,6,Temperate Continental Humid
+39109,6,Temperate Continental Humid
+39111,6,Temperate Continental Humid
+39113,6,Temperate Continental Humid
+39115,6,Temperate Continental Humid
+39117,6,Temperate Continental Humid
+39119,6,Temperate Continental Humid
+39121,6,Temperate Continental Humid
+39123,6,Temperate Continental Humid
+39125,6,Temperate Continental Humid
+39127,6,Temperate Continental Humid
+39129,6,Temperate Continental Humid
+39131,6,Temperate Continental Humid
+39133,10,Cold Maritime / Pacific Northwest
+39135,6,Temperate Continental Humid
+39137,6,Temperate Continental Humid
+39139,6,Temperate Continental Humid
+39141,6,Temperate Continental Humid
+39143,6,Temperate Continental Humid
+39145,6,Temperate Continental Humid
+39147,6,Temperate Continental Humid
+39149,6,Temperate Continental Humid
+39151,10,Cold Maritime / Pacific Northwest
+39153,6,Temperate Continental Humid
+39155,10,Cold Maritime / Pacific Northwest
+39157,6,Temperate Continental Humid
+39159,6,Temperate Continental Humid
+39161,6,Temperate Continental Humid
+39163,6,Temperate Continental Humid
+39165,6,Temperate Continental Humid
+39167,6,Temperate Continental Humid
+39169,6,Temperate Continental Humid
+39171,6,Temperate Continental Humid
+39173,6,Temperate Continental Humid
+39175,6,Temperate Continental Humid
+40001,4,Subtropical Humid Atlantic
+40003,5,Semiarid Continental
+40005,4,Subtropical Humid Atlantic
+40007,5,Semiarid Continental
+40009,5,Semiarid Continental
+40011,5,Semiarid Continental
+40013,4,Subtropical Humid Atlantic
+40015,1,Warm Temperate / Subtropical Transition
+40017,5,Semiarid Continental
+40019,1,Warm Temperate / Subtropical Transition
+40021,4,Subtropical Humid Atlantic
+40023,4,Subtropical Humid Atlantic
+40025,5,Semiarid Continental
+40027,1,Warm Temperate / Subtropical Transition
+40029,4,Subtropical Humid Atlantic
+40031,1,Warm Temperate / Subtropical Transition
+40033,1,Warm Temperate / Subtropical Transition
+40035,4,Subtropical Humid Atlantic
+40037,4,Subtropical Humid Atlantic
+40039,5,Semiarid Continental
+40041,4,Subtropical Humid Atlantic
+40043,5,Semiarid Continental
+40045,5,Semiarid Continental
+40047,5,Semiarid Continental
+40049,1,Warm Temperate / Subtropical Transition
+40051,1,Warm Temperate / Subtropical Transition
+40053,5,Semiarid Continental
+40055,5,Semiarid Continental
+40057,5,Semiarid Continental
+40059,5,Semiarid Continental
+40061,4,Subtropical Humid Atlantic
+40063,4,Subtropical Humid Atlantic
+40065,5,Semiarid Continental
+40067,1,Warm Temperate / Subtropical Transition
+40069,4,Subtropical Humid Atlantic
+40071,8,Semiarid Cold
+40073,5,Semiarid Continental
+40075,5,Semiarid Continental
+40077,4,Subtropical Humid Atlantic
+40079,4,Subtropical Humid Atlantic
+40081,4,Subtropical Humid Atlantic
+40083,5,Semiarid Continental
+40085,1,Warm Temperate / Subtropical Transition
+40087,1,Warm Temperate / Subtropical Transition
+40089,4,Subtropical Humid Atlantic
+40091,4,Subtropical Humid Atlantic
+40093,5,Semiarid Continental
+40095,1,Warm Temperate / Subtropical Transition
+40097,4,Subtropical Humid Atlantic
+40099,4,Subtropical Humid Atlantic
+40101,4,Subtropical Humid Atlantic
+40103,5,Semiarid Continental
+40105,6,Temperate Continental Humid
+40107,4,Subtropical Humid Atlantic
+40109,1,Warm Temperate / Subtropical Transition
+40111,4,Subtropical Humid Atlantic
+40113,6,Temperate Continental Humid
+40115,4,Subtropical Humid Atlantic
+40117,5,Semiarid Continental
+40119,1,Warm Temperate / Subtropical Transition
+40121,4,Subtropical Humid Atlantic
+40123,4,Subtropical Humid Atlantic
+40125,4,Subtropical Humid Atlantic
+40127,4,Subtropical Humid Atlantic
+40129,5,Semiarid Continental
+40131,4,Subtropical Humid Atlantic
+40133,4,Subtropical Humid Atlantic
+40135,4,Subtropical Humid Atlantic
+40137,1,Warm Temperate / Subtropical Transition
+40139,5,Semiarid Continental
+40141,1,Warm Temperate / Subtropical Transition
+40143,4,Subtropical Humid Atlantic
+40145,4,Subtropical Humid Atlantic
+40147,4,Subtropical Humid Atlantic
+40149,5,Semiarid Continental
+40151,5,Semiarid Continental
+40153,5,Semiarid Continental
+41001,11,Subarctic Mountain
+41003,10,Cold Maritime / Pacific Northwest
+41005,10,Cold Maritime / Pacific Northwest
+41007,10,Cold Maritime / Pacific Northwest
+41009,10,Cold Maritime / Pacific Northwest
+41011,4,Subtropical Humid Atlantic
+41013,11,Subarctic Mountain
+41015,10,Cold Maritime / Pacific Northwest
+41017,11,Subarctic Mountain
+41019,4,Subtropical Humid Atlantic
+41021,11,Subarctic Mountain
+41023,11,Subarctic Mountain
+41025,11,Subarctic Mountain
+41027,10,Cold Maritime / Pacific Northwest
+41029,6,Temperate Continental Humid
+41031,6,Temperate Continental Humid
+41033,6,Temperate Continental Humid
+41035,11,Subarctic Mountain
+41037,11,Subarctic Mountain
+41039,4,Subtropical Humid Atlantic
+41041,10,Cold Maritime / Pacific Northwest
+41043,10,Cold Maritime / Pacific Northwest
+41045,11,Subarctic Mountain
+41047,10,Cold Maritime / Pacific Northwest
+41049,11,Subarctic Mountain
+41051,10,Cold Maritime / Pacific Northwest
+41053,10,Cold Maritime / Pacific Northwest
+41055,11,Subarctic Mountain
+41057,10,Cold Maritime / Pacific Northwest
+41059,11,Subarctic Mountain
+41061,11,Subarctic Mountain
+41063,11,Subarctic Mountain
+41065,11,Subarctic Mountain
+41067,10,Cold Maritime / Pacific Northwest
+41069,11,Subarctic Mountain
+41071,10,Cold Maritime / Pacific Northwest
+42001,6,Temperate Continental Humid
+42003,6,Temperate Continental Humid
+42005,10,Cold Maritime / Pacific Northwest
+42007,6,Temperate Continental Humid
+42009,6,Temperate Continental Humid
+42011,6,Temperate Continental Humid
+42013,10,Cold Maritime / Pacific Northwest
+42015,10,Cold Maritime / Pacific Northwest
+42017,6,Temperate Continental Humid
+42019,10,Cold Maritime / Pacific Northwest
+42021,10,Cold Maritime / Pacific Northwest
+42023,10,Cold Maritime / Pacific Northwest
+42025,10,Cold Maritime / Pacific Northwest
+42027,10,Cold Maritime / Pacific Northwest
+42029,6,Temperate Continental Humid
+42031,10,Cold Maritime / Pacific Northwest
+42033,10,Cold Maritime / Pacific Northwest
+42035,10,Cold Maritime / Pacific Northwest
+42037,10,Cold Maritime / Pacific Northwest
+42039,10,Cold Maritime / Pacific Northwest
+42041,6,Temperate Continental Humid
+42043,6,Temperate Continental Humid
+42045,6,Temperate Continental Humid
+42047,10,Cold Maritime / Pacific Northwest
+42049,10,Cold Maritime / Pacific Northwest
+42051,10,Cold Maritime / Pacific Northwest
+42053,10,Cold Maritime / Pacific Northwest
+42055,6,Temperate Continental Humid
+42057,6,Temperate Continental Humid
+42059,6,Temperate Continental Humid
+42061,10,Cold Maritime / Pacific Northwest
+42063,10,Cold Maritime / Pacific Northwest
+42065,10,Cold Maritime / Pacific Northwest
+42067,6,Temperate Continental Humid
+42069,10,Cold Maritime / Pacific Northwest
+42071,6,Temperate Continental Humid
+42073,10,Cold Maritime / Pacific Northwest
+42075,6,Temperate Continental Humid
+42077,6,Temperate Continental Humid
+42079,10,Cold Maritime / Pacific Northwest
+42081,10,Cold Maritime / Pacific Northwest
+42083,10,Cold Maritime / Pacific Northwest
+42085,10,Cold Maritime / Pacific Northwest
+42087,6,Temperate Continental Humid
+42089,10,Cold Maritime / Pacific Northwest
+42091,6,Temperate Continental Humid
+42093,6,Temperate Continental Humid
+42095,6,Temperate Continental Humid
+42097,6,Temperate Continental Humid
+42099,6,Temperate Continental Humid
+42101,6,Temperate Continental Humid
+42103,10,Cold Maritime / Pacific Northwest
+42105,10,Cold Maritime / Pacific Northwest
+42107,10,Cold Maritime / Pacific Northwest
+42109,6,Temperate Continental Humid
+42111,10,Cold Maritime / Pacific Northwest
+42113,10,Cold Maritime / Pacific Northwest
+42115,10,Cold Maritime / Pacific Northwest
+42117,10,Cold Maritime / Pacific Northwest
+42119,10,Cold Maritime / Pacific Northwest
+42121,10,Cold Maritime / Pacific Northwest
+42123,10,Cold Maritime / Pacific Northwest
+42125,6,Temperate Continental Humid
+42127,10,Cold Maritime / Pacific Northwest
+42129,6,Temperate Continental Humid
+42131,10,Cold Maritime / Pacific Northwest
+42133,6,Temperate Continental Humid
+44001,10,Cold Maritime / Pacific Northwest
+44003,10,Cold Maritime / Pacific Northwest
+44005,3,Warm Temperate Humid (Deep South)
+44007,10,Cold Maritime / Pacific Northwest
+44009,10,Cold Maritime / Pacific Northwest
+45001,3,Warm Temperate Humid (Deep South)
+45003,3,Warm Temperate Humid (Deep South)
+45005,3,Warm Temperate Humid (Deep South)
+45007,3,Warm Temperate Humid (Deep South)
+45009,3,Warm Temperate Humid (Deep South)
+45011,3,Warm Temperate Humid (Deep South)
+45013,3,Warm Temperate Humid (Deep South)
+45015,3,Warm Temperate Humid (Deep South)
+45017,3,Warm Temperate Humid (Deep South)
+45019,3,Warm Temperate Humid (Deep South)
+45021,3,Warm Temperate Humid (Deep South)
+45023,3,Warm Temperate Humid (Deep South)
+45025,3,Warm Temperate Humid (Deep South)
+45027,3,Warm Temperate Humid (Deep South)
+45029,3,Warm Temperate Humid (Deep South)
+45031,3,Warm Temperate Humid (Deep South)
+45033,3,Warm Temperate Humid (Deep South)
+45035,3,Warm Temperate Humid (Deep South)
+45037,3,Warm Temperate Humid (Deep South)
+45039,3,Warm Temperate Humid (Deep South)
+45041,3,Warm Temperate Humid (Deep South)
+45043,3,Warm Temperate Humid (Deep South)
+45045,3,Warm Temperate Humid (Deep South)
+45047,3,Warm Temperate Humid (Deep South)
+45049,3,Warm Temperate Humid (Deep South)
+45051,3,Warm Temperate Humid (Deep South)
+45053,3,Warm Temperate Humid (Deep South)
+45055,3,Warm Temperate Humid (Deep South)
+45057,3,Warm Temperate Humid (Deep South)
+45059,3,Warm Temperate Humid (Deep South)
+45061,3,Warm Temperate Humid (Deep South)
+45063,3,Warm Temperate Humid (Deep South)
+45065,3,Warm Temperate Humid (Deep South)
+45067,3,Warm Temperate Humid (Deep South)
+45069,3,Warm Temperate Humid (Deep South)
+45071,3,Warm Temperate Humid (Deep South)
+45073,3,Warm Temperate Humid (Deep South)
+45075,3,Warm Temperate Humid (Deep South)
+45077,3,Warm Temperate Humid (Deep South)
+45079,3,Warm Temperate Humid (Deep South)
+45081,3,Warm Temperate Humid (Deep South)
+45083,3,Warm Temperate Humid (Deep South)
+45085,3,Warm Temperate Humid (Deep South)
+45087,3,Warm Temperate Humid (Deep South)
+45089,3,Warm Temperate Humid (Deep South)
+45091,3,Warm Temperate Humid (Deep South)
+46003,8,Semiarid Cold
+46005,9,Cold Continental / Great Lakes
+46007,8,Semiarid Cold
+46009,8,Semiarid Cold
+46011,9,Cold Continental / Great Lakes
+46013,9,Cold Continental / Great Lakes
+46015,8,Semiarid Cold
+46017,8,Semiarid Cold
+46019,8,Semiarid Cold
+46021,9,Cold Continental / Great Lakes
+46023,8,Semiarid Cold
+46025,9,Cold Continental / Great Lakes
+46027,8,Semiarid Cold
+46029,9,Cold Continental / Great Lakes
+46031,9,Cold Continental / Great Lakes
+46033,8,Semiarid Cold
+46035,8,Semiarid Cold
+46037,9,Cold Continental / Great Lakes
+46039,9,Cold Continental / Great Lakes
+46041,9,Cold Continental / Great Lakes
+46043,8,Semiarid Cold
+46045,9,Cold Continental / Great Lakes
+46047,8,Semiarid Cold
+46049,9,Cold Continental / Great Lakes
+46051,9,Cold Continental / Great Lakes
+46053,8,Semiarid Cold
+46055,8,Semiarid Cold
+46057,9,Cold Continental / Great Lakes
+46059,8,Semiarid Cold
+46061,8,Semiarid Cold
+46063,8,Semiarid Cold
+46065,8,Semiarid Cold
+46067,8,Semiarid Cold
+46069,9,Cold Continental / Great Lakes
+46071,8,Semiarid Cold
+46073,8,Semiarid Cold
+46075,8,Semiarid Cold
+46077,9,Cold Continental / Great Lakes
+46079,9,Cold Continental / Great Lakes
+46081,9,Cold Continental / Great Lakes
+46083,9,Cold Continental / Great Lakes
+46085,8,Semiarid Cold
+46087,9,Cold Continental / Great Lakes
+46089,9,Cold Continental / Great Lakes
+46091,9,Cold Continental / Great Lakes
+46093,8,Semiarid Cold
+46095,8,Semiarid Cold
+46097,9,Cold Continental / Great Lakes
+46099,9,Cold Continental / Great Lakes
+46101,9,Cold Continental / Great Lakes
+46102,8,Semiarid Cold
+46103,8,Semiarid Cold
+46105,9,Cold Continental / Great Lakes
+46107,9,Cold Continental / Great Lakes
+46109,9,Cold Continental / Great Lakes
+46111,8,Semiarid Cold
+46115,9,Cold Continental / Great Lakes
+46117,8,Semiarid Cold
+46119,9,Cold Continental / Great Lakes
+46121,8,Semiarid Cold
+46123,8,Semiarid Cold
+46125,9,Cold Continental / Great Lakes
+46127,8,Semiarid Cold
+46129,9,Cold Continental / Great Lakes
+46135,8,Semiarid Cold
+46137,8,Semiarid Cold
+47001,4,Subtropical Humid Atlantic
+47003,4,Subtropical Humid Atlantic
+47005,4,Subtropical Humid Atlantic
+47007,4,Subtropical Humid Atlantic
+47009,3,Warm Temperate Humid (Deep South)
+47011,4,Subtropical Humid Atlantic
+47013,6,Temperate Continental Humid
+47015,4,Subtropical Humid Atlantic
+47017,4,Subtropical Humid Atlantic
+47019,3,Warm Temperate Humid (Deep South)
+47021,4,Subtropical Humid Atlantic
+47023,4,Subtropical Humid Atlantic
+47025,4,Subtropical Humid Atlantic
+47027,4,Subtropical Humid Atlantic
+47029,3,Warm Temperate Humid (Deep South)
+47031,4,Subtropical Humid Atlantic
+47033,4,Subtropical Humid Atlantic
+47035,4,Subtropical Humid Atlantic
+47037,4,Subtropical Humid Atlantic
+47039,4,Subtropical Humid Atlantic
+47041,4,Subtropical Humid Atlantic
+47043,4,Subtropical Humid Atlantic
+47045,4,Subtropical Humid Atlantic
+47047,4,Subtropical Humid Atlantic
+47049,4,Subtropical Humid Atlantic
+47051,4,Subtropical Humid Atlantic
+47053,4,Subtropical Humid Atlantic
+47055,4,Subtropical Humid Atlantic
+47057,4,Subtropical Humid Atlantic
+47059,3,Warm Temperate Humid (Deep South)
+47061,4,Subtropical Humid Atlantic
+47063,4,Subtropical Humid Atlantic
+47065,4,Subtropical Humid Atlantic
+47067,4,Subtropical Humid Atlantic
+47069,4,Subtropical Humid Atlantic
+47071,4,Subtropical Humid Atlantic
+47073,4,Subtropical Humid Atlantic
+47075,4,Subtropical Humid Atlantic
+47077,4,Subtropical Humid Atlantic
+47079,4,Subtropical Humid Atlantic
+47081,4,Subtropical Humid Atlantic
+47083,4,Subtropical Humid Atlantic
+47085,4,Subtropical Humid Atlantic
+47087,4,Subtropical Humid Atlantic
+47089,4,Subtropical Humid Atlantic
+47091,10,Cold Maritime / Pacific Northwest
+47093,4,Subtropical Humid Atlantic
+47095,4,Subtropical Humid Atlantic
+47097,4,Subtropical Humid Atlantic
+47099,4,Subtropical Humid Atlantic
+47101,4,Subtropical Humid Atlantic
+47103,4,Subtropical Humid Atlantic
+47105,4,Subtropical Humid Atlantic
+47107,4,Subtropical Humid Atlantic
+47109,4,Subtropical Humid Atlantic
+47111,4,Subtropical Humid Atlantic
+47113,4,Subtropical Humid Atlantic
+47115,4,Subtropical Humid Atlantic
+47117,4,Subtropical Humid Atlantic
+47119,4,Subtropical Humid Atlantic
+47121,4,Subtropical Humid Atlantic
+47123,4,Subtropical Humid Atlantic
+47125,4,Subtropical Humid Atlantic
+47127,4,Subtropical Humid Atlantic
+47129,4,Subtropical Humid Atlantic
+47131,4,Subtropical Humid Atlantic
+47133,4,Subtropical Humid Atlantic
+47135,4,Subtropical Humid Atlantic
+47137,4,Subtropical Humid Atlantic
+47139,3,Warm Temperate Humid (Deep South)
+47141,4,Subtropical Humid Atlantic
+47143,4,Subtropical Humid Atlantic
+47145,4,Subtropical Humid Atlantic
+47147,4,Subtropical Humid Atlantic
+47149,4,Subtropical Humid Atlantic
+47151,4,Subtropical Humid Atlantic
+47153,4,Subtropical Humid Atlantic
+47155,4,Subtropical Humid Atlantic
+47157,4,Subtropical Humid Atlantic
+47159,4,Subtropical Humid Atlantic
+47161,4,Subtropical Humid Atlantic
+47163,4,Subtropical Humid Atlantic
+47165,4,Subtropical Humid Atlantic
+47167,4,Subtropical Humid Atlantic
+47169,4,Subtropical Humid Atlantic
+47171,3,Warm Temperate Humid (Deep South)
+47173,4,Subtropical Humid Atlantic
+47175,4,Subtropical Humid Atlantic
+47177,4,Subtropical Humid Atlantic
+47179,4,Subtropical Humid Atlantic
+47181,4,Subtropical Humid Atlantic
+47183,4,Subtropical Humid Atlantic
+47185,4,Subtropical Humid Atlantic
+47187,4,Subtropical Humid Atlantic
+47189,4,Subtropical Humid Atlantic
+48001,4,Subtropical Humid Atlantic
+48003,2,Arid Warm (Desert)
+48005,4,Subtropical Humid Atlantic
+48007,0,Tropical Humid
+48009,1,Warm Temperate / Subtropical Transition
+48011,5,Semiarid Continental
+48013,1,Warm Temperate / Subtropical Transition
+48015,4,Subtropical Humid Atlantic
+48017,2,Arid Warm (Desert)
+48019,1,Warm Temperate / Subtropical Transition
+48021,1,Warm Temperate / Subtropical Transition
+48023,1,Warm Temperate / Subtropical Transition
+48025,3,Warm Temperate Humid (Deep South)
+48027,1,Warm Temperate / Subtropical Transition
+48029,1,Warm Temperate / Subtropical Transition
+48031,1,Warm Temperate / Subtropical Transition
+48033,2,Arid Warm (Desert)
+48035,1,Warm Temperate / Subtropical Transition
+48037,4,Subtropical Humid Atlantic
+48039,3,Warm Temperate Humid (Deep South)
+48041,1,Warm Temperate / Subtropical Transition
+48043,2,Arid Warm (Desert)
+48045,2,Arid Warm (Desert)
+48047,1,Warm Temperate / Subtropical Transition
+48049,1,Warm Temperate / Subtropical Transition
+48051,1,Warm Temperate / Subtropical Transition
+48053,1,Warm Temperate / Subtropical Transition
+48055,1,Warm Temperate / Subtropical Transition
+48057,0,Tropical Humid
+48059,1,Warm Temperate / Subtropical Transition
+48061,0,Tropical Humid
+48063,4,Subtropical Humid Atlantic
+48065,5,Semiarid Continental
+48067,4,Subtropical Humid Atlantic
+48069,2,Arid Warm (Desert)
+48071,3,Warm Temperate Humid (Deep South)
+48073,4,Subtropical Humid Atlantic
+48075,2,Arid Warm (Desert)
+48077,1,Warm Temperate / Subtropical Transition
+48079,2,Arid Warm (Desert)
+48081,2,Arid Warm (Desert)
+48083,1,Warm Temperate / Subtropical Transition
+48085,1,Warm Temperate / Subtropical Transition
+48087,5,Semiarid Continental
+48089,3,Warm Temperate Humid (Deep South)
+48091,1,Warm Temperate / Subtropical Transition
+48093,1,Warm Temperate / Subtropical Transition
+48095,2,Arid Warm (Desert)
+48097,1,Warm Temperate / Subtropical Transition
+48099,1,Warm Temperate / Subtropical Transition
+48101,2,Arid Warm (Desert)
+48103,2,Arid Warm (Desert)
+48105,2,Arid Warm (Desert)
+48107,2,Arid Warm (Desert)
+48109,2,Arid Warm (Desert)
+48111,5,Semiarid Continental
+48113,1,Warm Temperate / Subtropical Transition
+48115,2,Arid Warm (Desert)
+48117,2,Arid Warm (Desert)
+48119,4,Subtropical Humid Atlantic
+48121,1,Warm Temperate / Subtropical Transition
+48123,1,Warm Temperate / Subtropical Transition
+48125,2,Arid Warm (Desert)
+48127,2,Arid Warm (Desert)
+48129,5,Semiarid Continental
+48131,1,Warm Temperate / Subtropical Transition
+48133,1,Warm Temperate / Subtropical Transition
+48135,2,Arid Warm (Desert)
+48137,1,Warm Temperate / Subtropical Transition
+48139,1,Warm Temperate / Subtropical Transition
+48141,2,Arid Warm (Desert)
+48143,1,Warm Temperate / Subtropical Transition
+48145,1,Warm Temperate / Subtropical Transition
+48147,4,Subtropical Humid Atlantic
+48149,1,Warm Temperate / Subtropical Transition
+48151,2,Arid Warm (Desert)
+48153,2,Arid Warm (Desert)
+48155,2,Arid Warm (Desert)
+48157,3,Warm Temperate Humid (Deep South)
+48159,4,Subtropical Humid Atlantic
+48161,1,Warm Temperate / Subtropical Transition
+48163,2,Arid Warm (Desert)
+48165,2,Arid Warm (Desert)
+48167,3,Warm Temperate Humid (Deep South)
+48169,2,Arid Warm (Desert)
+48171,1,Warm Temperate / Subtropical Transition
+48173,2,Arid Warm (Desert)
+48175,3,Warm Temperate Humid (Deep South)
+48177,1,Warm Temperate / Subtropical Transition
+48179,5,Semiarid Continental
+48181,1,Warm Temperate / Subtropical Transition
+48183,4,Subtropical Humid Atlantic
+48185,1,Warm Temperate / Subtropical Transition
+48187,1,Warm Temperate / Subtropical Transition
+48189,2,Arid Warm (Desert)
+48191,2,Arid Warm (Desert)
+48193,1,Warm Temperate / Subtropical Transition
+48195,5,Semiarid Continental
+48197,2,Arid Warm (Desert)
+48199,3,Warm Temperate Humid (Deep South)
+48201,3,Warm Temperate Humid (Deep South)
+48203,4,Subtropical Humid Atlantic
+48205,5,Semiarid Continental
+48207,2,Arid Warm (Desert)
+48209,1,Warm Temperate / Subtropical Transition
+48211,5,Semiarid Continental
+48213,4,Subtropical Humid Atlantic
+48215,1,Warm Temperate / Subtropical Transition
+48217,1,Warm Temperate / Subtropical Transition
+48219,2,Arid Warm (Desert)
+48221,1,Warm Temperate / Subtropical Transition
+48223,4,Subtropical Humid Atlantic
+48225,4,Subtropical Humid Atlantic
+48227,2,Arid Warm (Desert)
+48229,2,Arid Warm (Desert)
+48231,1,Warm Temperate / Subtropical Transition
+48233,5,Semiarid Continental
+48235,2,Arid Warm (Desert)
+48237,1,Warm Temperate / Subtropical Transition
+48239,3,Warm Temperate Humid (Deep South)
+48241,3,Warm Temperate Humid (Deep South)
+48243,2,Arid Warm (Desert)
+48245,3,Warm Temperate Humid (Deep South)
+48247,1,Warm Temperate / Subtropical Transition
+48249,0,Tropical Humid
+48251,1,Warm Temperate / Subtropical Transition
+48253,2,Arid Warm (Desert)
+48255,1,Warm Temperate / Subtropical Transition
+48257,1,Warm Temperate / Subtropical Transition
+48259,1,Warm Temperate / Subtropical Transition
+48261,0,Tropical Humid
+48263,2,Arid Warm (Desert)
+48265,1,Warm Temperate / Subtropical Transition
+48267,1,Warm Temperate / Subtropical Transition
+48269,2,Arid Warm (Desert)
+48271,2,Arid Warm (Desert)
+48273,0,Tropical Humid
+48275,2,Arid Warm (Desert)
+48277,4,Subtropical Humid Atlantic
+48279,2,Arid Warm (Desert)
+48281,1,Warm Temperate / Subtropical Transition
+48283,2,Arid Warm (Desert)
+48285,1,Warm Temperate / Subtropical Transition
+48287,1,Warm Temperate / Subtropical Transition
+48289,1,Warm Temperate / Subtropical Transition
+48291,3,Warm Temperate Humid (Deep South)
+48293,1,Warm Temperate / Subtropical Transition
+48295,5,Semiarid Continental
+48297,1,Warm Temperate / Subtropical Transition
+48299,1,Warm Temperate / Subtropical Transition
+48301,2,Arid Warm (Desert)
+48303,2,Arid Warm (Desert)
+48305,2,Arid Warm (Desert)
+48307,1,Warm Temperate / Subtropical Transition
+48309,1,Warm Temperate / Subtropical Transition
+48311,1,Warm Temperate / Subtropical Transition
+48313,4,Subtropical Humid Atlantic
+48315,4,Subtropical Humid Atlantic
+48317,2,Arid Warm (Desert)
+48319,1,Warm Temperate / Subtropical Transition
+48321,3,Warm Temperate Humid (Deep South)
+48323,2,Arid Warm (Desert)
+48325,1,Warm Temperate / Subtropical Transition
+48327,1,Warm Temperate / Subtropical Transition
+48329,2,Arid Warm (Desert)
+48331,1,Warm Temperate / Subtropical Transition
+48333,1,Warm Temperate / Subtropical Transition
+48335,2,Arid Warm (Desert)
+48337,1,Warm Temperate / Subtropical Transition
+48339,4,Subtropical Humid Atlantic
+48341,5,Semiarid Continental
+48343,4,Subtropical Humid Atlantic
+48345,2,Arid Warm (Desert)
+48347,4,Subtropical Humid Atlantic
+48349,1,Warm Temperate / Subtropical Transition
+48351,4,Subtropical Humid Atlantic
+48353,2,Arid Warm (Desert)
+48355,0,Tropical Humid
+48357,5,Semiarid Continental
+48359,2,Arid Warm (Desert)
+48361,3,Warm Temperate Humid (Deep South)
+48363,1,Warm Temperate / Subtropical Transition
+48365,4,Subtropical Humid Atlantic
+48367,1,Warm Temperate / Subtropical Transition
+48369,2,Arid Warm (Desert)
+48371,2,Arid Warm (Desert)
+48373,4,Subtropical Humid Atlantic
+48375,5,Semiarid Continental
+48377,2,Arid Warm (Desert)
+48379,4,Subtropical Humid Atlantic
+48381,2,Arid Warm (Desert)
+48383,2,Arid Warm (Desert)
+48385,1,Warm Temperate / Subtropical Transition
+48387,4,Subtropical Humid Atlantic
+48389,2,Arid Warm (Desert)
+48391,0,Tropical Humid
+48393,5,Semiarid Continental
+48395,1,Warm Temperate / Subtropical Transition
+48397,1,Warm Temperate / Subtropical Transition
+48399,2,Arid Warm (Desert)
+48401,4,Subtropical Humid Atlantic
+48403,4,Subtropical Humid Atlantic
+48405,4,Subtropical Humid Atlantic
+48407,3,Warm Temperate Humid (Deep South)
+48409,0,Tropical Humid
+48411,1,Warm Temperate / Subtropical Transition
+48413,2,Arid Warm (Desert)
+48415,2,Arid Warm (Desert)
+48417,1,Warm Temperate / Subtropical Transition
+48419,4,Subtropical Humid Atlantic
+48421,5,Semiarid Continental
+48423,4,Subtropical Humid Atlantic
+48425,1,Warm Temperate / Subtropical Transition
+48427,1,Warm Temperate / Subtropical Transition
+48429,1,Warm Temperate / Subtropical Transition
+48431,2,Arid Warm (Desert)
+48433,2,Arid Warm (Desert)
+48435,2,Arid Warm (Desert)
+48437,2,Arid Warm (Desert)
+48439,1,Warm Temperate / Subtropical Transition
+48441,2,Arid Warm (Desert)
+48443,2,Arid Warm (Desert)
+48445,2,Arid Warm (Desert)
+48447,1,Warm Temperate / Subtropical Transition
+48449,4,Subtropical Humid Atlantic
+48451,2,Arid Warm (Desert)
+48453,1,Warm Temperate / Subtropical Transition
+48455,4,Subtropical Humid Atlantic
+48457,3,Warm Temperate Humid (Deep South)
+48459,4,Subtropical Humid Atlantic
+48461,2,Arid Warm (Desert)
+48463,2,Arid Warm (Desert)
+48465,2,Arid Warm (Desert)
+48467,4,Subtropical Humid Atlantic
+48469,3,Warm Temperate Humid (Deep South)
+48471,4,Subtropical Humid Atlantic
+48473,4,Subtropical Humid Atlantic
+48475,2,Arid Warm (Desert)
+48477,4,Subtropical Humid Atlantic
+48479,2,Arid Warm (Desert)
+48481,3,Warm Temperate Humid (Deep South)
+48483,5,Semiarid Continental
+48485,1,Warm Temperate / Subtropical Transition
+48487,1,Warm Temperate / Subtropical Transition
+48489,0,Tropical Humid
+48491,1,Warm Temperate / Subtropical Transition
+48493,1,Warm Temperate / Subtropical Transition
+48495,2,Arid Warm (Desert)
+48497,1,Warm Temperate / Subtropical Transition
+48499,4,Subtropical Humid Atlantic
+48501,2,Arid Warm (Desert)
+48503,1,Warm Temperate / Subtropical Transition
+48505,2,Arid Warm (Desert)
+48507,2,Arid Warm (Desert)
+49001,7,High Altitude Dry Continental
+49003,7,High Altitude Dry Continental
+49005,11,Subarctic Mountain
+49007,7,High Altitude Dry Continental
+49009,11,Subarctic Mountain
+49011,7,High Altitude Dry Continental
+49013,11,Subarctic Mountain
+49015,7,High Altitude Dry Continental
+49017,7,High Altitude Dry Continental
+49019,7,High Altitude Dry Continental
+49021,7,High Altitude Dry Continental
+49023,7,High Altitude Dry Continental
+49025,7,High Altitude Dry Continental
+49027,7,High Altitude Dry Continental
+49029,11,Subarctic Mountain
+49031,7,High Altitude Dry Continental
+49033,11,Subarctic Mountain
+49035,7,High Altitude Dry Continental
+49037,7,High Altitude Dry Continental
+49039,7,High Altitude Dry Continental
+49041,7,High Altitude Dry Continental
+49043,11,Subarctic Mountain
+49045,7,High Altitude Dry Continental
+49047,7,High Altitude Dry Continental
+49049,7,High Altitude Dry Continental
+49051,11,Subarctic Mountain
+49053,7,High Altitude Dry Continental
+49055,7,High Altitude Dry Continental
+49057,11,Subarctic Mountain
+50001,10,Cold Maritime / Pacific Northwest
+50003,10,Cold Maritime / Pacific Northwest
+50005,10,Cold Maritime / Pacific Northwest
+50007,10,Cold Maritime / Pacific Northwest
+50009,10,Cold Maritime / Pacific Northwest
+50011,10,Cold Maritime / Pacific Northwest
+50013,10,Cold Maritime / Pacific Northwest
+50015,10,Cold Maritime / Pacific Northwest
+50017,10,Cold Maritime / Pacific Northwest
+50019,10,Cold Maritime / Pacific Northwest
+50021,10,Cold Maritime / Pacific Northwest
+50023,10,Cold Maritime / Pacific Northwest
+50025,10,Cold Maritime / Pacific Northwest
+50027,10,Cold Maritime / Pacific Northwest
+51001,3,Warm Temperate Humid (Deep South)
+51003,4,Subtropical Humid Atlantic
+51005,6,Temperate Continental Humid
+51007,3,Warm Temperate Humid (Deep South)
+51009,6,Temperate Continental Humid
+51011,4,Subtropical Humid Atlantic
+51013,6,Temperate Continental Humid
+51015,6,Temperate Continental Humid
+51017,10,Cold Maritime / Pacific Northwest
+51019,4,Subtropical Humid Atlantic
+51021,10,Cold Maritime / Pacific Northwest
+51023,6,Temperate Continental Humid
+51025,3,Warm Temperate Humid (Deep South)
+51027,6,Temperate Continental Humid
+51029,4,Subtropical Humid Atlantic
+51031,4,Subtropical Humid Atlantic
+51033,4,Subtropical Humid Atlantic
+51035,6,Temperate Continental Humid
+51036,3,Warm Temperate Humid (Deep South)
+51037,3,Warm Temperate Humid (Deep South)
+51041,3,Warm Temperate Humid (Deep South)
+51043,6,Temperate Continental Humid
+51045,6,Temperate Continental Humid
+51047,6,Temperate Continental Humid
+51049,4,Subtropical Humid Atlantic
+51051,4,Subtropical Humid Atlantic
+51053,3,Warm Temperate Humid (Deep South)
+51057,4,Subtropical Humid Atlantic
+51059,6,Temperate Continental Humid
+51061,6,Temperate Continental Humid
+51063,6,Temperate Continental Humid
+51065,4,Subtropical Humid Atlantic
+51067,3,Warm Temperate Humid (Deep South)
+51069,6,Temperate Continental Humid
+51071,6,Temperate Continental Humid
+51073,3,Warm Temperate Humid (Deep South)
+51075,4,Subtropical Humid Atlantic
+51077,10,Cold Maritime / Pacific Northwest
+51079,6,Temperate Continental Humid
+51081,3,Warm Temperate Humid (Deep South)
+51083,3,Warm Temperate Humid (Deep South)
+51085,4,Subtropical Humid Atlantic
+51087,3,Warm Temperate Humid (Deep South)
+51089,3,Warm Temperate Humid (Deep South)
+51091,10,Cold Maritime / Pacific Northwest
+51093,3,Warm Temperate Humid (Deep South)
+51095,3,Warm Temperate Humid (Deep South)
+51097,3,Warm Temperate Humid (Deep South)
+51099,4,Subtropical Humid Atlantic
+51101,3,Warm Temperate Humid (Deep South)
+51103,3,Warm Temperate Humid (Deep South)
+51105,6,Temperate Continental Humid
+51107,6,Temperate Continental Humid
+51109,4,Subtropical Humid Atlantic
+51111,3,Warm Temperate Humid (Deep South)
+51113,6,Temperate Continental Humid
+51115,3,Warm Temperate Humid (Deep South)
+51117,3,Warm Temperate Humid (Deep South)
+51119,3,Warm Temperate Humid (Deep South)
+51121,6,Temperate Continental Humid
+51125,6,Temperate Continental Humid
+51127,3,Warm Temperate Humid (Deep South)
+51131,3,Warm Temperate Humid (Deep South)
+51133,3,Warm Temperate Humid (Deep South)
+51135,3,Warm Temperate Humid (Deep South)
+51137,6,Temperate Continental Humid
+51139,6,Temperate Continental Humid
+51141,3,Warm Temperate Humid (Deep South)
+51143,3,Warm Temperate Humid (Deep South)
+51145,3,Warm Temperate Humid (Deep South)
+51147,3,Warm Temperate Humid (Deep South)
+51149,3,Warm Temperate Humid (Deep South)
+51153,6,Temperate Continental Humid
+51155,6,Temperate Continental Humid
+51157,6,Temperate Continental Humid
+51159,4,Subtropical Humid Atlantic
+51161,4,Subtropical Humid Atlantic
+51163,6,Temperate Continental Humid
+51165,6,Temperate Continental Humid
+51167,6,Temperate Continental Humid
+51169,6,Temperate Continental Humid
+51171,6,Temperate Continental Humid
+51173,3,Warm Temperate Humid (Deep South)
+51175,3,Warm Temperate Humid (Deep South)
+51177,4,Subtropical Humid Atlantic
+51179,6,Temperate Continental Humid
+51181,3,Warm Temperate Humid (Deep South)
+51183,3,Warm Temperate Humid (Deep South)
+51185,6,Temperate Continental Humid
+51187,6,Temperate Continental Humid
+51191,3,Warm Temperate Humid (Deep South)
+51193,4,Subtropical Humid Atlantic
+51195,6,Temperate Continental Humid
+51197,6,Temperate Continental Humid
+51199,3,Warm Temperate Humid (Deep South)
+51510,6,Temperate Continental Humid
+51520,3,Warm Temperate Humid (Deep South)
+51530,4,Subtropical Humid Atlantic
+51540,6,Temperate Continental Humid
+51550,3,Warm Temperate Humid (Deep South)
+51570,3,Warm Temperate Humid (Deep South)
+51580,6,Temperate Continental Humid
+51590,3,Warm Temperate Humid (Deep South)
+51595,3,Warm Temperate Humid (Deep South)
+51600,6,Temperate Continental Humid
+51610,6,Temperate Continental Humid
+51620,3,Warm Temperate Humid (Deep South)
+51630,6,Temperate Continental Humid
+51640,6,Temperate Continental Humid
+51650,3,Warm Temperate Humid (Deep South)
+51660,6,Temperate Continental Humid
+51670,3,Warm Temperate Humid (Deep South)
+51678,6,Temperate Continental Humid
+51680,4,Subtropical Humid Atlantic
+51683,6,Temperate Continental Humid
+51685,6,Temperate Continental Humid
+51690,3,Warm Temperate Humid (Deep South)
+51700,3,Warm Temperate Humid (Deep South)
+51710,3,Warm Temperate Humid (Deep South)
+51720,6,Temperate Continental Humid
+51730,3,Warm Temperate Humid (Deep South)
+51735,3,Warm Temperate Humid (Deep South)
+51740,3,Warm Temperate Humid (Deep South)
+51750,6,Temperate Continental Humid
+51760,3,Warm Temperate Humid (Deep South)
+51770,4,Subtropical Humid Atlantic
+51775,4,Subtropical Humid Atlantic
+51790,6,Temperate Continental Humid
+51800,3,Warm Temperate Humid (Deep South)
+51810,3,Warm Temperate Humid (Deep South)
+51820,6,Temperate Continental Humid
+51830,3,Warm Temperate Humid (Deep South)
+51840,6,Temperate Continental Humid
+53001,11,Subarctic Mountain
+53003,11,Subarctic Mountain
+53005,11,Subarctic Mountain
+53007,10,Cold Maritime / Pacific Northwest
+53009,10,Cold Maritime / Pacific Northwest
+53011,10,Cold Maritime / Pacific Northwest
+53013,11,Subarctic Mountain
+53015,10,Cold Maritime / Pacific Northwest
+53017,11,Subarctic Mountain
+53019,11,Subarctic Mountain
+53021,11,Subarctic Mountain
+53023,11,Subarctic Mountain
+53025,11,Subarctic Mountain
+53027,10,Cold Maritime / Pacific Northwest
+53029,10,Cold Maritime / Pacific Northwest
+53031,10,Cold Maritime / Pacific Northwest
+53033,10,Cold Maritime / Pacific Northwest
+53035,10,Cold Maritime / Pacific Northwest
+53037,11,Subarctic Mountain
+53039,11,Subarctic Mountain
+53041,10,Cold Maritime / Pacific Northwest
+53043,11,Subarctic Mountain
+53045,10,Cold Maritime / Pacific Northwest
+53047,10,Cold Maritime / Pacific Northwest
+53049,10,Cold Maritime / Pacific Northwest
+53051,11,Subarctic Mountain
+53053,10,Cold Maritime / Pacific Northwest
+53055,10,Cold Maritime / Pacific Northwest
+53057,10,Cold Maritime / Pacific Northwest
+53059,10,Cold Maritime / Pacific Northwest
+53061,10,Cold Maritime / Pacific Northwest
+53063,11,Subarctic Mountain
+53065,11,Subarctic Mountain
+53067,10,Cold Maritime / Pacific Northwest
+53069,10,Cold Maritime / Pacific Northwest
+53071,11,Subarctic Mountain
+53073,10,Cold Maritime / Pacific Northwest
+53075,11,Subarctic Mountain
+53077,11,Subarctic Mountain
+54001,6,Temperate Continental Humid
+54003,6,Temperate Continental Humid
+54005,6,Temperate Continental Humid
+54007,6,Temperate Continental Humid
+54009,6,Temperate Continental Humid
+54011,6,Temperate Continental Humid
+54013,6,Temperate Continental Humid
+54015,6,Temperate Continental Humid
+54017,6,Temperate Continental Humid
+54019,6,Temperate Continental Humid
+54021,6,Temperate Continental Humid
+54023,6,Temperate Continental Humid
+54025,6,Temperate Continental Humid
+54027,6,Temperate Continental Humid
+54029,6,Temperate Continental Humid
+54031,6,Temperate Continental Humid
+54033,6,Temperate Continental Humid
+54035,6,Temperate Continental Humid
+54037,6,Temperate Continental Humid
+54039,6,Temperate Continental Humid
+54041,6,Temperate Continental Humid
+54043,6,Temperate Continental Humid
+54045,6,Temperate Continental Humid
+54047,6,Temperate Continental Humid
+54049,6,Temperate Continental Humid
+54051,6,Temperate Continental Humid
+54053,6,Temperate Continental Humid
+54055,6,Temperate Continental Humid
+54057,6,Temperate Continental Humid
+54059,6,Temperate Continental Humid
+54061,6,Temperate Continental Humid
+54063,6,Temperate Continental Humid
+54065,6,Temperate Continental Humid
+54067,6,Temperate Continental Humid
+54069,6,Temperate Continental Humid
+54071,6,Temperate Continental Humid
+54073,6,Temperate Continental Humid
+54075,10,Cold Maritime / Pacific Northwest
+54077,6,Temperate Continental Humid
+54079,6,Temperate Continental Humid
+54081,6,Temperate Continental Humid
+54083,10,Cold Maritime / Pacific Northwest
+54085,6,Temperate Continental Humid
+54087,6,Temperate Continental Humid
+54089,6,Temperate Continental Humid
+54091,6,Temperate Continental Humid
+54093,10,Cold Maritime / Pacific Northwest
+54095,6,Temperate Continental Humid
+54097,6,Temperate Continental Humid
+54099,6,Temperate Continental Humid
+54101,6,Temperate Continental Humid
+54103,6,Temperate Continental Humid
+54105,6,Temperate Continental Humid
+54107,6,Temperate Continental Humid
+54109,6,Temperate Continental Humid
+55001,10,Cold Maritime / Pacific Northwest
+55003,10,Cold Maritime / Pacific Northwest
+55005,10,Cold Maritime / Pacific Northwest
+55007,10,Cold Maritime / Pacific Northwest
+55009,10,Cold Maritime / Pacific Northwest
+55011,10,Cold Maritime / Pacific Northwest
+55013,10,Cold Maritime / Pacific Northwest
+55015,10,Cold Maritime / Pacific Northwest
+55017,10,Cold Maritime / Pacific Northwest
+55019,10,Cold Maritime / Pacific Northwest
+55021,10,Cold Maritime / Pacific Northwest
+55023,10,Cold Maritime / Pacific Northwest
+55025,10,Cold Maritime / Pacific Northwest
+55027,10,Cold Maritime / Pacific Northwest
+55029,10,Cold Maritime / Pacific Northwest
+55031,10,Cold Maritime / Pacific Northwest
+55033,10,Cold Maritime / Pacific Northwest
+55035,10,Cold Maritime / Pacific Northwest
+55037,10,Cold Maritime / Pacific Northwest
+55039,10,Cold Maritime / Pacific Northwest
+55041,10,Cold Maritime / Pacific Northwest
+55043,10,Cold Maritime / Pacific Northwest
+55045,10,Cold Maritime / Pacific Northwest
+55047,10,Cold Maritime / Pacific Northwest
+55049,10,Cold Maritime / Pacific Northwest
+55051,10,Cold Maritime / Pacific Northwest
+55053,10,Cold Maritime / Pacific Northwest
+55055,10,Cold Maritime / Pacific Northwest
+55057,10,Cold Maritime / Pacific Northwest
+55059,10,Cold Maritime / Pacific Northwest
+55061,10,Cold Maritime / Pacific Northwest
+55063,10,Cold Maritime / Pacific Northwest
+55065,10,Cold Maritime / Pacific Northwest
+55067,10,Cold Maritime / Pacific Northwest
+55069,10,Cold Maritime / Pacific Northwest
+55071,10,Cold Maritime / Pacific Northwest
+55073,10,Cold Maritime / Pacific Northwest
+55075,10,Cold Maritime / Pacific Northwest
+55077,10,Cold Maritime / Pacific Northwest
+55078,10,Cold Maritime / Pacific Northwest
+55079,10,Cold Maritime / Pacific Northwest
+55081,10,Cold Maritime / Pacific Northwest
+55083,10,Cold Maritime / Pacific Northwest
+55085,10,Cold Maritime / Pacific Northwest
+55087,10,Cold Maritime / Pacific Northwest
+55089,10,Cold Maritime / Pacific Northwest
+55091,10,Cold Maritime / Pacific Northwest
+55093,10,Cold Maritime / Pacific Northwest
+55095,10,Cold Maritime / Pacific Northwest
+55097,10,Cold Maritime / Pacific Northwest
+55099,10,Cold Maritime / Pacific Northwest
+55101,10,Cold Maritime / Pacific Northwest
+55103,10,Cold Maritime / Pacific Northwest
+55105,10,Cold Maritime / Pacific Northwest
+55107,10,Cold Maritime / Pacific Northwest
+55109,10,Cold Maritime / Pacific Northwest
+55111,10,Cold Maritime / Pacific Northwest
+55113,10,Cold Maritime / Pacific Northwest
+55115,10,Cold Maritime / Pacific Northwest
+55117,10,Cold Maritime / Pacific Northwest
+55119,10,Cold Maritime / Pacific Northwest
+55121,10,Cold Maritime / Pacific Northwest
+55123,10,Cold Maritime / Pacific Northwest
+55125,10,Cold Maritime / Pacific Northwest
+55127,10,Cold Maritime / Pacific Northwest
+55129,10,Cold Maritime / Pacific Northwest
+55131,10,Cold Maritime / Pacific Northwest
+55133,10,Cold Maritime / Pacific Northwest
+55135,10,Cold Maritime / Pacific Northwest
+55137,10,Cold Maritime / Pacific Northwest
+55139,10,Cold Maritime / Pacific Northwest
+55141,10,Cold Maritime / Pacific Northwest
+56001,11,Subarctic Mountain
+56003,8,Semiarid Cold
+56005,8,Semiarid Cold
+56007,11,Subarctic Mountain
+56009,8,Semiarid Cold
+56011,9,Cold Continental / Great Lakes
+56013,8,Semiarid Cold
+56015,5,Semiarid Continental
+56017,8,Semiarid Cold
+56019,11,Subarctic Mountain
+56021,5,Semiarid Continental
+56023,11,Subarctic Mountain
+56025,8,Semiarid Cold
+56027,8,Semiarid Cold
+56029,11,Subarctic Mountain
+56031,5,Semiarid Continental
+56033,8,Semiarid Cold
+56035,11,Subarctic Mountain
+56037,11,Subarctic Mountain
+56039,11,Subarctic Mountain
+56041,11,Subarctic Mountain
+56043,8,Semiarid Cold
+56045,9,Cold Continental / Great Lakes
+72001,0,Tropical Humid
+72003,0,Tropical Humid
+72005,0,Tropical Humid
+72007,0,Tropical Humid
+72009,0,Tropical Humid
+72011,0,Tropical Humid
+72013,0,Tropical Humid
+72015,0,Tropical Humid
+72017,0,Tropical Humid
+72019,0,Tropical Humid
+72021,0,Tropical Humid
+72023,0,Tropical Humid
+72025,0,Tropical Humid
+72027,0,Tropical Humid
+72029,0,Tropical Humid
+72031,0,Tropical Humid
+72033,0,Tropical Humid
+72035,0,Tropical Humid
+72037,0,Tropical Humid
+72039,0,Tropical Humid
+72041,0,Tropical Humid
+72043,0,Tropical Humid
+72045,0,Tropical Humid
+72047,0,Tropical Humid
+72049,0,Tropical Humid
+72051,0,Tropical Humid
+72053,0,Tropical Humid
+72054,0,Tropical Humid
+72055,0,Tropical Humid
+72057,0,Tropical Humid
+72059,0,Tropical Humid
+72061,0,Tropical Humid
+72063,0,Tropical Humid
+72065,0,Tropical Humid
+72067,0,Tropical Humid
+72069,0,Tropical Humid
+72071,0,Tropical Humid
+72073,0,Tropical Humid
+72075,0,Tropical Humid
+72077,0,Tropical Humid
+72079,0,Tropical Humid
+72081,0,Tropical Humid
+72083,0,Tropical Humid
+72085,0,Tropical Humid
+72087,0,Tropical Humid
+72089,0,Tropical Humid
+72091,0,Tropical Humid
+72093,0,Tropical Humid
+72095,0,Tropical Humid
+72097,0,Tropical Humid
+72099,0,Tropical Humid
+72101,0,Tropical Humid
+72103,0,Tropical Humid
+72105,0,Tropical Humid
+72107,0,Tropical Humid
+72109,0,Tropical Humid
+72111,0,Tropical Humid
+72113,0,Tropical Humid
+72115,0,Tropical Humid
+72117,0,Tropical Humid
+72119,0,Tropical Humid
+72121,0,Tropical Humid
+72123,0,Tropical Humid
+72125,0,Tropical Humid
+72127,0,Tropical Humid
+72129,0,Tropical Humid
+72131,0,Tropical Humid
+72133,0,Tropical Humid
+72135,0,Tropical Humid
+72137,0,Tropical Humid
+72139,0,Tropical Humid
+72141,0,Tropical Humid
+72143,0,Tropical Humid
+72145,0,Tropical Humid
+72147,0,Tropical Humid
+72149,0,Tropical Humid
+72151,0,Tropical Humid
+72153,0,Tropical Humid
