@@ -177,4 +177,18 @@ cython_debug/
 assets/*
 
 # Ignore data
-!data/.gitkeep
+
+# Data files
+data/raw/
+data/processed/
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Generated results
+results/
+*.html
+
+# OS / editor
+.DS_Store
+Thumbs.db

@@ -6,5 +6,8 @@ scikit-learn
 shapely
 geopandas
 contextily
-sqlalchemy
-pymysql
+folium
+seaborn
+plotly
+scikit-learn
+tensorflow
