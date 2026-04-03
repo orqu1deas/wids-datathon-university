@@ -183,8 +183,8 @@ data/*.xlsx
 data/*.parquet
 
 # Generated results
-results/
-*.html
+results/*.html
+results/**/*.html
 
 # OS / editor
 .DS_Store
