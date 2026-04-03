@@ -18,7 +18,7 @@ This project was developed under **Track 2: Designing for Economic Resilience**,
 
 ## Project Title & Team Info
 
-**Project Title**: _Your Title Here_  
+**Project Title**: _Hybrid RAG + Enhanced Vulnerability Index for Wildfire Economic Resilience_  
 **Team Name**: _SOLARA_  
 **University**: _Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM)_  
 **Course**: _Data Science & Mathematics_  
