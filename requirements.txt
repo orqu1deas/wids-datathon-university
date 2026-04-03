@@ -2,3 +2,9 @@ pandas
 numpy
 matplotlib
 scikit-learn
+
+shapely
+geopandas
+contextily
+sqlalchemy
+pymysql
