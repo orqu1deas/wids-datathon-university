@@ -10,6 +10,10 @@
 
 This project was developed under **Track 2: Designing for Economic Resilience**, which focuses on understanding and mitigating the economic consequences of wildfires. In particular, the objective is to support decision-making processes that contribute to preserving workdays, protecting wages, and improving the targeting of economic safety nets for vulnerable communities.
 
+<p align="center">
+  <img src="assets/GIF.gif" alt="SOLARA Demo" width="900"/>
+</p>
+
 ---
 
 ## Project Title & Team Info
