@@ -73,11 +73,11 @@ Finally, a Hybrid RAG system was implemented to bridge structured and unstructur
 
 ## Results
 
-Report your final results and key insights:
+The resulting system enables a multidimensional understanding of wildfire impact. Rather than focusing exclusively on hazard prediction, it provides insights into which communities are most economically vulnerable and why.
 
-- Metrics: Precision, Recall, ROC AUC, RMSE, etc.
-- Key findings or visualizations (include in slides)
-- Any limitations or ethical considerations
+Through clustering and index development, the system identifies distinct vulnerability profiles across counties. The integration of the Hybrid RAG component allows users to query both data-driven insights and policy-relevant information in a unified interface.
+
+This approach supports a shift from reactive wildfire response toward proactive, data-informed economic resilience strategies.
 
 ---
 
